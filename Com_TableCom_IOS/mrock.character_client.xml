@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CharacterConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>644 </Unit>
+        <Count>17 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7bef6480111f6179189b73fb6d6d0cd0</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<CharacterConfig_Client version="1">
+    <m_usID>0 </m_usID>
+    <m_usIconID>0 </m_usIconID>
+    <m_szDesc>0说明</m_szDesc>
+    <m_szNoteDesc>0Note说明</m_szNoteDesc>
+    <m_szNoteStyle1>0Note样式1</m_szNoteStyle1>
+    <m_szNoteStyle2>0Note样式2</m_szNoteStyle2>
+    <m_szNoteStyle3>0Note样式3</m_szNoteStyle3>
+    <m_szGameSpeaking>开场文字</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1001 </m_usID>
+    <m_usIconID>1001 </m_usIconID>
+    <m_szDesc>又萌又阔耐的小师妹，天生抵消Miss判定</m_szDesc>
+    <m_szNoteDesc>使用默认打歌面板</m_szNoteDesc>
+    <m_szNoteStyle1></m_szNoteStyle1>
+    <m_szNoteStyle2></m_szNoteStyle2>
+    <m_szNoteStyle3></m_szNoteStyle3>
+    <m_szGameSpeaking>激萌小师妹为你加油哦</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1002 </m_usID>
+    <m_usIconID>1002 </m_usIconID>
+    <m_szDesc>傲娇女王，能够自动复活哦</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 甜蜜桃心</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-82</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-62</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-72</m_szNoteStyle3>
+    <m_szGameSpeaking>信我满血满状态复活</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1003 </m_usID>
+    <m_usIconID>1003 </m_usIconID>
+    <m_szDesc>会唱小星星的全能明星，对战中获得的奖励积分增加</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 星语心愿</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-84</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-64</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-74</m_szNoteStyle3>
+    <m_szGameSpeaking>天外来客都教授出现啦</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1004 </m_usID>
+    <m_usIconID>1004 </m_usIconID>
+    <m_szDesc>天神宠儿，能抵消Miss和Great判定，还能补充遗漏判定</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 魔法世界</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-85</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-65</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-75</m_szNoteStyle3>
+    <m_szGameSpeaking>有了我，SSS不是梦想</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1005 </m_usID>
+    <m_usIconID>1005 </m_usIconID>
+    <m_szDesc>冰雪女皇，能够补充遗漏判定，满血复活</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 爱琴王国</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-83</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-63</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-73</m_szNoteStyle3>
+    <m_szGameSpeaking>女王的光辉照耀着你</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1006 </m_usID>
+    <m_usIconID>1006 </m_usIconID>
+    <m_szDesc>魔乐王子，抵消Miss、Great和遗漏判定，对战积分加成</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 魔灵之翼</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-86</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-66</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-76</m_szNoteStyle3>
+    <m_szGameSpeaking>进退自如，难歌都不怕</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1007 </m_usID>
+    <m_usIconID>1007 </m_usIconID>
+    <m_szDesc>弹钢琴的正太王子，抵消Miss和Great，补齐Miss长条</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 钢琴之心</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-87</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-67</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-77</m_szNoteStyle3>
+    <m_szGameSpeaking>攻守有据，全无死角</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1008 </m_usID>
+    <m_usIconID>1008 </m_usIconID>
+    <m_szDesc>仙子落凡尘，抵消Miss、Great，满血复活</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 鹊之心</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-88</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-68</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-78</m_szNoteStyle3>
+    <m_szGameSpeaking>星桥鹊驾，经年才见</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1009 </m_usID>
+    <m_usIconID>1009 </m_usIconID>
+    <m_szDesc>加勒比超新星，抵消Miss、Great和遗漏判定</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 黑珍珠号</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-89</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-69</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-79</m_szNoteStyle3>
+    <m_szGameSpeaking>我为自由而战，你呢</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1010 </m_usID>
+    <m_usIconID>1010 </m_usIconID>
+    <m_szDesc>天之娇女，防漏键补长条消除Great样样精通</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 刺金贵胄</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-31</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-11</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-21</m_szNoteStyle3>
+    <m_szGameSpeaking>我的信条是极致完美</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1011 </m_usID>
+    <m_usIconID>1011 </m_usIconID>
+    <m_szDesc>夜幕之贵族，抵消Miss、Great和遗漏判定，满血复活</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 该隐迷雾</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-32</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-12</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-22</m_szNoteStyle3>
+    <m_szGameSpeaking>永夜将至，王者降临</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1012 </m_usID>
+    <m_usIconID>1012 </m_usIconID>
+    <m_szDesc>圣诞专享，抵消Miss、Great和遗漏判定，最高等级120</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 圣诞精灵</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-33</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-13</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-23</m_szNoteStyle3>
+    <m_szGameSpeaking>大师姐圣诞来送礼</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1013 </m_usID>
+    <m_usIconID>1013 </m_usIconID>
+    <m_szDesc>120级迎春吉祥物，抵消Miss和Great，补齐Miss长条</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 吉祥如意</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-34</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-14</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-24</m_szNoteStyle3>
+    <m_szGameSpeaking>史上最强，为你而战</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1014 </m_usID>
+    <m_usIconID>1014 </m_usIconID>
+    <m_szDesc>又萌又阔耐的羊年限定小师弟，天生抵消Miss判定</m_szDesc>
+    <m_szNoteDesc>使用默认打歌面板</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-81</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-61</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-71</m_szNoteStyle3>
+    <m_szGameSpeaking>激萌小师弟为你加油</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1015 </m_usID>
+    <m_usIconID>1015 </m_usIconID>
+    <m_szDesc>端午节专享，抵消Miss、遗漏判定和补齐Miss长条</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 龙舟竞渡</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-35</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-15</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-25</m_szNoteStyle3>
+    <m_szGameSpeaking>萌萌哒船长来啦</m_szGameSpeaking>
+</CharacterConfig_Client>
+<CharacterConfig_Client version="1">
+    <m_usID>1016 </m_usID>
+    <m_usIconID>1016 </m_usIconID>
+    <m_szDesc>电子音乐界的女王，抵消Miss、补齐Miss长条和积分加成</m_szDesc>
+    <m_szNoteDesc>赠送打歌面板 电音时刻</m_szNoteDesc>
+    <m_szNoteStyle1>PadUI-36</m_szNoteStyle1>
+    <m_szNoteStyle2>PadUI-16</m_szNoteStyle2>
+    <m_szNoteStyle3>PadUI-26</m_szNoteStyle3>
+    <m_szGameSpeaking>让我们High爆全场</m_szGameSpeaking>
+</CharacterConfig_Client>
+</CharacterConfig_Client_Tab>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SongPkgConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>808 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>58ca4fbb02b3ae42b86d19bd4bece162</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<SongPkgConfig_Client version="1">
+    <m_ushIndex>1 </m_ushIndex>
+    <m_szProductID>com.tencent.game.rhythmmaster.songpack001</m_szProductID>
+    <m_szDesc>经典动漫音乐包</m_szDesc>
+    <m_szPath>songpkg001</m_szPath>
+    <m_iAndroidPrice>6 </m_iAndroidPrice>
+    <m_iPrice>6 </m_iPrice>
+    <m_iEnable>0 </m_iEnable>
+    <m_bIsNew>0x1 </m_bIsNew>
+    <m_bIsHot>0x0 </m_bIsHot>
+    <m_iNum>3 </m_iNum>
+    <m_astSongs type="PkgSong">
+        <ID>158 </ID>
+    </m_astSongs>
+    <m_astSongs type="PkgSong">
+        <ID>163 </ID>
+    </m_astSongs>
+    <m_astSongs type="PkgSong">
+        <ID>168 </ID>
+    </m_astSongs>
+</SongPkgConfig_Client>
+</SongPkgConfig_Client_Tab>

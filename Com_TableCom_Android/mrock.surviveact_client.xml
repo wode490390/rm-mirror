@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SurviveActConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>263 </Unit>
+        <Count>17 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>240a6431e75f560f46249df0d66a177a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<SurviveActConfig_Client version="1">
+    <m_iID>0 </m_iID>
+    <m_ushSongID>0 </m_ushSongID>
+    <m_ucNoteType>0x0 </m_ucNoteType>
+    <m_szOpenTimeDesc>0时间描述</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>130 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：5月13日~5月15日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>131 </m_iID>
+    <m_ushSongID>289 </m_ushSongID>
+    <m_ucNoteType>0x8 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：5月20日~5月22日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>132 </m_iID>
+    <m_ushSongID>329 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：5月27日~5月29日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>133 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：6月3日~6月5日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>134 </m_iID>
+    <m_ushSongID>289 </m_ushSongID>
+    <m_ucNoteType>0x8 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：6月10日~6月12日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>135 </m_iID>
+    <m_ushSongID>329 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：6月17日~6月19日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>136 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：6月24日~6月26日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>137 </m_iID>
+    <m_ushSongID>289 </m_ushSongID>
+    <m_ucNoteType>0x8 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：7月1日~7月3日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>138 </m_iID>
+    <m_ushSongID>329 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：7月8日~7月10日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>139 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：7月15日~7月17日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>140 </m_iID>
+    <m_ushSongID>289 </m_ushSongID>
+    <m_ucNoteType>0x8 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：7月22日~7月24日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>141 </m_iID>
+    <m_ushSongID>329 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：7月29日~7月31日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>142 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：8月5日~8月7日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>143 </m_iID>
+    <m_ushSongID>289 </m_ushSongID>
+    <m_ucNoteType>0x8 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：8月12日~8月14日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>144 </m_iID>
+    <m_ushSongID>329 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：8月19日~8月21日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+<SurviveActConfig_Client version="1">
+    <m_iID>145 </m_iID>
+    <m_ushSongID>280 </m_ushSongID>
+    <m_ucNoteType>0x3 </m_ucNoteType>
+    <m_szOpenTimeDesc>时间：8月26日~8月28日 全天开放</m_szOpenTimeDesc>
+</SurviveActConfig_Client>
+</SurviveActConfig_Client_Tab>

@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MarketActConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>152 </Unit>
+        <Count>80 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>2084e280eb17d01bf21154934f3b04eb</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>0 </m_ushMarketActID>
+    <m_szDescription>0运营活动描述</m_szDescription>
+    <m_ucRewardNumber>0x0 </m_ucRewardNumber>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>88 </m_ushMarketActID>
+    <m_szDescription>沃卡用户奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>500 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>5 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>89 </m_ushMarketActID>
+    <m_szDescription>三星用户首次登录豪华礼包1</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>160 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>800 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>90 </m_ushMarketActID>
+    <m_szDescription>三星用户首次登录豪华礼包2</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>406 </m_ushRewardID>
+        <m_iRewardValue>406 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>403 </m_ushRewardID>
+        <m_iRewardValue>403 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>999 </m_ushMarketActID>
+    <m_szDescription>更新版本送奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>68 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1000 </m_ushMarketActID>
+    <m_szDescription>更新版本送奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>68 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1001 </m_ushMarketActID>
+    <m_szDescription>更新版本送奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>68 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1002 </m_ushMarketActID>
+    <m_szDescription>更新版本送奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>68 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1003 </m_ushMarketActID>
+    <m_szDescription>更新版本送奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>88 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1535 </m_ushMarketActID>
+    <m_szDescription>11月5日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>404 </m_ushRewardID>
+        <m_iRewardValue>404 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1536 </m_ushMarketActID>
+    <m_szDescription>11月6日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1537 </m_ushMarketActID>
+    <m_szDescription>11月7日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>11004 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1538 </m_ushMarketActID>
+    <m_szDescription>完成任意3首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>5 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1539 </m_ushMarketActID>
+    <m_szDescription>完成任意5首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1540 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关3首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1541 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关8首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1542 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关15首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1543 </m_ushMarketActID>
+    <m_szDescription>11月11日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>111 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>403 </m_ushRewardID>
+        <m_iRewardValue>403 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1544 </m_ushMarketActID>
+    <m_szDescription>11月12日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1545 </m_ushMarketActID>
+    <m_szDescription>11月13日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>10501 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1546 </m_ushMarketActID>
+    <m_szDescription>累计闯过1关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>3 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1547 </m_ushMarketActID>
+    <m_szDescription>累计闯过3关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>128 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1548 </m_ushMarketActID>
+    <m_szDescription>累计闯过5关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1549 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第6关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1550 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第12关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1551 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第20关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1552 </m_ushMarketActID>
+    <m_szDescription>PK任意房间参与3次获赠</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>222 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1553 </m_ushMarketActID>
+    <m_szDescription>PK任意房间胜利3次获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1554 </m_ushMarketActID>
+    <m_szDescription>11月18日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1555 </m_ushMarketActID>
+    <m_szDescription>11月19日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1556 </m_ushMarketActID>
+    <m_szDescription>11月20日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>11003 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1557 </m_ushMarketActID>
+    <m_szDescription>完成任意3首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>5 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1558 </m_ushMarketActID>
+    <m_szDescription>完成任意5首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1559 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关3首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1560 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关8首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>403 </m_ushRewardID>
+        <m_iRewardValue>403 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1561 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关15首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1562 </m_ushMarketActID>
+    <m_szDescription>11月25日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>88 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1563 </m_ushMarketActID>
+    <m_szDescription>11月26日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1564 </m_ushMarketActID>
+    <m_szDescription>11月27日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>10601 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1565 </m_ushMarketActID>
+    <m_szDescription>累计闯过1关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>3 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1566 </m_ushMarketActID>
+    <m_szDescription>累计闯过3关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>128 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1567 </m_ushMarketActID>
+    <m_szDescription>累计闯过5关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1568 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第6关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1569 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第12关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>8 </m_ushRewardID>
+        <m_iRewardValue>8 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1570 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第20关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1571 </m_ushMarketActID>
+    <m_szDescription>PK任意房间参与3次获赠</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>222 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1572 </m_ushMarketActID>
+    <m_szDescription>PK任意房间胜利3次获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1573 </m_ushMarketActID>
+    <m_szDescription>12月2日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1574 </m_ushMarketActID>
+    <m_szDescription>12月3日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1575 </m_ushMarketActID>
+    <m_szDescription>12月4日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>11004 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1576 </m_ushMarketActID>
+    <m_szDescription>完成任意3首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>5 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1577 </m_ushMarketActID>
+    <m_szDescription>完成任意5首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1578 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关3首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1579 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关8首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>402 </m_ushRewardID>
+        <m_iRewardValue>402 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1580 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关15首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1581 </m_ushMarketActID>
+    <m_szDescription>12月9日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1582 </m_ushMarketActID>
+    <m_szDescription>12月10日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1583 </m_ushMarketActID>
+    <m_szDescription>12月11日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>10701 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1584 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关3首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1585 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关8首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>402 </m_ushRewardID>
+        <m_iRewardValue>402 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1586 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关15首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1587 </m_ushMarketActID>
+    <m_szDescription>12月16日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>88 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1588 </m_ushMarketActID>
+    <m_szDescription>12月17日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1589 </m_ushMarketActID>
+    <m_szDescription>12月18日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>11011 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1590 </m_ushMarketActID>
+    <m_szDescription>12月23日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1591 </m_ushMarketActID>
+    <m_szDescription>12月24日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1592 </m_ushMarketActID>
+    <m_szDescription>12月25日登录活动奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xa </m_ucRewardType>
+        <m_ushRewardID>11201 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1593 </m_ushMarketActID>
+    <m_szDescription>累计闯过1关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>3 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>8 </m_ushRewardID>
+        <m_iRewardValue>8 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1594 </m_ushMarketActID>
+    <m_szDescription>累计闯过3关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>128 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1595 </m_ushMarketActID>
+    <m_szDescription>累计闯过5关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>2 </m_ushRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1596 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第6关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1597 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第12关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>1 </m_ushRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1598 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关完成第20关获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1599 </m_ushMarketActID>
+    <m_szDescription>PK任意房间参与3次获赠</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>222 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1600 </m_ushMarketActID>
+    <m_szDescription>PK任意房间胜利3次获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1601 </m_ushMarketActID>
+    <m_szDescription>完成任意3首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>6 </m_ushRewardID>
+        <m_iRewardValue>6 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x2 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>5 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1602 </m_ushMarketActID>
+    <m_szDescription>完成任意5首歌曲获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>188 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1603 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关3首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>10 </m_ushRewardID>
+        <m_iRewardValue>10 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1604 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关8首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_ushRewardID>402 </m_ushRewardID>
+        <m_iRewardValue>402 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>1605 </m_ushMarketActID>
+    <m_szDescription>好友齐闯关15首歌达到A获赠奖励</m_szDescription>
+    <m_ucRewardNumber>0x1 </m_ucRewardNumber>
+    <m_astReward type="MarketActReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_ushRewardID>0 </m_ushRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</MarketActConfig_Client>
+</MarketActConfig_Client_Tab>

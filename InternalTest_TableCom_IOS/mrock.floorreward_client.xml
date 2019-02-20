@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<FloorRewardConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>9 </Unit>
+        <Count>15 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>aac4518711634be7581e9eafb65264cf</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>1 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>10 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>2 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>20 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>3 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>30 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>4 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>50 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>5 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>100 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>6 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>200 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>7 </m_iRewardID>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardValue>500 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>8 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>2 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>9 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>3 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>10 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>5 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>11 </m_iRewardID>
+    <m_ucRewardType>0x3 </m_ucRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>12 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>8 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>13 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>10 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>14 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>20 </m_iRewardValue>
+</FloorRewardConfig_Client>
+<FloorRewardConfig_Client version="1">
+    <m_iRewardID>15 </m_iRewardID>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_iRewardValue>4 </m_iRewardValue>
+</FloorRewardConfig_Client>
+</FloorRewardConfig_Client_Tab>

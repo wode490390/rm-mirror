@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<TimeLimitCharacterConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>284 </Unit>
+        <Count>19 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>682992e76027bd05d0a9955041339e6a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>0 </m_ushID>
+    <m_ushCharacterID>0 </m_ushCharacterID>
+    <m_ushInitLevel>0 </m_ushInitLevel>
+    <m_szName>0限时角色名称</m_szName>
+    <m_szDesc>0描述</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>10501 </m_ushID>
+    <m_ushCharacterID>1005 </m_ushCharacterID>
+    <m_ushInitLevel>80 </m_ushInitLevel>
+    <m_szName>爱琴女王</m_szName>
+    <m_szDesc>冰雪女皇，能够补充遗漏判定，满血复活</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>10601 </m_ushID>
+    <m_ushCharacterID>1006 </m_ushCharacterID>
+    <m_ushInitLevel>80 </m_ushInitLevel>
+    <m_szName>暗夜王子</m_szName>
+    <m_szDesc>魔乐王子，抵消Miss、Great和遗漏判定，对战积分加成</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>10701 </m_ushID>
+    <m_ushCharacterID>1007 </m_ushCharacterID>
+    <m_ushInitLevel>100 </m_ushInitLevel>
+    <m_szName>钢琴王子</m_szName>
+    <m_szDesc>弹钢琴的正太王子，抵消Miss和Great，补齐Miss长条</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>10801 </m_ushID>
+    <m_ushCharacterID>1008 </m_ushCharacterID>
+    <m_ushInitLevel>80 </m_ushInitLevel>
+    <m_szName>鹊桥仙子</m_szName>
+    <m_szDesc>仙子落凡尘，抵消Miss、Great，满血复活</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>10901 </m_ushID>
+    <m_ushCharacterID>1009 </m_ushCharacterID>
+    <m_ushInitLevel>100 </m_ushInitLevel>
+    <m_szName>魔音海盗</m_szName>
+    <m_szDesc>加勒比超新星，抵消Miss、Great和遗漏判定</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11001 </m_ushID>
+    <m_ushCharacterID>1001 </m_ushCharacterID>
+    <m_ushInitLevel>5 </m_ushInitLevel>
+    <m_szName>小师妹（限）</m_szName>
+    <m_szDesc>又萌又阔耐的小师妹，天生抵消Miss判定</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11002 </m_ushID>
+    <m_ushCharacterID>1002 </m_ushCharacterID>
+    <m_ushInitLevel>80 </m_ushInitLevel>
+    <m_szName>喵美眉（限）</m_szName>
+    <m_szDesc>傲娇女王，能够自动复活哦</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11003 </m_ushID>
+    <m_ushCharacterID>1003 </m_ushCharacterID>
+    <m_ushInitLevel>30 </m_ushInitLevel>
+    <m_szName>都教授（限）</m_szName>
+    <m_szDesc>会唱小星星的全能明星，对战中获得的奖励积分增加</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11004 </m_ushID>
+    <m_ushCharacterID>1004 </m_ushCharacterID>
+    <m_ushInitLevel>30 </m_ushInitLevel>
+    <m_szName>魔乐师（限）</m_szName>
+    <m_szDesc>天神宠儿，能抵消Miss和Great判定，还能补充遗漏判定</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11005 </m_ushID>
+    <m_ushCharacterID>1003 </m_ushCharacterID>
+    <m_ushInitLevel>100 </m_ushInitLevel>
+    <m_szName>都教授（限）</m_szName>
+    <m_szDesc>会唱小星星的全能明星，对战中获得的奖励积分增加</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11006 </m_ushID>
+    <m_ushCharacterID>1004 </m_ushCharacterID>
+    <m_ushInitLevel>100 </m_ushInitLevel>
+    <m_szName>魔乐师（限）</m_szName>
+    <m_szDesc>天神宠儿，能抵消Miss和Great判定，还能补充遗漏判定</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11011 </m_ushID>
+    <m_ushCharacterID>1010 </m_ushCharacterID>
+    <m_ushInitLevel>90 </m_ushInitLevel>
+    <m_szName>大小姐</m_szName>
+    <m_szDesc>天之娇女，防漏键补长条消除Great样样精通</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11101 </m_ushID>
+    <m_ushCharacterID>1011 </m_ushCharacterID>
+    <m_ushInitLevel>100 </m_ushInitLevel>
+    <m_szName>暮光伯爵</m_szName>
+    <m_szDesc>夜幕之贵族，抵消Miss、Great和遗漏判定，满血复活</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11201 </m_ushID>
+    <m_ushCharacterID>1012 </m_ushCharacterID>
+    <m_ushInitLevel>120 </m_ushInitLevel>
+    <m_szName>圣诞大师姐</m_szName>
+    <m_szDesc>圣诞专享，抵消Miss、Great和遗漏判定，最高等级120</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11301 </m_ushID>
+    <m_ushCharacterID>1013 </m_ushCharacterID>
+    <m_ushInitLevel>120 </m_ushInitLevel>
+    <m_szName>吉娃娃</m_szName>
+    <m_szDesc>120级迎春吉祥物，抵消Miss和Great，补齐Miss长条</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11401 </m_ushID>
+    <m_ushCharacterID>1014 </m_ushCharacterID>
+    <m_ushInitLevel>50 </m_ushInitLevel>
+    <m_szName>小师弟</m_szName>
+    <m_szDesc>又萌又阔耐的羊年限定小师弟，天生抵消Miss判定</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11501 </m_ushID>
+    <m_ushCharacterID>1015 </m_ushCharacterID>
+    <m_ushInitLevel>120 </m_ushInitLevel>
+    <m_szName>糯米船长</m_szName>
+    <m_szDesc>端午节专享，抵消Miss、遗漏判定和补齐Miss长条</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+<TimeLimitCharacterConfig_Client version="1">
+    <m_ushID>11601 </m_ushID>
+    <m_ushCharacterID>1016 </m_ushCharacterID>
+    <m_ushInitLevel>120 </m_ushInitLevel>
+    <m_szName>电音女王</m_szName>
+    <m_szDesc>电子音乐界的女王，抵消Miss、补齐Miss长条和积分加成</m_szDesc>
+</TimeLimitCharacterConfig_Client>
+</TimeLimitCharacterConfig_Client_Tab>

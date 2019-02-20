@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MatchDivisionConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>260 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e81202046f672e2cf95a28c464fc5175</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>36 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>东北大区</m_szFilter1>
+    <m_szFilter2>沈阳</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>37 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>东北大区</m_szFilter1>
+    <m_szFilter2>长春</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>38 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>东北大区</m_szFilter1>
+    <m_szFilter2>鸡西</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>39 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华北大区</m_szFilter1>
+    <m_szFilter2>帝都</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>40 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华北大区</m_szFilter1>
+    <m_szFilter2>大同</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>41 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华北大区</m_szFilter1>
+    <m_szFilter2>天津</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>42 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华东大区</m_szFilter1>
+    <m_szFilter2>上海</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>43 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华东大区</m_szFilter1>
+    <m_szFilter2>烟台</m_szFilter2>
+</MatchDivisionConfig_Client>
+<MatchDivisionConfig_Client version="1">
+    <m_iMatchID>44 </m_iMatchID>
+    <m_szFilterSort1>地区</m_szFilterSort1>
+    <m_szFilterSort2>城市</m_szFilterSort2>
+    <m_szFilter1>华东大区</m_szFilter1>
+    <m_szFilter2>台北</m_szFilter2>
+</MatchDivisionConfig_Client>
+</MatchDivisionConfig_Client_Tab>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<StarMallExchangeConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>93 </Unit>
+        <Count>25 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a5960ff5dbaff3c24f994635cee4f2a6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>0 </m_iMallIndex>
+    <m_iMallActivityID>0 </m_iMallActivityID>
+    <m_iExchangeID>0 </m_iExchangeID>
+    <m_ucItemType>0x0 </m_ucItemType>
+    <m_iItemID>0 </m_iItemID>
+    <m_szItemName>0物品名</m_szItemName>
+    <m_iItemValue>0 </m_iItemValue>
+    <m_iStarCost>0 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>1 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0xa </m_ucItemType>
+    <m_iItemID>10801 </m_iItemID>
+    <m_szItemName>鹊桥仙子（限）</m_szItemName>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_iStarCost>700 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>2 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>2 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>391 </m_iItemID>
+    <m_szItemName>《First Love》</m_szItemName>
+    <m_iItemValue>391 </m_iItemValue>
+    <m_iStarCost>480 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>3 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>3 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>404 </m_iItemID>
+    <m_szItemName>88金币入场券</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>100 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>4 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>4 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>402 </m_iItemID>
+    <m_szItemName>积分抽奖</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>240 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>5 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>5 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>403 </m_iItemID>
+    <m_szItemName>免费跳关</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>120 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>6 </m_iMallIndex>
+    <m_iMallActivityID>10610 </m_iMallActivityID>
+    <m_iExchangeID>6 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>414 </m_iItemID>
+    <m_szItemName>旋转音符</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>200 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>7 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0xa </m_ucItemType>
+    <m_iItemID>11601 </m_iItemID>
+    <m_szItemName>电音女王（限）</m_szItemName>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_iStarCost>700 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>8 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>2 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>503 </m_iItemID>
+    <m_szItemName>《Do You Love Me》</m_szItemName>
+    <m_iItemValue>503 </m_iItemValue>
+    <m_iStarCost>480 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>9 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>3 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>404 </m_iItemID>
+    <m_szItemName>88金币入场券</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>100 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>10 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>4 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>402 </m_iItemID>
+    <m_szItemName>积分抽奖</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>240 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>11 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>5 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>403 </m_iItemID>
+    <m_szItemName>免费跳关</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>120 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>12 </m_iMallIndex>
+    <m_iMallActivityID>10611 </m_iMallActivityID>
+    <m_iExchangeID>6 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>414 </m_iItemID>
+    <m_szItemName>旋转音符</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>200 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>13 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0xa </m_ucItemType>
+    <m_iItemID>11101 </m_iItemID>
+    <m_szItemName>暮光伯爵（限）</m_szItemName>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_iStarCost>300 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>14 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>2 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>496 </m_iItemID>
+    <m_szItemName>《Black Swallowtail》</m_szItemName>
+    <m_iItemValue>496 </m_iItemValue>
+    <m_iStarCost>480 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>15 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>3 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>404 </m_iItemID>
+    <m_szItemName>88金币入场券</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>100 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>16 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>4 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>402 </m_iItemID>
+    <m_szItemName>积分抽奖</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>240 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>17 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>5 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>403 </m_iItemID>
+    <m_szItemName>免费跳关</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>120 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>18 </m_iMallIndex>
+    <m_iMallActivityID>10612 </m_iMallActivityID>
+    <m_iExchangeID>6 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>414 </m_iItemID>
+    <m_szItemName>旋转音符</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>200 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>19 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0xa </m_ucItemType>
+    <m_iItemID>10701 </m_iItemID>
+    <m_szItemName>钢琴王子（限）</m_szItemName>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_iStarCost>700 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>20 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>2 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>502 </m_iItemID>
+    <m_szItemName>《Ohrival》</m_szItemName>
+    <m_iItemValue>502 </m_iItemValue>
+    <m_iStarCost>480 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>21 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>3 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>404 </m_iItemID>
+    <m_szItemName>88金币入场券</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>100 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>22 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>4 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>402 </m_iItemID>
+    <m_szItemName>积分抽奖</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>240 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>23 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>5 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>403 </m_iItemID>
+    <m_szItemName>免费跳关</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>120 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+<StarMallExchangeConfig_Client version="1">
+    <m_iMallIndex>24 </m_iMallIndex>
+    <m_iMallActivityID>10613 </m_iMallActivityID>
+    <m_iExchangeID>6 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>414 </m_iItemID>
+    <m_szItemName>旋转音符</m_szItemName>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iStarCost>200 </m_iStarCost>
+    <m_iVersion>0 </m_iVersion>
+</StarMallExchangeConfig_Client>
+</StarMallExchangeConfig_Client_Tab>

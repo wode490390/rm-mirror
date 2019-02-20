@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<TxtConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>260 </Unit>
+        <Count>377 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>5dbbf148f3c1e72a4565b0158bdc56b4</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<TxtConfig_Client version="1">
+    <m_uiID>1 </m_uiID>
+    <m_szDescriptionZH>命中率达到%d％以上</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>2 </m_uiID>
+    <m_szDescriptionZH>命中率低于%d％，不死过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>3 </m_uiID>
+    <m_szDescriptionZH>结算时血量不低于总血量%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>4 </m_uiID>
+    <m_szDescriptionZH>结算时血量不超过%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>5 </m_uiID>
+    <m_szDescriptionZH>最高连击数达到%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>6 </m_uiID>
+    <m_szDescriptionZH>最高连击数不超过%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>7 </m_uiID>
+    <m_szDescriptionZH>结算评价达到%s</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>8 </m_uiID>
+    <m_szDescriptionZH>MISS数不少于%d，不死过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>9 </m_uiID>
+    <m_szDescriptionZH>MISS数不超过%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>10 </m_uiID>
+    <m_szDescriptionZH>结算时GREAT数不少于%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>11 </m_uiID>
+    <m_szDescriptionZH>结算时GREAT数不超过%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>12 </m_uiID>
+    <m_szDescriptionZH>结算时PERFECT不少于%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>13 </m_uiID>
+    <m_szDescriptionZH>结算时PERFECT不超过%d个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>14 </m_uiID>
+    <m_szDescriptionZH>歌曲达到AllCombo</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>15 </m_uiID>
+    <m_szDescriptionZH>不死完成这首歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>16 </m_uiID>
+    <m_szDescriptionZH>歌曲分数不少于%d分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>17 </m_uiID>
+    <m_szDescriptionZH>歌曲分数不超过%d分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>18 </m_uiID>
+    <m_szDescriptionZH>歌曲完成时血量为满血</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>19 </m_uiID>
+    <m_szDescriptionZH>PERFECT不少于总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>20 </m_uiID>
+    <m_szDescriptionZH>PERFECT不超过总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>21 </m_uiID>
+    <m_szDescriptionZH>GREAT不少于总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>22 </m_uiID>
+    <m_szDescriptionZH>GREAT不超过总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>23 </m_uiID>
+    <m_szDescriptionZH>MISS不少于总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>24 </m_uiID>
+    <m_szDescriptionZH>MISS不超过总音符数%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>25 </m_uiID>
+    <m_szDescriptionZH>分数不低于总分的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>26 </m_uiID>
+    <m_szDescriptionZH>分数不超过总分的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>27 </m_uiID>
+    <m_szDescriptionZH>连击不低于总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>28 </m_uiID>
+    <m_szDescriptionZH>连击不超过总音符数的%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>50 </m_uiID>
+    <m_szDescriptionZH>NodeEnd</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>51 </m_uiID>
+    <m_szDescriptionZH>距礼包关卡</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>52 </m_uiID>
+    <m_szDescriptionZH>还有</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>53 </m_uiID>
+    <m_szDescriptionZH>关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>54 </m_uiID>
+    <m_szDescriptionZH>跳过此关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>55 </m_uiID>
+    <m_szDescriptionZH>再次挑战</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>56 </m_uiID>
+    <m_szDescriptionZH>当前%d关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>57 </m_uiID>
+    <m_szDescriptionZH>第%d关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>58 </m_uiID>
+    <m_szDescriptionZH>返回首页</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>59 </m_uiID>
+    <m_szDescriptionZH>一键分享</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>60 </m_uiID>
+    <m_szDescriptionZH>亲，来SHOW个成绩哟！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>61 </m_uiID>
+    <m_szDescriptionZH>返回闯关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>62 </m_uiID>
+    <m_szDescriptionZH>查看排行榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>63 </m_uiID>
+    <m_szDescriptionZH>再来一次</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>64 </m_uiID>
+    <m_szDescriptionZH>注销当前账号</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>65 </m_uiID>
+    <m_szDescriptionZH>设置</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>66 </m_uiID>
+    <m_szDescriptionZH>此为宝箱层</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>67 </m_uiID>
+    <m_szDescriptionZH>闯关条件：</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>68 </m_uiID>
+    <m_szDescriptionZH>简单</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>69 </m_uiID>
+    <m_szDescriptionZH>一般</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>70 </m_uiID>
+    <m_szDescriptionZH>困难</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>71 </m_uiID>
+    <m_szDescriptionZH>好友排行</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>72 </m_uiID>
+    <m_szDescriptionZH>关数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>73 </m_uiID>
+    <m_szDescriptionZH>哇哦，您还有个宝箱没有开耶，快点击确认看里面都有什么吧。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>74 </m_uiID>
+    <m_szDescriptionZH>确认</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>75 </m_uiID>
+    <m_szDescriptionZH>本次跳关消耗100金币，并消耗1点体力，获得80经验，是否继续？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>76 </m_uiID>
+    <m_szDescriptionZH>是</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>77 </m_uiID>
+    <m_szDescriptionZH>否</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>78 </m_uiID>
+    <m_szDescriptionZH>开启</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>79 </m_uiID>
+    <m_szDescriptionZH>自由模式</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>80 </m_uiID>
+    <m_szDescriptionZH>闯关模式</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>81 </m_uiID>
+    <m_szDescriptionZH>终止闯关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>82 </m_uiID>
+    <m_szDescriptionZH>第</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>83 </m_uiID>
+    <m_szDescriptionZH>关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>84 </m_uiID>
+    <m_szDescriptionZH>过关后可开启</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>85 </m_uiID>
+    <m_szDescriptionZH>体力不足</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>86 </m_uiID>
+    <m_szDescriptionZH>购买</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>87 </m_uiID>
+    <m_szDescriptionZH>确定</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>88 </m_uiID>
+    <m_szDescriptionZH>取消</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>89 </m_uiID>
+    <m_szDescriptionZH>您确定要支付</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>90 </m_uiID>
+    <m_szDescriptionZH>金币购买</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>91 </m_uiID>
+    <m_szDescriptionZH>点体力吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>92 </m_uiID>
+    <m_szDescriptionZH>第一天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>93 </m_uiID>
+    <m_szDescriptionZH>第二天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>94 </m_uiID>
+    <m_szDescriptionZH>第三天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>95 </m_uiID>
+    <m_szDescriptionZH>第四天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>96 </m_uiID>
+    <m_szDescriptionZH>第五天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>97 </m_uiID>
+    <m_szDescriptionZH>第六天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>98 </m_uiID>
+    <m_szDescriptionZH>第七天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>99 </m_uiID>
+    <m_szDescriptionZH>QQ会员加成</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>100 </m_uiID>
+    <m_szDescriptionZH>登录天数越多，奖励越丰厚</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>101 </m_uiID>
+    <m_szDescriptionZH>领取</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>102 </m_uiID>
+    <m_szDescriptionZH>每日登录奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>103 </m_uiID>
+    <m_szDescriptionZH>领取并回赠</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>104 </m_uiID>
+    <m_szDescriptionZH>已领取</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>105 </m_uiID>
+    <m_szDescriptionZH>领取体力</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>106 </m_uiID>
+    <m_szDescriptionZH>总分榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>107 </m_uiID>
+    <m_szDescriptionZH>总闯关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>108 </m_uiID>
+    <m_szDescriptionZH>全部领取</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>109 </m_uiID>
+    <m_szDescriptionZH>闯关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>110 </m_uiID>
+    <m_szDescriptionZH>唔~好像还没有好友送您体力哦，快邀请好友一起来玩吧！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>111 </m_uiID>
+    <m_szDescriptionZH>每闯五关就可以进入神秘宝箱层哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>112 </m_uiID>
+    <m_szDescriptionZH>开宝箱有机会获得绝版隐藏歌曲哟</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>113 </m_uiID>
+    <m_szDescriptionZH>闯关之前，一定牢记闯关条件哟~</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>114 </m_uiID>
+    <m_szDescriptionZH>使用高倍游戏速度也是过关的秘诀哟</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>115 </m_uiID>
+    <m_szDescriptionZH>排行榜中可以看到好友的闯关分数哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>116 </m_uiID>
+    <m_szDescriptionZH>如果获得隐藏歌曲了，别忘了分享给好友哦~</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>117 </m_uiID>
+    <m_szDescriptionZH>节奏大师每周都会增加新的隐藏歌曲哟</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>118 </m_uiID>
+    <m_szDescriptionZH>跟着节奏打音符才能取得高分啦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>119 </m_uiID>
+    <m_szDescriptionZH>巧妙使用道具，可以降低闯关的难度哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>120 </m_uiID>
+    <m_szDescriptionZH>闯关卡住了，试试跳关功能吧~</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>121 </m_uiID>
+    <m_szDescriptionZH>体力不够了，快让好友速度赠送起吧~</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>122 </m_uiID>
+    <m_szDescriptionZH>每天都可以赠送好友体力，今天您送了吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>123 </m_uiID>
+    <m_szDescriptionZH>取得好的过关评价能够大量增加闯关分数哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>124 </m_uiID>
+    <m_szDescriptionZH>每天连续闯关成功可以获得闯关分数加成哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>125 </m_uiID>
+    <m_szDescriptionZH>排名超越好友了，别忘了发消息告诉他哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>151 </m_uiID>
+    <m_szDescriptionZH>分数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>152 </m_uiID>
+    <m_szDescriptionZH>关数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>153 </m_uiID>
+    <m_szDescriptionZH>经典模式教学</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>154 </m_uiID>
+    <m_szDescriptionZH>反馈</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>155 </m_uiID>
+    <m_szDescriptionZH>用户协议</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>156 </m_uiID>
+    <m_szDescriptionZH>额，少年，您的金币貌似不够了啊，是否去补充下再继续战斗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>157 </m_uiID>
+    <m_szDescriptionZH>额~您的体力已经耗尽了，是不是去商店补充一些呢？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>158 </m_uiID>
+    <m_szDescriptionZH>您成功的向该好友赠送了1体力！快发条QQ消息告诉TA吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>159 </m_uiID>
+    <m_szDescriptionZH>您的验证资料过期了，需要重新登录后才能正常使用全部功能，是否要现在重新登录？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>160 </m_uiID>
+    <m_szDescriptionZH>返回上层</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>161 </m_uiID>
+    <m_szDescriptionZH>报名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>162 </m_uiID>
+    <m_szDescriptionZH>查看排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>163 </m_uiID>
+    <m_szDescriptionZH>您成功的向该好友赠送了1体力！快发条微信消息告诉TA吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>164 </m_uiID>
+    <m_szDescriptionZH>告诉TA</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>165 </m_uiID>
+    <m_szDescriptionZH>下次吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>166 </m_uiID>
+    <m_szDescriptionZH>您的设备上登录的QQ帐号和当前游戏帐号不同，建议您更换账号后再重新登录游戏</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>167 </m_uiID>
+    <m_szDescriptionZH>您的设备上登录的微信帐号和当前游戏帐号不同，建议您更换账号后再重新登录游戏</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>168 </m_uiID>
+    <m_szDescriptionZH>消息已成功发送给好友咯</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>169 </m_uiID>
+    <m_szDescriptionZH>闯关积分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>170 </m_uiID>
+    <m_szDescriptionZH>您确定要购买当前曲包吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>171 </m_uiID>
+    <m_szDescriptionZH>试玩</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>172 </m_uiID>
+    <m_szDescriptionZH>曲包</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>173 </m_uiID>
+    <m_szDescriptionZH>首</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>174 </m_uiID>
+    <m_szDescriptionZH>喜欢这首歌吗？马上去商城购买完整曲包吧！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>175 </m_uiID>
+    <m_szDescriptionZH>前往商城</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>176 </m_uiID>
+    <m_szDescriptionZH>歌曲解锁</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>177 </m_uiID>
+    <m_szDescriptionZH>解锁条件：%s难度获得%s评价</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>178 </m_uiID>
+    <m_szDescriptionZH>您也可以消耗%d金币立即解锁本难度</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>179 </m_uiID>
+    <m_szDescriptionZH>即可解锁本难度。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>180 </m_uiID>
+    <m_szDescriptionZH>立即解锁</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>181 </m_uiID>
+    <m_szDescriptionZH>恭喜，您已成功解锁当前歌曲难度，继续加油哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>182 </m_uiID>
+    <m_szDescriptionZH>发送给好友</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>183 </m_uiID>
+    <m_szDescriptionZH>发送</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>188 </m_uiID>
+    <m_szDescriptionZH>分数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>189 </m_uiID>
+    <m_szDescriptionZH>☆ 每闯一关需要消耗1点体力</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>190 </m_uiID>
+    <m_szDescriptionZH>☆ 每5关开启宝箱获得金币、体力奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>191 </m_uiID>
+    <m_szDescriptionZH>☆ 宝箱一定机率获得永久隐藏歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>192 </m_uiID>
+    <m_szDescriptionZH>☆ 闯关得分=过关奖励+歌曲评价+连续过关加成</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>193 </m_uiID>
+    <m_szDescriptionZH>☆ 好友排行以闯关得分进行排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>194 </m_uiID>
+    <m_szDescriptionZH>☆ 巧妙使用道具是连续闯关成功的法宝</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>195 </m_uiID>
+    <m_szDescriptionZH>☆ 对于难度过高的关卡，可以选择跳过此关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>196 </m_uiID>
+    <m_szDescriptionZH>☆ 总闯关榜积累所闯关数的总和，总闯关数不清除</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>197 </m_uiID>
+    <m_szDescriptionZH>跳过教程</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>198 </m_uiID>
+    <m_szDescriptionZH>开始教程</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>199 </m_uiID>
+    <m_szDescriptionZH>再来一次</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>200 </m_uiID>
+    <m_szDescriptionZH>开始游戏</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>201 </m_uiID>
+    <m_szDescriptionZH>命中率达到%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>202 </m_uiID>
+    <m_szDescriptionZH>血量不低于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>203 </m_uiID>
+    <m_szDescriptionZH>血量不超过%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>204 </m_uiID>
+    <m_szDescriptionZH>连击不低于%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>205 </m_uiID>
+    <m_szDescriptionZH>连击不超过%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>206 </m_uiID>
+    <m_szDescriptionZH>评价达到%s</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>207 </m_uiID>
+    <m_szDescriptionZH>MISS不少于%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>208 </m_uiID>
+    <m_szDescriptionZH>MISS不超过%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>209 </m_uiID>
+    <m_szDescriptionZH>GREAT不少于%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>210 </m_uiID>
+    <m_szDescriptionZH>GREAT不超过%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>211 </m_uiID>
+    <m_szDescriptionZH>PERFECT不少于%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>212 </m_uiID>
+    <m_szDescriptionZH>PERFECT不超过%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>213 </m_uiID>
+    <m_szDescriptionZH>AllCombo</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>214 </m_uiID>
+    <m_szDescriptionZH>不死过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>215 </m_uiID>
+    <m_szDescriptionZH>分数不低于%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>216 </m_uiID>
+    <m_szDescriptionZH>分数不超过%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>217 </m_uiID>
+    <m_szDescriptionZH>满血过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>218 </m_uiID>
+    <m_szDescriptionZH>PERFECT不少于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>219 </m_uiID>
+    <m_szDescriptionZH>PERFECT不超过%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>220 </m_uiID>
+    <m_szDescriptionZH>GREAT不少于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>221 </m_uiID>
+    <m_szDescriptionZH>GREAT不超过%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>222 </m_uiID>
+    <m_szDescriptionZH>MISS不少于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>223 </m_uiID>
+    <m_szDescriptionZH>MISS不超过%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>224 </m_uiID>
+    <m_szDescriptionZH>分数不低于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>225 </m_uiID>
+    <m_szDescriptionZH>分数不高于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>226 </m_uiID>
+    <m_szDescriptionZH>连击不低于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>227 </m_uiID>
+    <m_szDescriptionZH>连击不高于%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>250 </m_uiID>
+    <m_szDescriptionZH>NoteEnd</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>251 </m_uiID>
+    <m_szDescriptionZH>命中率达到%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>252 </m_uiID>
+    <m_szDescriptionZH>命中率不超过%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>253 </m_uiID>
+    <m_szDescriptionZH>血量不低于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>254 </m_uiID>
+    <m_szDescriptionZH>血量不超过%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>255 </m_uiID>
+    <m_szDescriptionZH>连击不低于%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>256 </m_uiID>
+    <m_szDescriptionZH>连击不超过%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>257 </m_uiID>
+    <m_szDescriptionZH>评价达到%s</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>258 </m_uiID>
+    <m_szDescriptionZH>miss不少于%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>259 </m_uiID>
+    <m_szDescriptionZH>miss不超过%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>260 </m_uiID>
+    <m_szDescriptionZH>great不少于%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>261 </m_uiID>
+    <m_szDescriptionZH>great不超过%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>262 </m_uiID>
+    <m_szDescriptionZH>perfect不少于%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>263 </m_uiID>
+    <m_szDescriptionZH>perfect不超过%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>264 </m_uiID>
+    <m_szDescriptionZH>AllCombo</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>265 </m_uiID>
+    <m_szDescriptionZH>不死过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>266 </m_uiID>
+    <m_szDescriptionZH>分数不低于%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>267 </m_uiID>
+    <m_szDescriptionZH>分数不超过%d/%d</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>268 </m_uiID>
+    <m_szDescriptionZH>满血过关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>269 </m_uiID>
+    <m_szDescriptionZH>perfect不少于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>270 </m_uiID>
+    <m_szDescriptionZH>perfect不超过%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>271 </m_uiID>
+    <m_szDescriptionZH>great不少于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>272 </m_uiID>
+    <m_szDescriptionZH>great不超过%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>273 </m_uiID>
+    <m_szDescriptionZH>miss不少于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>274 </m_uiID>
+    <m_szDescriptionZH>miss不超过%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>275 </m_uiID>
+    <m_szDescriptionZH>分数不低于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>276 </m_uiID>
+    <m_szDescriptionZH>分数不高于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>277 </m_uiID>
+    <m_szDescriptionZH>连击不低于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>278 </m_uiID>
+    <m_szDescriptionZH>连击不高于%d％/%d％</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>300 </m_uiID>
+    <m_szDescriptionZH>NoteEnd</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>500 </m_uiID>
+    <m_szDescriptionZH>注释：接下来从这里开始</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>501 </m_uiID>
+    <m_szDescriptionZH>闯关说明</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>502 </m_uiID>
+    <m_szDescriptionZH>闯关规则</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>503 </m_uiID>
+    <m_szDescriptionZH>隐藏曲库</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>504 </m_uiID>
+    <m_szDescriptionZH>分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>505 </m_uiID>
+    <m_szDescriptionZH>重闯本关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>506 </m_uiID>
+    <m_szDescriptionZH>重新闯关将会消耗1点体力，本关分数也会重新计算，确定要重来一次吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>507 </m_uiID>
+    <m_szDescriptionZH>距离刷新周榜还有</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>508 </m_uiID>
+    <m_szDescriptionZH>天</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>509 </m_uiID>
+    <m_szDescriptionZH>小时</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>510 </m_uiID>
+    <m_szDescriptionZH>分钟</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>511 </m_uiID>
+    <m_szDescriptionZH>秒</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>512 </m_uiID>
+    <m_szDescriptionZH>啊咧，歌曲列表有更新咯，赶紧重新登录游戏看看有什么新内容吧。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>513 </m_uiID>
+    <m_szDescriptionZH>您的设备上登录的QQ帐号和当前游戏帐号不同，建议您更换账号后再重新登录游戏。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>514 </m_uiID>
+    <m_szDescriptionZH>您的设备上登录的微信帐号和当前游戏帐号不同，建议您更换账号后再重新登录游戏。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>515 </m_uiID>
+    <m_szDescriptionZH>小师妹发现您的网络状态不稳定，建议检查网络设置后开始游戏</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>516 </m_uiID>
+    <m_szDescriptionZH>啊哦，分享居然失败了，麻烦再试一下吧。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>517 </m_uiID>
+    <m_szDescriptionZH>正在重新连接服务器，请稍候…</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>518 </m_uiID>
+    <m_szDescriptionZH>重新发送请求中…</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>519 </m_uiID>
+    <m_szDescriptionZH>连接服务器失败，请检查网络设置后重试</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>520 </m_uiID>
+    <m_szDescriptionZH>提示</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>521 </m_uiID>
+    <m_szDescriptionZH>重试</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>522 </m_uiID>
+    <m_szDescriptionZH>退出</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>523 </m_uiID>
+    <m_szDescriptionZH>周闯关排行刷新</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>524 </m_uiID>
+    <m_szDescriptionZH>上周前三名是：</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>525 </m_uiID>
+    <m_szDescriptionZH>您的排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>526 </m_uiID>
+    <m_szDescriptionZH>返回</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>527 </m_uiID>
+    <m_szDescriptionZH>周闯关活动选择</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>528 </m_uiID>
+    <m_szDescriptionZH>周闯关好友排行</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>529 </m_uiID>
+    <m_szDescriptionZH>初级</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>530 </m_uiID>
+    <m_szDescriptionZH>中级</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>531 </m_uiID>
+    <m_szDescriptionZH>高级</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>532 </m_uiID>
+    <m_szDescriptionZH>剩余</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>533 </m_uiID>
+    <m_szDescriptionZH>开启宝箱</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>534 </m_uiID>
+    <m_szDescriptionZH>每累积10个S评价可开启宝箱</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>535 </m_uiID>
+    <m_szDescriptionZH>进入关卡</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>536 </m_uiID>
+    <m_szDescriptionZH>重置关卡</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>537 </m_uiID>
+    <m_szDescriptionZH>每重置一次都需消耗更多的金币，</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>538 </m_uiID>
+    <m_szDescriptionZH>本次重置闯关需消耗%d金币，是否重置？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>539 </m_uiID>
+    <m_szDescriptionZH>一次性关卡已通关，其他关卡同样会有丰富的奖励和歌曲哦，去试试吧：）</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>540 </m_uiID>
+    <m_szDescriptionZH>☆ 周活动与闯关模式玩法相同</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>541 </m_uiID>
+    <m_szDescriptionZH>☆ 每个活动短关均有时间限制</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>542 </m_uiID>
+    <m_szDescriptionZH>☆ 特殊限量活动将固定奖励永久隐藏歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>543 </m_uiID>
+    <m_szDescriptionZH>☆ 每5关开启宝箱获得金币、体力奖励、歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>544 </m_uiID>
+    <m_szDescriptionZH>☆ 闯关得分=过关奖励+歌曲评价+连续过关加成</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>545 </m_uiID>
+    <m_szDescriptionZH>☆ 每局S闯关的积分都将累积到总积分榜内</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>546 </m_uiID>
+    <m_szDescriptionZH>☆ S及以上评价均可以累积一点S值</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>547 </m_uiID>
+    <m_szDescriptionZH>☆ 每周六早06:00对本周排行榜分数进行刷新</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>548 </m_uiID>
+    <m_szDescriptionZH>领取奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>549 </m_uiID>
+    <m_szDescriptionZH>领取成功</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>550 </m_uiID>
+    <m_szDescriptionZH>恭喜小伙伴获得了活动奖励哇，还不快去领！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>551 </m_uiID>
+    <m_szDescriptionZH>您今天已经跳关%d次，本次跳关消耗%d金币，并消耗1点体力，获得80经验，是否继续？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>552 </m_uiID>
+    <m_szDescriptionZH>周分榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>553 </m_uiID>
+    <m_szDescriptionZH>现在就去</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>554 </m_uiID>
+    <m_szDescriptionZH>欢迎回来，您目前处于微信好友关系区。是否需要帮您切换到QQ关系区？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>555 </m_uiID>
+    <m_szDescriptionZH>欢迎回来，您目前处于QQ好友关系区。是否需要帮您切换到微信关系区？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>556 </m_uiID>
+    <m_szDescriptionZH>需要花费%d金币，确定吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>557 </m_uiID>
+    <m_szDescriptionZH>选择道具</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>558 </m_uiID>
+    <m_szDescriptionZH>敬请期待</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>559 </m_uiID>
+    <m_szDescriptionZH>道具栏</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>560 </m_uiID>
+    <m_szDescriptionZH>道具介绍</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>561 </m_uiID>
+    <m_szDescriptionZH>开始</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>562 </m_uiID>
+    <m_szDescriptionZH>哎呀真不好意思，这个道具只能装备一个哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>563 </m_uiID>
+    <m_szDescriptionZH>每次升级都会获得奖励哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>564 </m_uiID>
+    <m_szDescriptionZH>领取奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>565 </m_uiID>
+    <m_szDescriptionZH>补满</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>566 </m_uiID>
+    <m_szDescriptionZH>闯关模式+</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>567 </m_uiID>
+    <m_szDescriptionZH>获得歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>568 </m_uiID>
+    <m_szDescriptionZH>个人信息</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>569 </m_uiID>
+    <m_szDescriptionZH>周闯关数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>570 </m_uiID>
+    <m_szDescriptionZH>周闯关分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>571 </m_uiID>
+    <m_szDescriptionZH>周分排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>572 </m_uiID>
+    <m_szDescriptionZH>总闯关数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>573 </m_uiID>
+    <m_szDescriptionZH>总闯关分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>574 </m_uiID>
+    <m_szDescriptionZH>总分排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>575 </m_uiID>
+    <m_szDescriptionZH>等级歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>576 </m_uiID>
+    <m_szDescriptionZH>解锁条件：等级达到</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>577 </m_uiID>
+    <m_szDescriptionZH>周分榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>578 </m_uiID>
+    <m_szDescriptionZH>总分榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>579 </m_uiID>
+    <m_szDescriptionZH>切换</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>580 </m_uiID>
+    <m_szDescriptionZH>取消</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>581 </m_uiID>
+    <m_szDescriptionZH>升级啦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>582 </m_uiID>
+    <m_szDescriptionZH>等级说明</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>583 </m_uiID>
+    <m_szDescriptionZH>等级规则</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>584 </m_uiID>
+    <m_szDescriptionZH>等级曲库</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>585 </m_uiID>
+    <m_szDescriptionZH>每5级随机解锁一首等级歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>586 </m_uiID>
+    <m_szDescriptionZH>☆ 单局获得的基础经验由歌曲难度和歌曲分数决定</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>587 </m_uiID>
+    <m_szDescriptionZH>☆ 每次等级提升都会得到丰厚的升级奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>588 </m_uiID>
+    <m_szDescriptionZH>☆ 等级的得分加成只增加闯关得分不影响歌曲分数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>589 </m_uiID>
+    <m_szDescriptionZH>☆ 每5级随机解锁一首等级歌曲</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>590 </m_uiID>
+    <m_szDescriptionZH>☆ 双倍经验的效果是本局游戏的基础经验提高100%</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>591 </m_uiID>
+    <m_szDescriptionZH>☆ 满级为60级</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>592 </m_uiID>
+    <m_szDescriptionZH></m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>593 </m_uiID>
+    <m_szDescriptionZH></m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>594 </m_uiID>
+    <m_szDescriptionZH>经验</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>595 </m_uiID>
+    <m_szDescriptionZH>总分榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>596 </m_uiID>
+    <m_szDescriptionZH>总关数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>597 </m_uiID>
+    <m_szDescriptionZH>分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>598 </m_uiID>
+    <m_szDescriptionZH>关</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>599 </m_uiID>
+    <m_szDescriptionZH>歌曲筛选</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>600 </m_uiID>
+    <m_szDescriptionZH>总花费</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>601 </m_uiID>
+    <m_szDescriptionZH>恭喜您上周获得了金皇冠，再接再厉哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>602 </m_uiID>
+    <m_szDescriptionZH>恭喜您上周获得了银皇冠，再接再厉哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>603 </m_uiID>
+    <m_szDescriptionZH>恭喜您上周获得了铜皇冠，再接再厉哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>604 </m_uiID>
+    <m_szDescriptionZH>很遗憾，您上周与皇冠擦肩而过了，这周要加油咯！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>605 </m_uiID>
+    <m_szDescriptionZH>很遗憾，上周您和您的好友中没有人获得皇冠哦。</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>606 </m_uiID>
+    <m_szDescriptionZH>登录平台失败，请尝试重新登录</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>607 </m_uiID>
+    <m_szDescriptionZH>哎呀，你的奖励好像过期啦，下次一定要及时领取哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>608 </m_uiID>
+    <m_szDescriptionZH>满血复活</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>609 </m_uiID>
+    <m_szDescriptionZH>完美复活</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>610 </m_uiID>
+    <m_szDescriptionZH>（再努力下就成功了哦~）</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>611 </m_uiID>
+    <m_szDescriptionZH>放弃</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>612 </m_uiID>
+    <m_szDescriptionZH>复活</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>613 </m_uiID>
+    <m_szDescriptionZH>本周排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>614 </m_uiID>
+    <m_szDescriptionZH>历史排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>615 </m_uiID>
+    <m_szDescriptionZH>(10秒内所有great全记为perfect)</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>616 </m_uiID>
+    <m_szDescriptionZH>擂台排行</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>617 </m_uiID>
+    <m_szDescriptionZH>您当前获得的擂主数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>618 </m_uiID>
+    <m_szDescriptionZH>擂主正在争夺中…</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>619 </m_uiID>
+    <m_szDescriptionZH>您当前还未夺得擂主</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>620 </m_uiID>
+    <m_szDescriptionZH>星动模式教学</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>621 </m_uiID>
+    <m_szDescriptionZH>☆ 歌曲得分为本周好友内第一时，成为该歌曲擂主</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>622 </m_uiID>
+    <m_szDescriptionZH>☆ 周擂主排行榜内，按照玩家已获得的擂主数排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>623 </m_uiID>
+    <m_szDescriptionZH>☆ 擂主数为0的玩家，不会计入周榜排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>624 </m_uiID>
+    <m_szDescriptionZH>☆ 擂主数相同时，按照达成的先后顺序排名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>625 </m_uiID>
+    <m_szDescriptionZH>☆ 周擂主排行榜的数据，每小时更新一次</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>626 </m_uiID>
+    <m_szDescriptionZH>☆ 每周六早6：00，对周擂主排行榜进行结算刷新</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>627 </m_uiID>
+    <m_szDescriptionZH>☆ 结算后，重置周擂主排行榜，前三名可获得奖励</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>628 </m_uiID>
+    <m_szDescriptionZH>☆ 结算后，重置所有谱面的当前擂主和本周成绩</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>629 </m_uiID>
+    <m_szDescriptionZH>本周最高得分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>630 </m_uiID>
+    <m_szDescriptionZH>历史最高得分</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>631 </m_uiID>
+    <m_szDescriptionZH>擂主说明</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>632 </m_uiID>
+    <m_szDescriptionZH>规则介绍</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>633 </m_uiID>
+    <m_szDescriptionZH>星动模式%s%s我得分很高哦,够胆比比?</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>634 </m_uiID>
+    <m_szDescriptionZH>星动模式%s%s我打到%d星了,北鼻你行吗?</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>635 </m_uiID>
+    <m_szDescriptionZH>星动模式%s%s我打出了%d分!膜拜吧!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>636 </m_uiID>
+    <m_szDescriptionZH>星动模式%s%s排行榜因我而变!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>637 </m_uiID>
+    <m_szDescriptionZH>我在星动模式%s%s中轻轻松松超越了你!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>638 </m_uiID>
+    <m_szDescriptionZH>我在星动模式%s%s中轻轻松松超越了你!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>639 </m_uiID>
+    <m_szDescriptionZH>我在星动模式%s%s中击败各位大神,夺得擂主!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>640 </m_uiID>
+    <m_szDescriptionZH>我在星动模式擂主榜中排名第%d,牛B大发了有木有!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>641 </m_uiID>
+    <m_szDescriptionZH>唔~您当前未收到任何擂主被好友夺走的消息哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>642 </m_uiID>
+    <m_szDescriptionZH>周擂主排行刷新</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>643 </m_uiID>
+    <m_szDescriptionZH>恭喜获得了上周擂主排行榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>644 </m_uiID>
+    <m_szDescriptionZH>EXP+</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>645 </m_uiID>
+    <m_szDescriptionZH>确认</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>646 </m_uiID>
+    <m_szDescriptionZH>周擂主排行刷新</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>647 </m_uiID>
+    <m_szDescriptionZH>角色等级达到十级后，开放星动模式！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>648 </m_uiID>
+    <m_szDescriptionZH>第</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>649 </m_uiID>
+    <m_szDescriptionZH>名</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>650 </m_uiID>
+    <m_szDescriptionZH>擂主数</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>651 </m_uiID>
+    <m_szDescriptionZH>您和好友本周都未获得过歌曲擂主，未能入榜！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>700 </m_uiID>
+    <m_szDescriptionZH>shareEnd</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>701 </m_uiID>
+    <m_szDescriptionZH>您向好友发送了索要体力的请求，快发条QQ消息告诉TA吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>702 </m_uiID>
+    <m_szDescriptionZH>您向好友发送了索要体力的请求，快发条微信消息告诉TA吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>703 </m_uiID>
+    <m_szDescriptionZH>啊咧咧，我送了你一点体力哦，打滚求回赠啦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>704 </m_uiID>
+    <m_szDescriptionZH>体力不够啦！你能不能上来送我一些！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>705 </m_uiID>
+    <m_szDescriptionZH>仅需300金币，就可以获得超强力奖励哦！</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>706 </m_uiID>
+    <m_szDescriptionZH>试一下</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>707 </m_uiID>
+    <m_szDescriptionZH>下次吧</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>708 </m_uiID>
+    <m_szDescriptionZH>太赞了</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>709 </m_uiID>
+    <m_szDescriptionZH>您当前已获得了更高得分，重新超越了TA!</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>710 </m_uiID>
+    <m_szDescriptionZH>个</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>711 </m_uiID>
+    <m_szDescriptionZH>本周擂主排行榜</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>721 </m_uiID>
+    <m_szDescriptionZH>仅300金币，有机会直接达成ALL PERFECT哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>722 </m_uiID>
+    <m_szDescriptionZH>300金币就有机会直接成为擂主哟，想试试吗？</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>723 </m_uiID>
+    <m_szDescriptionZH>仅需300金币，您的分数有可能极大提升哦</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>724 </m_uiID>
+    <m_szDescriptionZH>只要300金币，就有机会直接获得最高评价哟</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>725 </m_uiID>
+    <m_szDescriptionZH>来测一下人品吧，300金币一把翻盘直取擂主宝座</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>732 </m_uiID>
+    <m_szDescriptionZH>上周歌曲得分和歌曲擂主已于周六6：00结算重置，请重新争夺！</m_szDescriptionZH>
+</TxtConfig_Client>
+</TxtConfig_Client_Tab>

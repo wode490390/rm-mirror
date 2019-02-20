@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+
+  <!--HTTP-->
+  <HttpSongListPath>Com_SongList/</HttpSongListPath>
+  <HttpSongResPath>Com_SongRes/</HttpSongResPath>
+  <HttpGameInfoPath>Com_TableCom_IOS/</HttpGameInfoPath>
+  <!--HttpTablePath>xxxx/</HttpTablePath-->
+  <HttpTableComPath>Com_TableCom_IOS/</HttpTableComPath>
+
+  <!--GameServer-->
+  <!--0 normal login / 1 tgw login-->
+  <UseTgwLogin>1</UseTgwLogin>
+
+  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>12003</ServerPortTgwQQ>
+
+  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>12002</ServerPortTgwWeixin>
+
+  <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
+  <ServerIPQQ>101.226.37.229</ServerIPQQ>
+  <ServerPortWeixin>8041</ServerPortWeixin>
+  <ServerPortQQ>8041</ServerPortQQ>
+  
+  <!--NotifyServer-->
+  <NotifyUseTgw>1</NotifyUseTgw>
+    
+  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyTgwPort>12005</NotifyTgwPort>
+      
+  <NotifyServerIP>101.226.37.229</NotifyServerIP>
+  <NotifyServerPort>8043</NotifyServerPort>
+
+</GameInfo>

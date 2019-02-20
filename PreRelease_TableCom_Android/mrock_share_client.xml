@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ShareConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>268 </Unit>
+        <Count>30 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>a614c157d3ce0b12713902d6abff61d6</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ShareConfig_Client version="1">
+    <m_iID>0 </m_iID>
+    <m_ucTag>0x0 </m_ucTag>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent>0分享内容：分享文字代表要分享的内容，如果是分享图片代表底部条文字</m_szContent>
+    <m_iVersion>0 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>101 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x1 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>成绩不错哦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>102 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x1 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>完美通关！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>103 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>成绩不错哦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>104 </m_iID>
+    <m_ucTag>0x4 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>成绩不错哦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>105 </m_iID>
+    <m_ucTag>0x4 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>极限生存挑战</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>106 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>人品爆发啦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>107 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>积分兑换</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>108 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>109 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>110 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>111 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>112 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>113 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x0 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>114 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>少年，我的%s%s的成绩也不赖哦，比比？</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>115 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent></m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>116 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>我在%s%s的得分很高哦,够胆比比?</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>117 </m_iID>
+    <m_ucTag>0x4 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>世界对战</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>118 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x1 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>轻松简单</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>119 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>成为擂主啦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>120 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>升级啦</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>121 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>段位晋升</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>122 </m_iID>
+    <m_ucTag>0x1 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>小伙伴，快来玩节奏大师，一起做音乐达人！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>123 </m_iID>
+    <m_ucTag>0x5 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>我在%s《%s》中超越了你,不服来战！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>124 </m_iID>
+    <m_ucTag>0x5 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>我在闯关模式获得了%d分，超过你咯！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>125 </m_iID>
+    <m_ucTag>0x5 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>我在%s%s中,分数轻松的超过了你!</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>126 </m_iID>
+    <m_ucTag>0x5 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>我在极限生存挑战中坚持了 %d秒,轻松超过了你!</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>127 </m_iID>
+    <m_ucTag>0x3 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>啊咧咧，我送了你一点体力哦，打滚求回赠啦！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>128 </m_iID>
+    <m_ucTag>0x3 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>体力不够啦，你能不能上来送我一些！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+<ShareConfig_Client version="1">
+    <m_iID>129 </m_iID>
+    <m_ucTag>0x2 </m_ucTag>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsJumpAlone>0x0 </m_ucIsJumpAlone>
+    <m_ucIsShowBottom>0x1 </m_ucIsShowBottom>
+    <m_szContent>小伙伴快来！</m_szContent>
+    <m_iVersion>23020001 </m_iVersion>
+</ShareConfig_Client>
+</ShareConfig_Client_Tab>

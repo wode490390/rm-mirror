@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<GuildSongConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>28 </Unit>
+        <Count>10 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>84d89519981a9a0a383b8fe36a651a87</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<GuildSongConfig_Client version="1">
+    <m_iID>10501 </m_iID>
+    <m_iSongID>316 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iFinishType>15 </m_iFinishType>
+    <m_iFinishNum>0 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10502 </m_iID>
+    <m_iSongID>505 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iFinishType>7 </m_iFinishType>
+    <m_iFinishNum>1 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10503 </m_iID>
+    <m_iSongID>504 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iFinishType>15 </m_iFinishType>
+    <m_iFinishNum>0 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10504 </m_iID>
+    <m_iSongID>384 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iFinishType>7 </m_iFinishType>
+    <m_iFinishNum>1 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10505 </m_iID>
+    <m_iSongID>114 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iFinishType>15 </m_iFinishType>
+    <m_iFinishNum>0 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10506 </m_iID>
+    <m_iSongID>504 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iFinishType>7 </m_iFinishType>
+    <m_iFinishNum>1 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10507 </m_iID>
+    <m_iSongID>237 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iFinishType>15 </m_iFinishType>
+    <m_iFinishNum>0 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10508 </m_iID>
+    <m_iSongID>158 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iFinishType>7 </m_iFinishType>
+    <m_iFinishNum>1 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10509 </m_iID>
+    <m_iSongID>129 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iFinishType>15 </m_iFinishType>
+    <m_iFinishNum>0 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+<GuildSongConfig_Client version="1">
+    <m_iID>10510 </m_iID>
+    <m_iSongID>397 </m_iSongID>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iFinishType>7 </m_iFinishType>
+    <m_iFinishNum>1 </m_iFinishNum>
+    <m_iVersion>0 </m_iVersion>
+</GuildSongConfig_Client>
+</GuildSongConfig_Client_Tab>

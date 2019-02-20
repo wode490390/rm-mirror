@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ScoreBuyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>22 </Unit>
+        <Count>3 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>7d2790a566f6b818c42e9f70745d7a73</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ScoreBuyConfig_Client version="1">
+    <m_iBuyID>0 </m_iBuyID>
+    <m_ucItemType>0x0 </m_ucItemType>
+    <m_iItemID>0 </m_iItemID>
+    <m_iItemValue>0 </m_iItemValue>
+    <m_iScorePresent>0 </m_iScorePresent>
+    <m_ucBuyType>0x0 </m_ucBuyType>
+    <m_iCostNum>0 </m_iCostNum>
+</ScoreBuyConfig_Client>
+<ScoreBuyConfig_Client version="1">
+    <m_iBuyID>1 </m_iBuyID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>135 </m_iItemID>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_iScorePresent>1200 </m_iScorePresent>
+    <m_ucBuyType>0x3 </m_ucBuyType>
+    <m_iCostNum>58 </m_iCostNum>
+</ScoreBuyConfig_Client>
+<ScoreBuyConfig_Client version="1">
+    <m_iBuyID>2 </m_iBuyID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>136 </m_iItemID>
+    <m_iItemValue>7 </m_iItemValue>
+    <m_iScorePresent>10088 </m_iScorePresent>
+    <m_ucBuyType>0x3 </m_ucBuyType>
+    <m_iCostNum>480 </m_iCostNum>
+</ScoreBuyConfig_Client>
+</ScoreBuyConfig_Client_Tab>

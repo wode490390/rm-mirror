@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SysParamConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>8 </Unit>
+        <Count>6 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8ecb87e307e27e1951cd6cad37dd9b25</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<SysParamConfig_Client version="1">
+    <m_iParamID>1 </m_iParamID>
+    <m_iParamValue>188 </m_iParamValue>
+</SysParamConfig_Client>
+<SysParamConfig_Client version="1">
+    <m_iParamID>2 </m_iParamID>
+    <m_iParamValue>20 </m_iParamValue>
+</SysParamConfig_Client>
+<SysParamConfig_Client version="1">
+    <m_iParamID>3 </m_iParamID>
+    <m_iParamValue>4000 </m_iParamValue>
+</SysParamConfig_Client>
+<SysParamConfig_Client version="1">
+    <m_iParamID>4 </m_iParamID>
+    <m_iParamValue>18 </m_iParamValue>
+</SysParamConfig_Client>
+<SysParamConfig_Client version="1">
+    <m_iParamID>5 </m_iParamID>
+    <m_iParamValue>3 </m_iParamValue>
+</SysParamConfig_Client>
+<SysParamConfig_Client version="1">
+    <m_iParamID>6 </m_iParamID>
+    <m_iParamValue>20 </m_iParamValue>
+</SysParamConfig_Client>
+</SysParamConfig_Client_Tab>

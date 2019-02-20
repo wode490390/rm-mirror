@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MatchConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>72212 </Unit>
+        <Count>32 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>c098733f28184087c50ccbc2ea4ab909</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>20 </m_iMatchIndex>
+    <m_iRegion>2 </m_iRegion>
+    <m_iType>1 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>0 </m_iElectNumber>
+    <m_iGroupNumber>1 </m_iGroupNumber>
+    <m_szApplySuccess></m_szApplySuccess>
+    <m_szTitle>第一期新歌赛规则</m_szTitle>
+    <m_szTitle1>比赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>直接参加比赛即可</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>感恩节之际，小师妹为大家献上《节奏大师》全新赛事——新歌打榜王，第一赛季将以每周为一周期，每周精选三首歌曲供玩家积分打榜，你一定要参加！挑战每周比赛歌曲各种难度，成绩进入各谱面前100名即可获得100~1积分。累积积分进入总榜，总榜十强可获丰厚Q币大奖，不要错过哦</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>比赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>赛事期数：001期</m_szPostDesc1>
+    <m_szPostDesc2>比赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：100</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>第二十三期新歌打榜赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>30 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月27日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA沈阳海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>31 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月28日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA沈阳预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>32 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月29日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA沈阳复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>40 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月30日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA长春海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>41 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月31日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA长春预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>42 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月32日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA长春复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>50 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月33日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA鸡西海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>51 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月34日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA鸡西预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>52 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月35日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA鸡西复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>60 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月36日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA帝都海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>61 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月37日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA帝都预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>62 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月38日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA帝都复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>70 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月39日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA大同海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>71 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月40日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA大同预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>72 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月41日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA大同复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>80 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月42日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA天津海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>81 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月43日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA天津预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>82 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月44日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA天津复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>90 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月45日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA上海海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>91 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月46日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA上海预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>92 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月47日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA上海复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>100 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月48日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA烟台海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>101 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月49日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA烟台预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>102 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月50日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA烟台复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>110 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 10:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 16:00:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日10：30至2013年9月19日20：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月51日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：9月19日20：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：9月19日20：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA台北海选排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>111 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-19 20:30:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：00至2013年9月19日20：30</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月52日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：9月19日20：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：9月19日20：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA台北预赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>112 </m_iMatchIndex>
+    <m_iRegion>3 </m_iRegion>
+    <m_iType>3 </m_iType>
+    <m_szBeginTime>2013-09-19 20:30:00</m_szBeginTime>
+    <m_szEndTime>2013-09-20 24:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名地区比赛</m_szApplySuccess>
+    <m_szTitle>节奏大师十城外围赛比赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年9月19日20：30至2013年9月20日24：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>每个QQ号只可选择一个赛区中“手机组”或“平板组”中一组报名</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>继腾讯首款音乐手游《节奏大师》宣布接入腾讯游戏竞技平台（简称：TGA）之后，其十城外围赛也将于4月53日正式启动，而这也是TGA史上，乃至国内首场正规手游赛事。作为首款接入TGA的腾讯手机游戏，《节奏大师》将从国内十个城市展开海选外围赛。该赛事将会在华东赛区上海站率先点燃战火，具体比赛地点和时间详见官网发布，而现场亦会放送大礼以飨参赛选手。</m_szContent3>
+    <m_szContentPage201>每期总榜第一名：100QB</m_szContentPage201>
+    <m_szContentPage202>每期总榜第二名：50QB</m_szContentPage202>
+    <m_szContentPage203>每期总榜第三名：30QB</m_szContentPage203>
+    <m_szContentPage204>每期总榜第四至十名：10QB</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：9月20日24：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：9月20日24：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：努力打歌就行了</m_szPostDesc4>
+    <m_szStageName>2013TGA台北复赛排名</m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>460 </m_iMatchIndex>
+    <m_iRegion>1 </m_iRegion>
+    <m_iType>2 </m_iType>
+    <m_szBeginTime>2013-10-28 15:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-29 23:50:00</m_szEndTime>
+    <m_iElectNumber>8 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名TGA大赛</m_szApplySuccess>
+    <m_szTitle>2013TGA节奏大师冬季赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年10月28日15：00至2013年10月28日23:50</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>只可选择“手机组”或“平板组”中一组报名哦！</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>海选赛时间：2013年10月28日15:00~10月28日23:50，届时将从所有报名参赛选手中选出128人进入预赛。其中，手机组64人（QQ和微信各排名前32名），平板组64人（QQ和微信各排名前32名）。海选期间将有6首歌曲作为比赛竞技曲目；预赛时间：2013年10月29日09:00~10月29日23:50进行，128进32。预赛期间将有4首歌曲作为比赛竞技曲目；复赛预计于2013年10月30日00:00~11月1日16:00进行，32进8。复赛期间将有3首歌曲作为比赛竞技曲目。</m_szContent3>
+    <m_szContentPage201>海选赛出线奖励：100QB(共计128名)</m_szContentPage201>
+    <m_szContentPage202>预赛出线奖励：200QB（共计32名）</m_szContentPage202>
+    <m_szContentPage203>复赛出线奖励：1000QB、节奏大师限量版定制手机壳及ipad mini皮套（共计8名）</m_szContentPage203>
+    <m_szContentPage204>决赛奖励：每一组的冠军10000元、亚军5000元、季军1500元。</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：10月28日23：50</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：10月28日23：50</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：每组总分前8名即可晋级</m_szPostDesc4>
+    <m_szStageName></m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>461 </m_iMatchIndex>
+    <m_iRegion>1 </m_iRegion>
+    <m_iType>2 </m_iType>
+    <m_szBeginTime>2013-11-30 09:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-30 23:50:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名TGA大赛</m_szApplySuccess>
+    <m_szTitle>2014TGA节奏大师冬季赛规则</m_szTitle>
+    <m_szTitle1>预赛时间：</m_szTitle1>
+    <m_szContent1>2013年10月29日09：00至2013年10月29日23:50</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>只可选择“手机组”或“平板组”中一组报名哦！</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>海选赛时间：2013年10月28日15:00~10月28日23:50，届时将从所有报名参赛选手中选出128人进入预赛。其中，手机组64人（QQ和微信各排名前32名），平板组64人（QQ和微信各排名前32名）。海选期间将有6首歌曲作为比赛竞技曲目；预赛时间：2013年10月29日09:00~10月29日23:50进行，128进32。预赛期间将有4首歌曲作为比赛竞技曲目；复赛预计于2013年10月30日00:00~11月1日16:00进行，32进8。复赛期间将有3首歌曲作为比赛竞技曲目。</m_szContent3>
+    <m_szContentPage201>海选赛出线奖励：100QB(共计128名)</m_szContentPage201>
+    <m_szContentPage202>预赛出线奖励：200QB（共计32名）</m_szContentPage202>
+    <m_szContentPage203>复赛出线奖励：1000QB、节奏大师限量版定制手机壳及ipad mini皮套（共计8名）</m_szContentPage203>
+    <m_szContentPage204>决赛奖励：每一组的冠军10000元、亚军5000元、季军1500元。</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>预赛截止时间：10月29日23：30</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：预赛</m_szPostDesc1>
+    <m_szPostDesc2>预赛截止时间：10月29日23：30</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：4</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：每组总分前4名即可晋级</m_szPostDesc4>
+    <m_szStageName></m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>462 </m_iMatchIndex>
+    <m_iRegion>1 </m_iRegion>
+    <m_iType>2 </m_iType>
+    <m_szBeginTime>2013-11-31 09:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-01 16:00:00</m_szEndTime>
+    <m_iElectNumber>2 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名TGA大赛</m_szApplySuccess>
+    <m_szTitle>2015TGA节奏大师冬季赛规则</m_szTitle>
+    <m_szTitle1>复赛时间：</m_szTitle1>
+    <m_szContent1>2013年10月30日16：00至2013年11月1日16：00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>只可选择“手机组”或“平板组”中一组报名哦！</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>海选赛时间：2013年10月28日15:00~10月28日23:50，届时将从所有报名参赛选手中选出128人进入预赛。其中，手机组64人（QQ和微信各排名前32名），平板组64人（QQ和微信各排名前32名）。海选期间将有6首歌曲作为比赛竞技曲目；预赛时间：2013年10月29日09:00~10月29日23:50进行，128进32。预赛期间将有4首歌曲作为比赛竞技曲目；复赛预计于2013年10月30日00:00~11月1日16:00进行，32进8。复赛期间将有3首歌曲作为比赛竞技曲目。</m_szContent3>
+    <m_szContentPage201>海选赛出线奖励：100QB(共计128名)</m_szContentPage201>
+    <m_szContentPage202>预赛出线奖励：200QB（共计32名）</m_szContentPage202>
+    <m_szContentPage203>复赛出线奖励：1000QB、节奏大师限量版定制手机壳及ipad mini皮套（共计8名）</m_szContentPage203>
+    <m_szContentPage204>决赛奖励：每一组的冠军10000元、亚军5000元、季军1500元。</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>复赛截止时间：11月1日16：00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：复赛</m_szPostDesc1>
+    <m_szPostDesc2>复赛截止时间：11月1日16：00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：2</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：每组总分前2名即可晋级</m_szPostDesc4>
+    <m_szStageName></m_szStageName>
+</MatchConfig_Client>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>470 </m_iMatchIndex>
+    <m_iRegion>1 </m_iRegion>
+    <m_iType>2 </m_iType>
+    <m_szBeginTime>2013-10-28 15:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-29 23:50:00</m_szEndTime>
+    <m_iElectNumber>16 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名TGA大赛</m_szApplySuccess>
+    <m_szTitle>2013TGA节奏大师冬季赛规则</m_szTitle>
+    <m_szTitle1>海选时间：</m_szTitle1>
+    <m_szContent1>2013年10月28日15：00至2013年11月29日23:50</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>只可选择“手机组”或“平板组”中一组报名哦！</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>海选赛时间：2013年11月28日15:00~10月28日23:50，届时将从所有报名参赛选手中选出16人进入预赛。</m_szContent3>
+    <m_szContentPage201>海选赛出线奖励：100QB(共计128名)</m_szContentPage201>
+    <m_szContentPage202>预赛出线奖励：200QB（共计32名）</m_szContentPage202>
+    <m_szContentPage203>复赛出线奖励：1000QB、节奏大师限量版定制手机壳及ipad mini皮套（共计8名）</m_szContentPage203>
+    <m_szContentPage204>决赛奖励：每一组的冠军10000元、亚军5000元、季军1500元。</m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>海选截止时间：10月28日23：50</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：海选</m_szPostDesc1>
+    <m_szPostDesc2>海选截止时间：11月28日23：50</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：8</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：每组总分前16名即可晋级</m_szPostDesc4>
+    <m_szStageName></m_szStageName>
+</MatchConfig_Client>
+</MatchConfig_Client_Tab>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ScoreExchangeConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>21 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8b404bbc0cd8ede8a0e3b8c4f0a6864e</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>0 </m_iExchangeID>
+    <m_ucItemType>0x0 </m_ucItemType>
+    <m_iItemID>0 </m_iItemID>
+    <m_iItemValue>0 </m_iItemValue>
+    <m_iScoreCost>0 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0x9 </m_ucItemType>
+    <m_iItemID>1004 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>28888 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>44 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>514 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>8888 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>45 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>316 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>8000 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>46 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>37 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>8000 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+</ScoreExchangeConfig_Client_Tab>

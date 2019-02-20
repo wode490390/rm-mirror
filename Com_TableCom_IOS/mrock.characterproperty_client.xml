@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CharacterPropertyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>327 </Unit>
+        <Count>19 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>eec9f170ab6b7737410c7f3d96a92d22</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>0 </m_usID>
+    <m_ucPropertyID>0x0 </m_ucPropertyID>
+    <m_ucType>0x0 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>0名称</m_szName>
+    <m_szEffect>0效果</m_szEffect>
+    <m_szDesc>0属性描述</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>1 </m_usID>
+    <m_ucPropertyID>0x1 </m_ucPropertyID>
+    <m_ucType>0x1 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>命中提升</m_szName>
+    <m_szEffect>更易打出好成绩</m_szEffect>
+    <m_szDesc>提升玩家击打note的命中率和准确度</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>2 </m_usID>
+    <m_ucPropertyID>0x2 </m_ucPropertyID>
+    <m_ucType>0x1 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>血量增加</m_szName>
+    <m_szEffect>生命值</m_szEffect>
+    <m_szDesc>按比例提升打歌时的生命上限，难度较高的歌曲更容易存活</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>3 </m_usID>
+    <m_ucPropertyID>0x3 </m_ucPropertyID>
+    <m_ucType>0x1 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>经验加成</m_szName>
+    <m_szEffect>经验</m_szEffect>
+    <m_szDesc>按比例提升打歌结束后获得的经验，加快等级提升的速度</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>4 </m_usID>
+    <m_ucPropertyID>0x4 </m_ucPropertyID>
+    <m_ucType>0x1 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>扣血减少</m_szName>
+    <m_szEffect>防御</m_szEffect>
+    <m_szDesc>按比例减少在打歌中生命扣除的数量，提升存活能力</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>5 </m_usID>
+    <m_ucPropertyID>0x5 </m_ucPropertyID>
+    <m_ucType>0x1 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>快速回血</m_szName>
+    <m_szEffect>回血速度</m_szEffect>
+    <m_szDesc>按比例提高在打歌中生命恢复的速度，提升存活能力</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>6 </m_usID>
+    <m_ucPropertyID>0x6 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>6 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>fever</m_szName>
+    <m_szEffect>FEVER</m_szEffect>
+    <m_szDesc>主动技能，在主动触发后，对应时间内所有按键全部变成金色，击中后获得金P成绩，时间结束后回到正常操作</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>7 </m_usID>
+    <m_ucPropertyID>0x7 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>游戏加速</m_szName>
+    <m_szEffect>游戏速度</m_szEffect>
+    <m_szDesc>按数值改变落键的速度，固定增加0.5</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>8 </m_usID>
+    <m_ucPropertyID>0x8 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1001 </m_usIconID>
+    <m_ucEffectType>0x3 </m_ucEffectType>
+    <m_szName>消除miss</m_szName>
+    <m_szEffect>Miss数</m_szEffect>
+    <m_szDesc>按数量抵消打歌中产生的Miss</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>9 </m_usID>
+    <m_ucPropertyID>0x9 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1002 </m_usIconID>
+    <m_ucEffectType>0x3 </m_ucEffectType>
+    <m_szName>消除great</m_szName>
+    <m_szEffect>Great数</m_szEffect>
+    <m_szDesc>按数量修改打歌中产生的Great成为Perfect</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>10 </m_usID>
+    <m_ucPropertyID>0xa </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1003 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>补全长条</m_szName>
+    <m_szEffect>补全长条</m_szEffect>
+    <m_szDesc>按数量补全产生遗漏的条形按键，一个完整的长条计数1个</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>11 </m_usID>
+    <m_ucPropertyID>0xb </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>11 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>镜像谱面</m_szName>
+    <m_szEffect>镜像谱面</m_szEffect>
+    <m_szDesc>改变原有铺面成为镜面谱</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>12 </m_usID>
+    <m_ucPropertyID>0xc </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>12 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>落键渐隐</m_szName>
+    <m_szEffect>落键渐隐</m_szEffect>
+    <m_szDesc>使谱面下落后接近判断前渐渐消失</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>13 </m_usID>
+    <m_ucPropertyID>0xd </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1004 </m_usIconID>
+    <m_ucEffectType>0x3 </m_ucEffectType>
+    <m_szName>防漏键</m_szName>
+    <m_szEffect>遗漏判定</m_szEffect>
+    <m_szDesc>按数量抵消打歌中遗漏的键（可以是miss或者是长条中少了的一个）</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>14 </m_usID>
+    <m_ucPropertyID>0xe </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>积分加成</m_szName>
+    <m_szEffect>对战积分</m_szEffect>
+    <m_szDesc>按百分比提高在PK中获得的PK积分奖励</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>15 </m_usID>
+    <m_ucPropertyID>0xf </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x0 </m_ucEffectType>
+    <m_szName>幸运抽奖</m_szName>
+    <m_szEffect>更易抽取高奖励</m_szEffect>
+    <m_szDesc>按百分比提高在抽奖中获得的奖励数量</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>16 </m_usID>
+    <m_ucPropertyID>0x10 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1005 </m_usIconID>
+    <m_ucEffectType>0x4 </m_ucEffectType>
+    <m_szName>复活cd</m_szName>
+    <m_szEffect>复活CD</m_szEffect>
+    <m_szDesc>按CD时间主动触发死亡后技能复活一次</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>17 </m_usID>
+    <m_ucPropertyID>0x11 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>1006 </m_usIconID>
+    <m_ucEffectType>0x3 </m_ucEffectType>
+    <m_szName>高级防漏</m_szName>
+    <m_szEffect>M/G/漏键</m_szEffect>
+    <m_szDesc>按数量抵消打歌中遗漏的键（可以是P以下的任何一个，或者是长条中少了的一个）</m_szDesc>
+</CharacterPropertyConfig_Client>
+<CharacterPropertyConfig_Client version="1">
+    <m_usID>18 </m_usID>
+    <m_ucPropertyID>0x12 </m_ucPropertyID>
+    <m_ucType>0x2 </m_ucType>
+    <m_usIconID>0 </m_usIconID>
+    <m_ucEffectType>0x2 </m_ucEffectType>
+    <m_szName>分数加成</m_szName>
+    <m_szEffect>歌曲分数</m_szEffect>
+    <m_szDesc>按比例提高打歌成绩，不超过对应歌曲总分上限</m_szDesc>
+</CharacterPropertyConfig_Client>
+</CharacterPropertyConfig_Client_Tab>

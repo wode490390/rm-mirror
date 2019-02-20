@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MatchConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>4156 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>6ce864fddfa548bac679735e5209233a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MatchConfig_Client version="1">
+    <m_iMatchIndex>570 </m_iMatchIndex>
+    <m_iRegion>1 </m_iRegion>
+    <m_iType>2 </m_iType>
+    <m_szBeginTime>2015-12-04 09:00:00</m_szBeginTime>
+    <m_szEndTime>2015-12-12 23:00:00</m_szEndTime>
+    <m_iElectNumber>4 </m_iElectNumber>
+    <m_iGroupNumber>2 </m_iGroupNumber>
+    <m_szApplySuccess>您已经成功报名TGA大赛</m_szApplySuccess>
+    <m_szTitle>2015TGA节奏大师冬季赛规则</m_szTitle>
+    <m_szTitle1>决赛时间：</m_szTitle1>
+    <m_szContent1>2015年12月11日13:00至2015年12月11日18:00</m_szContent1>
+    <m_szTitle2>报名方式：</m_szTitle2>
+    <m_szContent2>只可选择“手机组”或“平板组”中一组报名哦！</m_szContent2>
+    <m_szTitle3>赛事规则：</m_szTitle3>
+    <m_szContent3>总决赛时间：12月11日，届时游戏内将为所有玩家开放赛事系统，同时，晋级总决赛的选手自己的晋级的组别录入报名，方可参与总决赛，比赛期间的竞技曲目根据现场抽签决定；（1）总决赛将于2015年12月11日腾讯TGA大赛上举行（江苏省太仓市科教新城海运堤路86-2），届时活动方会联系相关选手具体参赛地点及相关事宜。（2）总决赛将产生本次节奏大师TGA赛事的冠军（手机组、平板组各1名）、亚军（手机组、平板组各1名）和季军（手机组、平板组各2名）。总决赛不再区分QQ和微信用户。</m_szContent3>
+    <m_szContentPage201></m_szContentPage201>
+    <m_szContentPage202></m_szContentPage202>
+    <m_szContentPage203></m_szContentPage203>
+    <m_szContentPage204></m_szContentPage204>
+    <m_szContentPage205></m_szContentPage205>
+    <m_szTimeDesc>决赛截止时间：12月11日18:00</m_szTimeDesc>
+    <m_szPostTitle>赛事信息</m_szPostTitle>
+    <m_szPostDesc1>比赛阶段：决赛</m_szPostDesc1>
+    <m_szPostDesc2>决赛截止时间：12月11日18:00</m_szPostDesc2>
+    <m_szPostDesc3>晋级人数：0</m_szPostDesc3>
+    <m_szPostDesc4>赛事规则：请进入TGA官网观看直播</m_szPostDesc4>
+    <m_szStageName></m_szStageName>
+</MatchConfig_Client>
+</MatchConfig_Client_Tab>

@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MissionConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>415 </Unit>
+        <Count>86 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>bffa8382ccc158e8f16edab724d60ae1</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MissionConfig_Client version="1">
+    <m_iMissionID>1 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-02 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1876 </m_iStartFloor>
+    <m_iEndFloor>1880 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>2 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-12-10 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-11 23:59:00</m_szEndTime>
+    <m_iStartFloor>1881 </m_iStartFloor>
+    <m_iEndFloor>1885 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>3 </m_iMissionID>
+    <m_szTitle>挑战隐藏歌曲</m_szTitle>
+    <m_iIconID>13 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-12-05 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1886 </m_iStartFloor>
+    <m_iEndFloor>1890 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>4 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-02 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1891 </m_iStartFloor>
+    <m_iEndFloor>1895 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>5 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-16 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1896 </m_iStartFloor>
+    <m_iEndFloor>1900 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>6 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-12-17 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-18 23:59:00</m_szEndTime>
+    <m_iStartFloor>1901 </m_iStartFloor>
+    <m_iEndFloor>1905 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>7 </m_iMissionID>
+    <m_szTitle>欧美精选</m_szTitle>
+    <m_iIconID>18 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-12-19 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1906 </m_iStartFloor>
+    <m_iEndFloor>1910 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>8 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-16 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1911 </m_iStartFloor>
+    <m_iEndFloor>1915 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>9 </m_iMissionID>
+    <m_szTitle>圣诞节大放送</m_szTitle>
+    <m_iIconID>37 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-24 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-25 23:59:00</m_szEndTime>
+    <m_iStartFloor>1921 </m_iStartFloor>
+    <m_iEndFloor>1925 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>10 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-12-23 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1916 </m_iStartFloor>
+    <m_iEndFloor>1920 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>11 </m_iMissionID>
+    <m_szTitle>玩转原创</m_szTitle>
+    <m_iIconID>10 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-12-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1926 </m_iStartFloor>
+    <m_iEndFloor>1930 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>12 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-12-23 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1931 </m_iStartFloor>
+    <m_iEndFloor>1935 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>22 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-07-29 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-04 23:59:00</m_szEndTime>
+    <m_iStartFloor>1486 </m_iStartFloor>
+    <m_iEndFloor>1490 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>23 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-07-30 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-07-31 23:59:00</m_szEndTime>
+    <m_iStartFloor>1491 </m_iStartFloor>
+    <m_iEndFloor>1495 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>24 </m_iMissionID>
+    <m_szTitle>挑战隐藏歌曲</m_szTitle>
+    <m_iIconID>13 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-08-01 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-04 23:59:00</m_szEndTime>
+    <m_iStartFloor>1496 </m_iStartFloor>
+    <m_iEndFloor>1500 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>25 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-07-29 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-04 23:59:00</m_szEndTime>
+    <m_iStartFloor>1501 </m_iStartFloor>
+    <m_iEndFloor>1505 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>26 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-05 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-11 23:59:00</m_szEndTime>
+    <m_iStartFloor>1506 </m_iStartFloor>
+    <m_iEndFloor>1510 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>27 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-08-06 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-07 23:59:00</m_szEndTime>
+    <m_iStartFloor>1511 </m_iStartFloor>
+    <m_iEndFloor>1515 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>28 </m_iMissionID>
+    <m_szTitle>女团来袭</m_szTitle>
+    <m_iIconID>43 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-08-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-11 23:59:00</m_szEndTime>
+    <m_iStartFloor>1516 </m_iStartFloor>
+    <m_iEndFloor>1520 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>29 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-05 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-11 23:59:00</m_szEndTime>
+    <m_iStartFloor>1521 </m_iStartFloor>
+    <m_iEndFloor>1525 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>30 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-12 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-18 23:59:00</m_szEndTime>
+    <m_iStartFloor>1526 </m_iStartFloor>
+    <m_iEndFloor>1530 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>31 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-08-13 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-14 23:59:00</m_szEndTime>
+    <m_iStartFloor>1531 </m_iStartFloor>
+    <m_iEndFloor>1535 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>32 </m_iMissionID>
+    <m_szTitle>玩转原创</m_szTitle>
+    <m_iIconID>10 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-08-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-18 23:59:00</m_szEndTime>
+    <m_iStartFloor>1536 </m_iStartFloor>
+    <m_iEndFloor>1540 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>33 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-12 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-18 23:59:00</m_szEndTime>
+    <m_iStartFloor>1541 </m_iStartFloor>
+    <m_iEndFloor>1545 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>34 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-19 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-25 23:59:00</m_szEndTime>
+    <m_iStartFloor>1546 </m_iStartFloor>
+    <m_iEndFloor>1550 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>35 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-20 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-21 23:59:00</m_szEndTime>
+    <m_iStartFloor>1551 </m_iStartFloor>
+    <m_iEndFloor>1555 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>36 </m_iMissionID>
+    <m_szTitle>韩日精选</m_szTitle>
+    <m_iIconID>47 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-08-22 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-25 23:59:00</m_szEndTime>
+    <m_iStartFloor>1556 </m_iStartFloor>
+    <m_iEndFloor>1560 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>37 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-19 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-25 23:59:00</m_szEndTime>
+    <m_iStartFloor>1561 </m_iStartFloor>
+    <m_iEndFloor>1565 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>38 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1566 </m_iStartFloor>
+    <m_iEndFloor>1570 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>39 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-08-27 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-08-28 23:59:00</m_szEndTime>
+    <m_iStartFloor>1571 </m_iStartFloor>
+    <m_iEndFloor>1575 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>40 </m_iMissionID>
+    <m_szTitle>华语组合</m_szTitle>
+    <m_iIconID>56 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-08-29 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1576 </m_iStartFloor>
+    <m_iEndFloor>1580 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>41 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-08-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1581 </m_iStartFloor>
+    <m_iEndFloor>1585 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>42 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-02 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-08 23:59:00</m_szEndTime>
+    <m_iStartFloor>1586 </m_iStartFloor>
+    <m_iEndFloor>1590 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>43 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-09-03 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-04 23:59:00</m_szEndTime>
+    <m_iStartFloor>1591 </m_iStartFloor>
+    <m_iEndFloor>1595 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>44 </m_iMissionID>
+    <m_szTitle>S大挑战</m_szTitle>
+    <m_iIconID>57 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-09-05 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-08 23:59:00</m_szEndTime>
+    <m_iStartFloor>1596 </m_iStartFloor>
+    <m_iEndFloor>1600 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>45 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-02 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-08 23:59:00</m_szEndTime>
+    <m_iStartFloor>1601 </m_iStartFloor>
+    <m_iEndFloor>1605 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>46 </m_iMissionID>
+    <m_szTitle>Snow? Moon? Flower?</m_szTitle>
+    <m_iIconID>14 </m_iIconID>
+    <m_szDiffDesc>不猜</m_szDiffDesc>
+    <m_szDiffColor>ffffffff</m_szDiffColor>
+    <m_szBeginTime>2016-09-03 17:30:00</m_szBeginTime>
+    <m_szEndTime>2016-09-03 19:59:00</m_szEndTime>
+    <m_iStartFloor>1611 </m_iStartFloor>
+    <m_iEndFloor>1615 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>222 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>47 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-09 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1616 </m_iStartFloor>
+    <m_iEndFloor>1620 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>48 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-09-10 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-11 23:59:00</m_szEndTime>
+    <m_iStartFloor>1621 </m_iStartFloor>
+    <m_iEndFloor>1625 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>49 </m_iMissionID>
+    <m_szTitle>挑战隐藏歌曲</m_szTitle>
+    <m_iIconID>13 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-09-12 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1626 </m_iStartFloor>
+    <m_iEndFloor>1630 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>50 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-09 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-15 23:59:00</m_szEndTime>
+    <m_iStartFloor>1631 </m_iStartFloor>
+    <m_iEndFloor>1635 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>51 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-16 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1636 </m_iStartFloor>
+    <m_iEndFloor>1640 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>52 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-09-17 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-18 23:59:00</m_szEndTime>
+    <m_iStartFloor>1641 </m_iStartFloor>
+    <m_iEndFloor>1645 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>53 </m_iMissionID>
+    <m_szTitle>欧美精选</m_szTitle>
+    <m_iIconID>18 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-09-19 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1646 </m_iStartFloor>
+    <m_iEndFloor>1650 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>54 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-16 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-22 23:59:00</m_szEndTime>
+    <m_iStartFloor>1651 </m_iStartFloor>
+    <m_iEndFloor>1655 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>55 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-23 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1656 </m_iStartFloor>
+    <m_iEndFloor>1660 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>56 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-09-24 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-25 23:59:00</m_szEndTime>
+    <m_iStartFloor>1661 </m_iStartFloor>
+    <m_iEndFloor>1665 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>57 </m_iMissionID>
+    <m_szTitle>甜美女声</m_szTitle>
+    <m_iIconID>30 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-09-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1666 </m_iStartFloor>
+    <m_iEndFloor>1670 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>58 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-23 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-09-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1671 </m_iStartFloor>
+    <m_iEndFloor>1675 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>59 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-30 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-06 23:59:00</m_szEndTime>
+    <m_iStartFloor>1676 </m_iStartFloor>
+    <m_iEndFloor>1680 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>60 </m_iMissionID>
+    <m_szTitle>国庆大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-10-01 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-06 23:59:00</m_szEndTime>
+    <m_iStartFloor>1681 </m_iStartFloor>
+    <m_iEndFloor>1700 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>61 </m_iMissionID>
+    <m_szTitle>玩转原创</m_szTitle>
+    <m_iIconID>10 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-10-03 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-06 23:59:00</m_szEndTime>
+    <m_iStartFloor>1701 </m_iStartFloor>
+    <m_iEndFloor>1705 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>62 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-09-30 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-06 23:59:00</m_szEndTime>
+    <m_iStartFloor>1706 </m_iStartFloor>
+    <m_iEndFloor>1710 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>63 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-07 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-13 23:59:00</m_szEndTime>
+    <m_iStartFloor>1711 </m_iStartFloor>
+    <m_iEndFloor>1715 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>64 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-10-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-09 23:59:00</m_szEndTime>
+    <m_iStartFloor>1716 </m_iStartFloor>
+    <m_iEndFloor>1720 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>65 </m_iMissionID>
+    <m_szTitle>挑战隐藏歌曲</m_szTitle>
+    <m_iIconID>13 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-10-10 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-13 23:59:00</m_szEndTime>
+    <m_iStartFloor>1721 </m_iStartFloor>
+    <m_iEndFloor>1725 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>66 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-07 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-13 23:59:00</m_szEndTime>
+    <m_iStartFloor>1726 </m_iStartFloor>
+    <m_iEndFloor>1730 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>67 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-14 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-20 23:59:00</m_szEndTime>
+    <m_iStartFloor>1731 </m_iStartFloor>
+    <m_iEndFloor>1735 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>68 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-10-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-16 23:59:01</m_szEndTime>
+    <m_iStartFloor>1736 </m_iStartFloor>
+    <m_iEndFloor>1740 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>69 </m_iMissionID>
+    <m_szTitle>华语组合</m_szTitle>
+    <m_iIconID>56 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-10-17 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-20 23:59:02</m_szEndTime>
+    <m_iStartFloor>1741 </m_iStartFloor>
+    <m_iEndFloor>1745 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>70 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-14 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-20 23:59:03</m_szEndTime>
+    <m_iStartFloor>1746 </m_iStartFloor>
+    <m_iEndFloor>1750 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>71 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-21 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-27 23:59:00</m_szEndTime>
+    <m_iStartFloor>1751 </m_iStartFloor>
+    <m_iEndFloor>1755 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>72 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-10-22 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-23 23:59:00</m_szEndTime>
+    <m_iStartFloor>1756 </m_iStartFloor>
+    <m_iEndFloor>1760 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>73 </m_iMissionID>
+    <m_szTitle>欧美精选</m_szTitle>
+    <m_iIconID>18 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-10-24 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-27 23:59:00</m_szEndTime>
+    <m_iStartFloor>1761 </m_iStartFloor>
+    <m_iEndFloor>1765 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>74 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-21 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-27 23:59:00</m_szEndTime>
+    <m_iStartFloor>1766 </m_iStartFloor>
+    <m_iEndFloor>1770 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>75 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-28 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-03 23:59:00</m_szEndTime>
+    <m_iStartFloor>1771 </m_iStartFloor>
+    <m_iEndFloor>1775 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>76 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-10-29 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-10-30 23:59:00</m_szEndTime>
+    <m_iStartFloor>1776 </m_iStartFloor>
+    <m_iEndFloor>1780 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>77 </m_iMissionID>
+    <m_szTitle>S大挑战</m_szTitle>
+    <m_iIconID>57 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-10-31 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-03 23:59:00</m_szEndTime>
+    <m_iStartFloor>1781 </m_iStartFloor>
+    <m_iEndFloor>1785 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>78 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-10-28 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-03 23:59:00</m_szEndTime>
+    <m_iStartFloor>1786 </m_iStartFloor>
+    <m_iEndFloor>1790 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>79 </m_iMissionID>
+    <m_szTitle>trIcK oR tREaT?</m_szTitle>
+    <m_iIconID>9 </m_iIconID>
+    <m_szDiffDesc>你猜</m_szDiffDesc>
+    <m_szDiffColor>ffffffff</m_szDiffColor>
+    <m_szBeginTime>2016-10-31 18:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1791 </m_iStartFloor>
+    <m_iEndFloor>1795 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>80 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-04 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-10 23:59:00</m_szEndTime>
+    <m_iStartFloor>1796 </m_iStartFloor>
+    <m_iEndFloor>1800 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>81 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-05 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-06 23:59:00</m_szEndTime>
+    <m_iStartFloor>1801 </m_iStartFloor>
+    <m_iEndFloor>1805 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>82 </m_iMissionID>
+    <m_szTitle>韩日精选</m_szTitle>
+    <m_iIconID>47 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-11-07 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-10 23:59:00</m_szEndTime>
+    <m_iStartFloor>1806 </m_iStartFloor>
+    <m_iEndFloor>1810 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>83 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-04 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-10 23:59:00</m_szEndTime>
+    <m_iStartFloor>1811 </m_iStartFloor>
+    <m_iEndFloor>1815 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>84 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-11 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>1816 </m_iStartFloor>
+    <m_iEndFloor>1820 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>85 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-11-12 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-13 23:59:00</m_szEndTime>
+    <m_iStartFloor>1821 </m_iStartFloor>
+    <m_iEndFloor>1825 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>86 </m_iMissionID>
+    <m_szTitle>魅力男声</m_szTitle>
+    <m_iIconID>29 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-11-14 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>1826 </m_iStartFloor>
+    <m_iEndFloor>1830 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>87 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-11 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>1831 </m_iStartFloor>
+    <m_iEndFloor>1835 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>88 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-18 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>1836 </m_iStartFloor>
+    <m_iEndFloor>1840 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>89 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-11-19 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-20 23:59:00</m_szEndTime>
+    <m_iStartFloor>1841 </m_iStartFloor>
+    <m_iEndFloor>1845 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>90 </m_iMissionID>
+    <m_szTitle>玩转原创</m_szTitle>
+    <m_iIconID>10 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-11-21 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>1846 </m_iStartFloor>
+    <m_iEndFloor>1850 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>91 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-18 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>1851 </m_iStartFloor>
+    <m_iEndFloor>1855 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>92 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1856 </m_iStartFloor>
+    <m_iEndFloor>1860 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>93 </m_iMissionID>
+    <m_szTitle>周末大挑战</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2016-11-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1861 </m_iStartFloor>
+    <m_iEndFloor>1865 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>94 </m_iMissionID>
+    <m_szTitle>甜美女声</m_szTitle>
+    <m_iIconID>30 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2016-11-28 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-11-29 23:59:00</m_szEndTime>
+    <m_iStartFloor>1866 </m_iStartFloor>
+    <m_iEndFloor>1870 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x0 </m_ucGameType>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>95 </m_iMissionID>
+    <m_szTitle>律动节奏（星动）</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2016-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2016-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>1871 </m_iStartFloor>
+    <m_iEndFloor>1875 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+    <m_iSeqID>0 </m_iSeqID>
+    <m_ucGameType>0x1 </m_ucGameType>
+</MissionConfig_Client>
+</MissionConfig_Client_Tab>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+
+  <HttpSongResPath>Com_SongRes/</HttpSongResPath>
+  <HttpTableComPath>Com_TableCom_IOS_Bin/</HttpTableComPath>
+
+  
+   <!--server domain-->
+  <ServerDomain>apple.mrock.qq.com</ServerDomain>
+  <UseDomain>1</UseDomain>
+  
+
+  <UseTgwLogin>1</UseTgwLogin>
+   
+  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ1>117.144.243.173</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>14005</ServerPortTgwQQ>
+
+  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin1>117.144.243.173</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>14004</ServerPortTgwWeixin>
+  
+  <ServerIPTgwGuestCnt>3</ServerIPTgwGuestCnt>
+  <ServerIPTgwGuest0>180.163.21.25</ServerIPTgwGuest0>
+  <ServerIPTgwGuest1>223.167.104.106</ServerIPTgwGuest1>
+  <ServerIPTgwGuest2>117.144.243.188</ServerIPTgwGuest2>
+  <ServerPortTgwGuest>14006</ServerPortTgwGuest>
+
+  <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
+  <ServerIPQQ>101.226.37.229</ServerIPQQ>
+  <ServerPortWeixin>8041</ServerPortWeixin>
+  <ServerPortQQ>8041</ServerPortQQ>
+  <ServerIPGuest>10.217.136.30</ServerIPGuest>
+  <ServerPortGuest>8888</ServerPortGuest>
+  
+  <ServerIPGuest>101.226.37.229</ServerIPGuest>
+  <ServerPortGuest>8888</ServerPortGuest>
+  
+  <NotifyUseTgw>1</NotifyUseTgw>
+  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw1>117.144.243.173</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyTgwPort>12005</NotifyTgwPort>
+      
+  <NotifyServerIP>101.226.37.229</NotifyServerIP>
+  <NotifyServerPort>8043</NotifyServerPort>
+
+  
+  <QQFrontLoginControlEnabled>1</QQFrontLoginControlEnabled>
+  <WXFrontLoginControlEnabled>1</WXFrontLoginControlEnabled>
+  <QQFrontLoginControlRetryTimes>3</QQFrontLoginControlRetryTimes>
+  <WXFrontLoginControlRetryTimes>3</WXFrontLoginControlRetryTimes>
+  <QQFrontLoginControlDuration>30</QQFrontLoginControlDuration>
+  <WXFrontLoginControlDuration>30</WXFrontLoginControlDuration>
+  <QQFrontLoginDisableDuration>30</QQFrontLoginDisableDuration>
+  <WXFrontLoginDisableDuration>30</WXFrontLoginDisableDuration>
+  <FrontLoginControlTipEnabled>1</FrontLoginControlTipEnabled>
+  
+
+  <LoginTimeOutDuration>6</LoginTimeOutDuration>
+  <NormalTimeOutDuration>20</NormalTimeOutDuration>
+
+</GameInfo>

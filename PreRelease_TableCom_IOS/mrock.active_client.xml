@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ActiveConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>35 </Unit>
+        <Count>8 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>8eb81bfe0dacb1f7562f35f02c64dde7</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>0 </m_ushActiveID>
+    <m_ucActiveType>0x0 </m_ucActiveType>
+    <m_iNumber>0 </m_iNumber>
+    <m_ucRewardNumber>0x0 </m_ucRewardNumber>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>1 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>1 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>40 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>20 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>2 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>2 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>60 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_iRewardID>1 </m_iRewardID>
+        <m_iRewardValue>2 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>3 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>3 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>64 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>4 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>4 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>4 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>68 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>50 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>5 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>5 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>72 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0xb </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>108 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>6 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>6 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>80 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x5 </m_ucRewardType>
+        <m_iRewardID>404 </m_iRewardID>
+        <m_iRewardValue>1 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+<ActiveConfig_Client version="1">
+    <m_ushActiveID>7 </m_ushActiveID>
+    <m_ucActiveType>0x1 </m_ucActiveType>
+    <m_iNumber>7 </m_iNumber>
+    <m_ucRewardNumber>0x2 </m_ucRewardNumber>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x1 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>100 </m_iRewardValue>
+    </m_astReward>
+    <m_astReward type="ActiveReward">
+        <m_ucRewardType>0x7 </m_ucRewardType>
+        <m_iRewardID>0 </m_iRewardID>
+        <m_iRewardValue>12 </m_iRewardValue>
+    </m_astReward>
+</ActiveConfig_Client>
+</ActiveConfig_Client_Tab>

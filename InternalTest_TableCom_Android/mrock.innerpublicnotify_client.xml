@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<InnerPublicNotifyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>924 </Unit>
+        <Count>2 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>c87986da44229b8752e3db64a480c9c8</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>0 </m_iID>
+    <m_iLevel>0 </m_iLevel>
+    <m_iContentType>0 </m_iContentType>
+    <m_szTitle>0</m_szTitle>
+    <m_szContent>0</m_szContent>
+    <m_szUrl>0</m_szUrl>
+    <m_iForce>0 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>1 </m_iID>
+    <m_iLevel>2 </m_iLevel>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle>新歌来了</m_szTitle>
+    <m_szContent>http://ossweb-img.qq.com/images/chanpin/da/norayao/xinge.jpg</m_szContent>
+    <m_szUrl></m_szUrl>
+    <m_iForce>0 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+</InnerPublicNotifyConfig_Client_Tab>

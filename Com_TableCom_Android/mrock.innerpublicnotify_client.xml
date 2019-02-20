@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<InnerPublicNotifyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>928 </Unit>
+        <Count>5 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>ca677c9837196474320024342dedc984</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>0 </m_iID>
+    <m_iLevel>0 </m_iLevel>
+    <m_iLinkType>0 </m_iLinkType>
+    <m_iContentType>0 </m_iContentType>
+    <m_szTitle>0</m_szTitle>
+    <m_szContent></m_szContent>
+    <m_szUrl>0</m_szUrl>
+    <m_iForce>0 </m_iForce>
+    <m_iPhonetype>1 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>389 </m_iID>
+    <m_iLevel>1 </m_iLevel>
+    <m_iLinkType>1 </m_iLinkType>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle></m_szTitle>
+    <m_szContent>http://ossweb-img.qq.com/images/chanpin/cvoice/public/da/20160628_a.jpg</m_szContent>
+    <m_szUrl>http://zhen.qq.com/act/authenticate/index.html</m_szUrl>
+    <m_iForce>1 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>444 </m_iID>
+    <m_iLevel>2 </m_iLevel>
+    <m_iLinkType>0 </m_iLinkType>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle></m_szTitle>
+    <m_szContent>http://ossweb-img.qq.com/images/chanpin/cvoice/public/da/20161213_a.jpg</m_szContent>
+    <m_szUrl></m_szUrl>
+    <m_iForce>1 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>445 </m_iID>
+    <m_iLevel>4 </m_iLevel>
+    <m_iLinkType>0 </m_iLinkType>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle></m_szTitle>
+    <m_szContent>http://ossweb-img.qq.com/images/chanpin/cvoice/public/da/20161213_c.jpg</m_szContent>
+    <m_szUrl></m_szUrl>
+    <m_iForce>1 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>445 </m_iID>
+    <m_iLevel>3 </m_iLevel>
+    <m_iLinkType>0 </m_iLinkType>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle></m_szTitle>
+    <m_szContent>http://ossweb-img.qq.com/images/chanpin/cvoice/public/da/20161213_b.jpg</m_szContent>
+    <m_szUrl></m_szUrl>
+    <m_iForce>1 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+</InnerPublicNotifyConfig_Client_Tab>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ScoreExchangeConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>21 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e9234775910713bbdf1b87c5f4dd91f8</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>0 </m_iExchangeID>
+    <m_ucItemType>0x0 </m_ucItemType>
+    <m_iItemID>0 </m_iItemID>
+    <m_iItemValue>0 </m_iItemValue>
+    <m_iScoreCost>0 </m_iScoreCost>
+    <m_iVersion>0 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>1 </m_iExchangeID>
+    <m_ucItemType>0x9 </m_ucItemType>
+    <m_iItemID>1004 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>28888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>2 </m_iExchangeID>
+    <m_ucItemType>0x5 </m_ucItemType>
+    <m_iItemID>402 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>588 </m_iScoreCost>
+    <m_iVersion>25100001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>88 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>566 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>5888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>89 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>527 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>4888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>90 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>500 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>4888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>91 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>438 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>4888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>92 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>327 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>4888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+<ScoreExchangeConfig_Client version="1">
+    <m_iExchangeID>93 </m_iExchangeID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>511 </m_iItemID>
+    <m_iItemValue>1 </m_iItemValue>
+    <m_iScoreCost>4888 </m_iScoreCost>
+    <m_iVersion>24010001 </m_iVersion>
+</ScoreExchangeConfig_Client>
+</ScoreExchangeConfig_Client_Tab>

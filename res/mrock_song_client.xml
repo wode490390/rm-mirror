@@ -1,0 +1,4015 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<SongConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>827 </Unit>
+        <Count>111 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>534a3a2ab15c9252870da1fa3e749a44</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<SongConfig_Client version="1">
+    <m_ushSongID>1 </m_ushSongID>
+    <m_iVersion>160 </m_iVersion>
+    <m_szSongName>贝多芬病毒</m_szSongName>
+    <m_szPath>beiduofenbingdu</m_szPath>
+    <m_szArtist>贝多芬</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.094444</m_szSongTime>
+    <m_iGameTime>136 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>156</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>7 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>482,710,910,483,716,912,483,725,919</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>2 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>素颜</m_szSongName>
+    <m_szPath>suyan</m_szPath>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.091667</m_szSongTime>
+    <m_iGameTime>132 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>85</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>3 </m_ush4KeyNormal>
+    <m_ush4KeyHard>5 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>3 </m_ush5KeyNormal>
+    <m_ush5KeyHard>5 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>3 </m_ush6KeyNormal>
+    <m_ush6KeyHard>5 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>267,375,451,267,380,450,267,459,459</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>3 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>On The Way</m_szSongName>
+    <m_szPath>ontheway</m_szPath>
+    <m_szArtist>奶牛</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.098611</m_szSongTime>
+    <m_iGameTime>132 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>200</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>1021,1869,2022,1027,1867,2028,1027,1863,2024</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>4 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Beautiful Girl</m_szSongName>
+    <m_szPath>beautifulgirl</m_szPath>
+    <m_szArtist>T-ara</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.092361</m_szSongTime>
+    <m_iGameTime>133 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>135</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>648,771,919,648,772,922,647,773,921</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>5 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Abracadabra</m_szSongName>
+    <m_szPath>abracadabra</m_szPath>
+    <m_szArtist>Brown Eyed Girls</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.085417</m_szSongTime>
+    <m_iGameTime>123 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>128</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>472,871,958,471,874,956,472,882,958</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>6 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>My All</m_szSongName>
+    <m_szPath>myall</m_szPath>
+    <m_szArtist>滨崎步</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.095833</m_szSongTime>
+    <m_iGameTime>138 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>104</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>549,901,1023,547,904,1026,547,907,1026</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>7 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>自由飞翔</m_szSongName>
+    <m_szPath>ziyoufeixiang</m_szPath>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090972</m_szSongTime>
+    <m_iGameTime>131 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>93</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>420,622,656,420,625,654,426,627,656</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>8 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>日不落</m_szSongName>
+    <m_szPath>ribuluo</m_szPath>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.084028</m_szSongTime>
+    <m_iGameTime>121 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>128</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>332,650,747,332,650,747,320,650,749</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>9 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>No.1127</m_szSongName>
+    <m_szPath>no1127</m_szPath>
+    <m_szArtist>邹天恒</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.097917</m_szSongTime>
+    <m_iGameTime>141 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>232</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>992,1320,1532,995,1313,1530,987,1324,1564</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>10 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>睫毛弯弯</m_szSongName>
+    <m_szPath>jiemaowanwan</m_szPath>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.079167</m_szSongTime>
+    <m_iGameTime>114 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>90</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>374,549,606,374,550,606,374,550,607</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>11 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>爱情买卖</m_szSongName>
+    <m_szPath>aiqingmaimai</m_szPath>
+    <m_szArtist>慕容晓晓</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090972</m_szSongTime>
+    <m_iGameTime>131 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>95</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>379,679,843,379,689,835,379,701,845</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>12 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>欧若拉</m_szSongName>
+    <m_szPath>ouruola</m_szPath>
+    <m_szArtist>张韶涵</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.0875</m_szSongTime>
+    <m_iGameTime>126 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>84.94</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>353,650,824,353,649,824,353,649,825</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>13 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>你若成风</m_szSongName>
+    <m_szPath>niruochengfeng</m_szPath>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.094444</m_szSongTime>
+    <m_iGameTime>136 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>93.011</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>299,614,699,299,626,659,299,631,659</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>14 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>DNA</m_szSongName>
+    <m_szPath>dna</m_szPath>
+    <m_szArtist>BY2</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.080556</m_szSongTime>
+    <m_iGameTime>116 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>1 </m_ucIsRecommend>
+    <m_szBPM>122</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>4 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>242,708,762,242,713,738,242,714,767</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>17 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>极速梦想</m_szSongName>
+    <m_szPath>jisumengxiang</m_szPath>
+    <m_szArtist>丹戈尔</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086806</m_szSongTime>
+    <m_iGameTime>125 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>166</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>5 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>5 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>5 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>1078,1121,1374,1086,1228,1374,1078,1121,1374</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>18 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>浪漫惊喜(QQ炫舞主题曲)</m_szSongName>
+    <m_szPath>langmanjingxi</m_szPath>
+    <m_szArtist>KenT</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.096528</m_szSongTime>
+    <m_iGameTime>139 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>88</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>279,610,622,279,603,622,279,616,622</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>19 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>斗地主</m_szSongName>
+    <m_szPath>doudizhu</m_szPath>
+    <m_szArtist>慕容晓晓</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.085417</m_szSongTime>
+    <m_iGameTime>123 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>144</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>476,959,1233,476,959,1233,476,959,1233</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>20 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>微博控</m_szSongName>
+    <m_szPath>weibokong</m_szPath>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.096528</m_szSongTime>
+    <m_iGameTime>139 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>138</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>473,916,1087,473,917,1087,473,916,1097</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>21 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>一千年以后</m_szSongName>
+    <m_szPath>yiqiannianyihou</m_szPath>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.111111</m_szSongTime>
+    <m_iGameTime>160 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>61</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>368,627,720,367,629,723,367,629,723</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>22 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>星月神话</m_szSongName>
+    <m_szPath>xingyueshenhua</m_szPath>
+    <m_szArtist>金莎</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.1</m_szSongTime>
+    <m_iGameTime>144 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>83</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>510,667,718,510,667,718,516,671,722</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>23 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>爱</m_szSongName>
+    <m_szPath>ai</m_szPath>
+    <m_szArtist>小虎队</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.089583</m_szSongTime>
+    <m_iGameTime>129 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>126.19</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>521,772,1077,521,772,1084,521,772,1084</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>24 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>里面外面</m_szSongName>
+    <m_szPath>limianwaimian</m_szPath>
+    <m_szArtist>范晓萱</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.115278</m_szSongTime>
+    <m_iGameTime>166 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>185</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>1325,1931,2182,1327,1933,2186,1327,1933,2188</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>25 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>逆战</m_szSongName>
+    <m_szPath>nizhan</m_szPath>
+    <m_szArtist>张杰</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.110417</m_szSongTime>
+    <m_iGameTime>159 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>489,957,1117,489,957,1127,489,957,1127</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>26 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>ANDY</m_szSongName>
+    <m_szPath>andy</m_szPath>
+    <m_szArtist>阿杜</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.1</m_szSongTime>
+    <m_iGameTime>144 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>68</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>374,583,679,373,582,682,373,581,682</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>27 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>火辣辣的情歌</m_szSongName>
+    <m_szPath>huolaladeqingge</m_szPath>
+    <m_szArtist>乌兰图雅</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.09375</m_szSongTime>
+    <m_iGameTime>134 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>96</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>437,619,685,437,615,685,437,619,685</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>28 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>最炫民族风</m_szSongName>
+    <m_szPath>zuixuanminzufeng</m_szPath>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.08125</m_szSongTime>
+    <m_iGameTime>117 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>127</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>292,665,717,292,665,718,292,665,718</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>29 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>QQ仙境</m_szSongName>
+    <m_szPath>qqxianjing</m_szPath>
+    <m_szArtist>Up Girls</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086806</m_szSongTime>
+    <m_iGameTime>125 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>146</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>282,635,872,282,636,871,282,636,873</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>30 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>曹操</m_szSongName>
+    <m_szPath>caocao</m_szPath>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086111</m_szSongTime>
+    <m_iGameTime>124 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>72</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>269,625,744,269,630,746,269,639,748</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>31 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>凑热闹</m_szSongName>
+    <m_szPath>courenao</m_szPath>
+    <m_szArtist>BY2</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.073611</m_szSongTime>
+    <m_iGameTime>106 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>115</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>289,697,773,289,699,779,289,699,779</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>32 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>雪愿</m_szSongName>
+    <m_szPath>xueyuan</m_szPath>
+    <m_szArtist>WolF.R</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.092361</m_szSongTime>
+    <m_iGameTime>133 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x1 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x0 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>5 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>5 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>5 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>6 </m_iPrice>
+    <m_szNoteNumber>840,1180,1261,840,1223,1303,840,1223,1303</m_szNoteNumber>
+    <m_szProductID>com.tencent.game.rhythmmaster.song032</m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>33 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>雪愿II</m_szSongName>
+    <m_szPath>xueyuan2</m_szPath>
+    <m_szArtist>WolF.R</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.076389</m_szSongTime>
+    <m_iGameTime>110 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>130</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x1 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x0 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>6 </m_iPrice>
+    <m_szNoteNumber>568,658,813,568,658,813,568,658,813</m_szNoteNumber>
+    <m_szProductID>com.tencent.game.rhythmmaster.song033</m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>34 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>L2</m_szSongName>
+    <m_szPath>l2</m_szPath>
+    <m_szArtist>Pure Morning</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086806</m_szSongTime>
+    <m_iGameTime>125 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>137</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x1 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x0 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>6 </m_iPrice>
+    <m_szNoteNumber>621,885,1361,614,885,1403,614,897,1407</m_szNoteNumber>
+    <m_szProductID>com.tencent.game.rhythmmaster.song0034</m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>35 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>我就是那只松鼠</m_szSongName>
+    <m_szPath>wojiushinazhisongshu</m_szPath>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090278</m_szSongTime>
+    <m_iGameTime>130 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>100</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>306,703,766,306,703,766,306,703,766</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>36 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>御龙归字谣</m_szSongName>
+    <m_szPath>yulongguiziyao</m_szPath>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.109722</m_szSongTime>
+    <m_iGameTime>158 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>112</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>586,1121,1586,586,1124,1587,586,1124,1589</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>38 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>自新大陆</m_szSongName>
+    <m_szPath>zixindalu</m_szPath>
+    <m_szArtist>Pure Morning</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.082639</m_szSongTime>
+    <m_iGameTime>119 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>160</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>466,926,1079,466,937,1151,466,940,1232</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>39 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>花黄瘦</m_szSongName>
+    <m_szPath>huahuangshou</m_szPath>
+    <m_szArtist>Pure Morning</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.098611</m_szSongTime>
+    <m_iGameTime>142 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>273,725,839,273,725,839,273,725,841</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>40 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>触动心，触动爱</m_szSongName>
+    <m_szPath>chudongxinchudongai</m_szPath>
+    <m_szArtist>BY2</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.093056</m_szSongTime>
+    <m_iGameTime>134 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>86</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>340,631,863,340,631,863,340,631,863</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>41 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>上海之恋</m_szSongName>
+    <m_szPath>shanghaizhilian</m_szPath>
+    <m_szArtist>Orange Caramel</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.111806</m_szSongTime>
+    <m_iGameTime>161 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>149</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>511,1232,1283,512,1233,1283,513,1234,1283</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>42 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>三国恋</m_szSongName>
+    <m_szPath>sanguolian</m_szPath>
+    <m_szArtist>Tank</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.0875</m_szSongTime>
+    <m_iGameTime>126 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>76</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>244,423,510,244,422,527,245,421,531</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>43 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>恋爱ing</m_szSongName>
+    <m_szPath>lianaiing</m_szPath>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086111</m_szSongTime>
+    <m_iGameTime>124 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>197</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>777,1069,1168,777,1061,1168,773,1061,1170</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>44 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>王妃</m_szSongName>
+    <m_szPath>wangfei</m_szPath>
+    <m_szArtist>萧敬腾</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.080556</m_szSongTime>
+    <m_iGameTime>116 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>127</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>537,688,866,537,639,872,537,694,872</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>45 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>穷开心</m_szSongName>
+    <m_szPath>qiongkaixin</m_szPath>
+    <m_szArtist>花儿乐队</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.075</m_szSongTime>
+    <m_iGameTime>108 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>397,928,1016,397,928,1016,397,919,1016</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>46 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>不得不爱</m_szSongName>
+    <m_szPath>budebuai</m_szPath>
+    <m_szArtist>潘玮柏&amp;弦子</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.125</m_szSongTime>
+    <m_iGameTime>180 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>80</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>450,852,1086,450,855,1060,450,839,1060</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>47 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>MR.Q</m_szSongName>
+    <m_szPath>mrq</m_szPath>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.094444</m_szSongTime>
+    <m_iGameTime>136 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>152</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>405,911,1101,405,909,1101,405,916,1102</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>48 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>不潮不用花钱</m_szSongName>
+    <m_szPath>buchaobuyaohuaqian</m_szPath>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.077083</m_szSongTime>
+    <m_iGameTime>111 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>112</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>342,552,676,342,551,674,342,545,670</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>49 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Honey</m_szSongName>
+    <m_szPath>honey</m_szPath>
+    <m_szArtist>Kara</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.097222</m_szSongTime>
+    <m_iGameTime>140 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>425,991,1054,425,991,1054,425,991,1054</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>50 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>舞娘</m_szSongName>
+    <m_szPath>wuniang</m_szPath>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.079167</m_szSongTime>
+    <m_iGameTime>114 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>124</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>277,572,710,277,567,711,277,570,713</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>51 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>后会无期</m_szSongName>
+    <m_szPath>houhuiwuqi</m_szPath>
+    <m_szArtist>徐良</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.098611</m_szSongTime>
+    <m_iGameTime>142 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>83.49</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>259,677,1004,259,720,1004,259,721,1011</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>52 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>伤不起</m_szSongName>
+    <m_szPath>shangbuqi</m_szPath>
+    <m_szArtist>王麟</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.106944</m_szSongTime>
+    <m_iGameTime>154 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>125</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>312,925,1358,312,932,1355,312,932,1356</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>53 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>轩辕传奇</m_szSongName>
+    <m_szPath>xuanyuanchuanqi</m_szPath>
+    <m_szArtist>邓超</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.0875</m_szSongTime>
+    <m_iGameTime>126 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>164</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>398,900,1259,398,901,1262,398,901,1298</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>54 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Telephone</m_szSongName>
+    <m_szPath>telephone</m_szPath>
+    <m_szArtist>Lady Gaga</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>122</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>267,769,1158,267,769,1173,267,769,1175</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>55 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>TNT</m_szSongName>
+    <m_szPath>tnt</m_szPath>
+    <m_szArtist>乐天女孩</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.066667</m_szSongTime>
+    <m_iGameTime>96 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>152</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>219,531,773,219,531,775,219,531,780</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>56 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>雨樱花</m_szSongName>
+    <m_szPath>yuyinghua</m_szPath>
+    <m_szArtist>飞儿乐团</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090278</m_szSongTime>
+    <m_iGameTime>130 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>329,819,1142,329,819,1153,329,819,1153</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>57 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Don&apos;t stop movin</m_szSongName>
+    <m_szPath>dontstopmovin</m_szPath>
+    <m_szArtist>S Club 7</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.077778</m_szSongTime>
+    <m_iGameTime>112 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>126</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>311,736,1086,311,736,1103,311,745,1099</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>58 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>邮递马车</m_szSongName>
+    <m_szPath>youdimache</m_szPath>
+    <m_szArtist>Hermann Necke</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.072917</m_szSongTime>
+    <m_iGameTime>105 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>180</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>475,734,1095,475,734,1170,475,734,1189</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>59 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Koko soko</m_szSongName>
+    <m_szPath>kokosoko</m_szPath>
+    <m_szArtist>Smile&apos;DK</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.063194</m_szSongTime>
+    <m_iGameTime>91 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>264,516,710,264,516,716,264,516,710</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>60 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Trouble is a Friend</m_szSongName>
+    <m_szPath>troubleisafriend</m_szPath>
+    <m_szArtist>Lenka</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.106944</m_szSongTime>
+    <m_iGameTime>154 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>118</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>348,909,1176,348,913,1197,348,913,1197</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>61 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>我的歌声里</m_szSongName>
+    <m_szPath>wodegeshengli</m_szPath>
+    <m_szArtist>曲婉婷</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.122222</m_szSongTime>
+    <m_iGameTime>176 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>137</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>556,1257,1631,556,1257,1637,556,1257,1637</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>62 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>自由幻想</m_szSongName>
+    <m_szPath>ziyouhuanxiang</m_szPath>
+    <m_szArtist>陈楚生</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090972</m_szSongTime>
+    <m_iGameTime>131 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>292,708,815,292,708,815,292,708,815</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>63 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>英雄杀</m_szSongName>
+    <m_szPath>yingxiongsha</m_szPath>
+    <m_szArtist>陈楚生</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.070833</m_szSongTime>
+    <m_iGameTime>102 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>132</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>244,683,1000,244,690,1000,244,690,1000</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>64 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>High歌</m_szSongName>
+    <m_szPath>highge</m_szPath>
+    <m_szArtist>黄龄</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.1125</m_szSongTime>
+    <m_iGameTime>162 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>108</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>519,1000,1368,519,1000,1368,519,1000,1368</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>65 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>克罗地亚狂想曲</m_szSongName>
+    <m_szPath>keluodiya</m_szPath>
+    <m_szArtist>马克西姆</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090278</m_szSongTime>
+    <m_iGameTime>130 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>192</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>8 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>8 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>9 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>8 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>9 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>8 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>9 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>1094,1176,1284,1093,1171,1284,1091,1175,1283</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>66 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>仙侠传·雪字</m_szSongName>
+    <m_szPath>xianxiazhuan</m_szPath>
+    <m_szArtist>武艺</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.105556</m_szSongTime>
+    <m_iGameTime>152 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>156</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>592,1225,1782,592,1225,1782,592,1229,1784</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>67 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>野蜂飞舞</m_szSongName>
+    <m_szPath>yefengfeiwu</m_szPath>
+    <m_szArtist>Juni</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.081944</m_szSongTime>
+    <m_iGameTime>118 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>10 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>160</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>342,692,1405,342,692,1391,342,692,1391</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>68 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>无限挑战</m_szSongName>
+    <m_szPath>wuxiantiaozhan</m_szPath>
+    <m_szArtist>SEED9</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.077083</m_szSongTime>
+    <m_iGameTime>111 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>10 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>550,854,1048,550,854,1047,550,854,1049</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>69 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>江南Style</m_szSongName>
+    <m_szPath>jiangnanstyle</m_szPath>
+    <m_szArtist>PSY</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.095833</m_szSongTime>
+    <m_iGameTime>138 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>132</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>365,815,1138,365,815,1142,365,815,1142</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>70 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>有点甜</m_szSongName>
+    <m_szPath>youdiantian</m_szPath>
+    <m_szArtist>汪苏泷</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.109028</m_szSongTime>
+    <m_iGameTime>157 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>105</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>341,680,817,341,679,821,341,688,821</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>71 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>RetroPoktan</m_szSongName>
+    <m_szPath>retropoktan</m_szPath>
+    <m_szArtist>SEED9</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.0875</m_szSongTime>
+    <m_iGameTime>126 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>10 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>180</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>297,577,1045,297,577,1101,297,577,1101</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>72 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>噩梦</m_szSongName>
+    <m_szPath>emeng</m_szPath>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.077083</m_szSongTime>
+    <m_iGameTime>111 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>281,651,748,281,651,748,281,651,748</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>73 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>幻想</m_szSongName>
+    <m_szPath>huanxiang</m_szPath>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086806</m_szSongTime>
+    <m_iGameTime>125 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>118</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>271,603,820,271,603,820,271,603,836</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>74 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>离开</m_szSongName>
+    <m_szPath>likai</m_szPath>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.084028</m_szSongTime>
+    <m_iGameTime>121 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>271,647,748,271,647,748,271,647,754</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>75 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>鼠鼠生风</m_szSongName>
+    <m_szPath>shushushengfeng</m_szPath>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.089583</m_szSongTime>
+    <m_iGameTime>129 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>130</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>8 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>9 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>8 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>9 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>8 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>9 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>809,967,1139,809,969,1139,809,972,1139</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>76 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>雪橇偷跑了</m_szSongName>
+    <m_szPath>xueqiaotoupaole</m_szPath>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.072222</m_szSongTime>
+    <m_iGameTime>104 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>215,511,627,215,511,627,215,511,627</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>77 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>这些年我们一起音速的日子</m_szSongName>
+    <m_szPath>yinsuderizi</m_szPath>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>5 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>5 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>5 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>328,600,665,328,600,665,328,600,665</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>78 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>十岁</m_szSongName>
+    <m_szPath>shisui</m_szPath>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.097222</m_szSongTime>
+    <m_iGameTime>140 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>130</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>5 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>5 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>5 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>301,591,857,301,591,857,301,591,857</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>79 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Jump Over</m_szSongName>
+    <m_szPath>jumpover</m_szPath>
+    <m_szArtist>MAZO</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.072222</m_szSongTime>
+    <m_iGameTime>104 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>10 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>180</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>610,787,1179,610,787,1179,610,787,1179</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>80 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>梦千年之恋</m_szSongName>
+    <m_szPath>mengqiannianzhilian</m_szPath>
+    <m_szArtist>金莎</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.103472</m_szSongTime>
+    <m_iGameTime>149 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>381,985,1421,381,985,1421,381,985,1421</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>81 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>武林盟主</m_szSongName>
+    <m_szPath>wulinmengzhu</m_szPath>
+    <m_szArtist>苏醒</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.079167</m_szSongTime>
+    <m_iGameTime>114 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>220,583,804,220,583,804,220,583,810</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>82 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>少女时代</m_szSongName>
+    <m_szPath>shaonvshidai</m_szPath>
+    <m_szArtist>少女时代</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>112</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>374,621,1028,374,623,1028,374,623,1028</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>83 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>卡农-摇滚版</m_szSongName>
+    <m_szPath>canonrock</m_szPath>
+    <m_szArtist>JerryC</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.10625</m_szSongTime>
+    <m_iGameTime>153 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>200</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>9 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>682,1375,2615,682,1377,2628,682,1377,2639</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>84 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>东风破</m_szSongName>
+    <m_szPath>dongfengpo</m_szPath>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.104167</m_szSongTime>
+    <m_iGameTime>150 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>73</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>455,529,628,457,530,628,457,534,637</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>85 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>笑傲蜀山</m_szSongName>
+    <m_szPath>xiaoaoshushan</m_szPath>
+    <m_szArtist>曲泉丞</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.121528</m_szSongTime>
+    <m_iGameTime>175 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>86</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>939,1023,1205,944,1023,1205,944,1023,1205</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>86 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Last Christmas</m_szSongName>
+    <m_szPath>lastchristmas</m_szPath>
+    <m_szArtist>Taylor Swift</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.080556</m_szSongTime>
+    <m_iGameTime>116 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>116</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>231,595,822,231,598,822,231,598,822</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>87 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Jumping</m_szSongName>
+    <m_szPath>jumping</m_szPath>
+    <m_szArtist>Kara</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.091667</m_szSongTime>
+    <m_iGameTime>132 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>126</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>594,1021,1307,594,1022,1308,594,1022,1308</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>88 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>天堂岛乐园</m_szSongName>
+    <m_szPath>tiantangdao</m_szPath>
+    <m_szArtist>徐良</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.070833</m_szSongTime>
+    <m_iGameTime>102 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>164</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>271,806,823,271,814,827,271,814,827</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>90 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>星语</m_szSongName>
+    <m_szPath>xingyu</m_szPath>
+    <m_szArtist>星之物语</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090278</m_szSongTime>
+    <m_iGameTime>136 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>136</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>325,849,915,325,849,915,325,849,917</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>91 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>摇摇宇宙</m_szSongName>
+    <m_szPath>yaoyaoyuzhou</m_szPath>
+    <m_szArtist></m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086111</m_szSongTime>
+    <m_iGameTime>124 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>11 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>140</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>347,1062,1357,347,1062,1381,347,1062,1381</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>92 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>You Should Get Over Me</m_szSongName>
+    <m_szPath>youshouldgetoverme</m_szPath>
+    <m_szArtist>Jessica Wolff</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.077778</m_szSongTime>
+    <m_iGameTime>112 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>417,716,1146,417,716,1150,417,716,1150</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>93 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>自由</m_szSongName>
+    <m_szPath>ziyou</m_szPath>
+    <m_szArtist>张震岳</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.122917</m_szSongTime>
+    <m_iGameTime>177 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>150</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>5 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>5 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>5 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>991,1132,1510,991,1132,1513,991,1131,1515</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>94 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>虐心</m_szSongName>
+    <m_szPath>nuexin</m_szPath>
+    <m_szArtist>徐良(feat.孙羽幽)</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.106944</m_szSongTime>
+    <m_iGameTime>154 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>110</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>230,692,791,230,692,791,230,692,791</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>95 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>蜂鸟</m_szSongName>
+    <m_szPath>fengniao</m_szPath>
+    <m_szArtist>马克西姆</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.086806</m_szSongTime>
+    <m_iGameTime>125 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>1 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>144</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>10 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>7 </m_ush4KeyNormal>
+    <m_ush4KeyHard>9 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>7 </m_ush5KeyNormal>
+    <m_ush5KeyHard>9 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>7 </m_ush6KeyNormal>
+    <m_ush6KeyHard>9 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>644,1341,1567,644,1341,1567,644,1341,1695</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>96 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Around The World</m_szSongName>
+    <m_szPath>aroundtheworld</m_szPath>
+    <m_szArtist>MOVE</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.109722</m_szSongTime>
+    <m_iGameTime>158 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>120</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>4 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>4 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>4 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>428,908,1009,428,916,1009,428,916,1009</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>98 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Day by day</m_szSongName>
+    <m_szPath>daybyday</m_szPath>
+    <m_szArtist>T-ara</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.065278</m_szSongTime>
+    <m_iGameTime>94 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>118</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>216,479,748,216,479,748,216,479,749</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>99 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Tell me Tell me</m_szSongName>
+    <m_szPath>tellmetellme</m_szPath>
+    <m_szArtist>Rainbow</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090278</m_szSongTime>
+    <m_iGameTime>130 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>144</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>490,972,1070,492,974,1087,492,977,1094</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>100 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>彩色的黑</m_szSongName>
+    <m_szPath>caisedehei</m_szPath>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.093056</m_szSongTime>
+    <m_iGameTime>134 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>105</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>360,624,725,360,626,718,361,619,719</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>101 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Club Can&apos;t Handle Me</m_szSongName>
+    <m_szPath>clubcanthandleme</m_szPath>
+    <m_szArtist>Flo Rida</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.099306</m_szSongTime>
+    <m_iGameTime>143 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>128</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>501,961,1308,501,962,1310,501,963,1318</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>102 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Gentleman</m_szSongName>
+    <m_szPath>psygentleman</m_szPath>
+    <m_szArtist>PSY</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090972</m_szSongTime>
+    <m_iGameTime>131 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>4 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>126</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>437,760,1111,437,760,1111,437,760,1111</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>103 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>不要睡懒觉</m_szSongName>
+    <m_szPath>buyaoshuilanjiao</m_szPath>
+    <m_szArtist>汪苏泷</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>178</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>499,831,1074,499,831,1076,499,815,1097</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>104 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>十二生肖</m_szSongName>
+    <m_szPath>shiershengxiao</m_szPath>
+    <m_szArtist>王力宏</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.090972</m_szSongTime>
+    <m_iGameTime>131 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>82.5</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>363,871,884,363,872,889,363,873,892</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>106 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Bugatti</m_szSongName>
+    <m_szPath>bugatti</m_szPath>
+    <m_szArtist>Ace Hood</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.084028</m_szSongTime>
+    <m_iGameTime>121 </m_iGameTime>
+    <m_iRegion>4 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>131</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>410,564,844,414,564,842,414,564,897</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>111 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>死一样的痛过</m_szSongName>
+    <m_szPath>siyiyangdetongguo</m_szPath>
+    <m_szArtist>MC梦</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.103472</m_szSongTime>
+    <m_iGameTime>149 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>122</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>555,1080,1333,555,1081,1345,555,1081,1335</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>115 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>倚天剑雨</m_szSongName>
+    <m_szPath>yitianjianyu</m_szPath>
+    <m_szArtist>董贞</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.098611</m_szSongTime>
+    <m_iGameTime>142 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>82</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>427,755,1056,427,756,1053,427,759,1053</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>116 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Toy War</m_szSongName>
+    <m_szPath>toywar</m_szPath>
+    <m_szArtist>M2U</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.079861</m_szSongTime>
+    <m_iGameTime>115 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>160</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>8 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>8 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>8 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>519,812,1225,519,809,1225,520,808,1225</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>120 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Paradise</m_szSongName>
+    <m_szPath>paradise</m_szPath>
+    <m_szArtist>M2U</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.071528</m_szSongTime>
+    <m_iGameTime>103 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>128</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>307,638,846,307,639,846,307,639,847</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>122 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Break Down</m_szSongName>
+    <m_szPath>breakdown</m_szPath>
+    <m_szArtist>Super Junior-M</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.098611</m_szSongTime>
+    <m_iGameTime>142 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>130</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>440,816,1312,440,820,1339,440,824,1353</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>126 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Bright Spring</m_szSongName>
+    <m_szPath>brightspring</m_szPath>
+    <m_szArtist>M2U</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.108333</m_szSongTime>
+    <m_iGameTime>156 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>1 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>130</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>5 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>5 </m_ush4KeyNormal>
+    <m_ush4KeyHard>7 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>5 </m_ush5KeyNormal>
+    <m_ush5KeyHard>7 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>5 </m_ush6KeyNormal>
+    <m_ush6KeyHard>7 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>506,1123,1558,506,1125,1569,506,1125,1567</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>127 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Lunatic Sky</m_szSongName>
+    <m_szPath>lunaticsky</m_szPath>
+    <m_szArtist>M2U</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.091667</m_szSongTime>
+    <m_iGameTime>132 </m_iGameTime>
+    <m_iRegion>3 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>1 </m_ucIsRecommend>
+    <m_szBPM>160</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>2 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>3 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>6 </m_ush4KeyNormal>
+    <m_ush4KeyHard>10 </m_ush4KeyHard>
+    <m_ush5KeyEasy>3 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>6 </m_ush5KeyNormal>
+    <m_ush5KeyHard>10 </m_ush5KeyHard>
+    <m_ush6KeyEasy>3 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>6 </m_ush6KeyNormal>
+    <m_ush6KeyHard>10 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>647,1007,1378,647,1111,1344,647,1111,1360</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>131 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>就要K歌</m_szSongName>
+    <m_szPath>jiuyaokge</m_szPath>
+    <m_szArtist>郭书瑶</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.088889</m_szSongTime>
+    <m_iGameTime>128 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>101.06</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>3 </m_ush4KeyNormal>
+    <m_ush4KeyHard>5 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>3 </m_ush5KeyNormal>
+    <m_ush5KeyHard>5 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>3 </m_ush6KeyNormal>
+    <m_ush6KeyHard>5 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>317,538,971,317,542,973,317,542,973</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>137 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>老爹</m_szSongName>
+    <m_szPath>laodie</m_szPath>
+    <m_szArtist>迪克牛仔&amp;弦子</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.097222</m_szSongTime>
+    <m_iGameTime>140 </m_iGameTime>
+    <m_iRegion>2 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>1 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>134</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>6 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>438,822,1189,438,826,1189,438,826,1189</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>140 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>父亲</m_szSongName>
+    <m_szPath>kuaizifuqin</m_szPath>
+    <m_szArtist>筷子兄弟</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.104167</m_szSongTime>
+    <m_iGameTime>150 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>1 </m_iStyle>
+    <m_ucIsNew>0 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>1 </m_ucIsRecommend>
+    <m_szBPM>73</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>3 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>1 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>3 </m_ush4KeyNormal>
+    <m_ush4KeyHard>5 </m_ush4KeyHard>
+    <m_ush5KeyEasy>1 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>3 </m_ush5KeyNormal>
+    <m_ush5KeyHard>5 </m_ush5KeyHard>
+    <m_ush6KeyEasy>1 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>3 </m_ush6KeyNormal>
+    <m_ush6KeyHard>5 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>354,596,893,354,596,894,354,596,893</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+<SongConfig_Client version="1">
+    <m_ushSongID>144 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>西游记序曲</m_szSongName>
+    <m_szPath>xiyoujixuqu</m_szPath>
+    <m_szArtist>贺斗战神开测</m_szArtist>
+    <m_szComposer></m_szComposer>
+    <m_szSongTime>0.088194</m_szSongTime>
+    <m_iGameTime>127 </m_iGameTime>
+    <m_iRegion>1 </m_iRegion>
+    <m_iStyle>6 </m_iStyle>
+    <m_ucIsNew>1 </m_ucIsNew>
+    <m_ucIsHot>0 </m_ucIsHot>
+    <m_ucIsRecommend>0 </m_ucIsRecommend>
+    <m_szBPM>118.19</m_szBPM>
+    <m_ucIsOpen>1 </m_ucIsOpen>
+    <m_ucCanBuy>0x0 </m_ucCanBuy>
+    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_bIsFree>0x1 </m_bIsFree>
+    <m_szFreeBeginTime></m_szFreeBeginTime>
+    <m_szFreeEndTime></m_szFreeEndTime>
+    <m_ush4KeyEasy>2 </m_ush4KeyEasy>
+    <m_ush4KeyNormal>4 </m_ush4KeyNormal>
+    <m_ush4KeyHard>6 </m_ush4KeyHard>
+    <m_ush5KeyEasy>2 </m_ush5KeyEasy>
+    <m_ush5KeyNormal>4 </m_ush5KeyNormal>
+    <m_ush5KeyHard>6 </m_ush5KeyHard>
+    <m_ush6KeyEasy>2 </m_ush6KeyEasy>
+    <m_ush6KeyNormal>4 </m_ush6KeyNormal>
+    <m_ush6KeyHard>6 </m_ush6KeyHard>
+    <m_iPrice>0 </m_iPrice>
+    <m_szNoteNumber>509,753,1313,509,753,1313,509,753,1313</m_szNoteNumber>
+    <m_szProductID></m_szProductID>
+    <m_iVipFlag>0 </m_iVipFlag>
+    <m_bIsHide>0x0 </m_bIsHide>
+</SongConfig_Client>
+</SongConfig_Client_Tab>

@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+  <BulletinVersion>25</BulletinVersion>
+  <SelectLineTip>520全民恋爱季即将开启，《节奏大师》爱之心意抢先告白，丰富活动，新鲜好歌为你传情达意！</SelectLineTip>
+  <EvalutionUrl>http://da.qq.com</EvalutionUrl>
+  <MicroBlog>新歌周周有，好歌玩不停！最精致音乐游戏#节奏大师#！游戏下载：http://da.qq.com</MicroBlog>
+  <GameOverTipPer30>不要灰心，再接再厉哦！再来一次吧！</GameOverTipPer30>
+  <GameOverTipPer50>打中了一半的音符，继续加油吧！</GameOverTipPer50>
+  <GameOverTipPer60>亲！还要多多练习哦！</GameOverTipPer60>
+  <GameOverTipPer80>加油哦！小师妹为你打气！</GameOverTipPer80>
+  <GameOverTipPer90>亲！再多打几次！马上就可以过关了！</GameOverTipPer90>
+  <LoadingTipCount>9</LoadingTipCount>
+  <LoadingTipPer1>每首歌曲第一次加载MP3过程会较慢，以后就很快了</LoadingTipPer1>
+  <LoadingTipPer2>节奏大师每周都有新歌更新，要持续关注哦</LoadingTipPer2>
+  <LoadingTipPer3>歌曲评价的高低顺序是SSS、SS、S、A、B、C、D</LoadingTipPer3>
+  <LoadingTipPer4>在排行榜中您可以查看您的QQ好友排行与全球排行</LoadingTipPer4>
+  <LoadingTipPer5>调整速度也是过关的秘诀，尝试用高倍速游戏吧</LoadingTipPer5>
+  <LoadingTipPer6>每首共有3个模式，每个模式有3个难度，体验均不一样哦</LoadingTipPer6>
+  <LoadingTipPer7>游戏过程中一定要跟着节奏打音符，这样才能得到高分</LoadingTipPer7>
+  <LoadingTipPer8>将成绩和排行榜在社交圈分享可以让朋友看到你的成绩</LoadingTipPer8>
+  <LoadingTipPer9>简单难度歌曲即便死亡了也还是可以继续游戏的</LoadingTipPer9>
+  <Lock4To5>30</Lock4To5>
+  <Lock5To6>60</Lock5To6>
+  <LockEasyToNormal>4</LockEasyToNormal>
+  <LockNormalToHard>4</LockNormalToHard>  
+  <LockCoinEasyToNormal>30</LockCoinEasyToNormal>
+  <LockCoinNormalToHard>30</LockCoinNormalToHard>
+  <Lock4To5Tip>完成30次4键模式即可解锁本模式。</Lock4To5Tip>
+  <Lock5To6Tip>累计完成60次4键或5键模式即可解锁本模式。</Lock5To6Tip>
+  <LockEasyToNormalTip>当前歌曲简单难度获得A评价，即可解锁本难度。</LockEasyToNormalTip>
+  <LockNormalToHardTip>当前歌曲简单与一般难度均获得A评价，即可解锁本难度。</LockNormalToHardTip>
+  <Lock4To5AlertTip>恭喜，成功解锁5键模式！</Lock4To5AlertTip>
+  <Lock5To6AlertTip>恭喜，成功解锁6键模式！</Lock5To6AlertTip>
+  <LockEasyToNormalAlertTip>恭喜，成功解锁当前歌曲一般难度！</LockEasyToNormalAlertTip>
+  <LockNormalToHardAlertTip>恭喜，成功解锁当前歌曲困难难度！</LockNormalToHardAlertTip>
+  <!--分享相关配置-->
+  <ShareContentcomparewxfriend1>我在</ShareContentcomparewxfriend1>
+  <ShareContentcomparewxfriend2>中超越了你,不服来战！</ShareContentcomparewxfriend2>
+  <ShareContentcomparewx1>我在</ShareContentcomparewx1>
+  <ShareContentcomparewx2>中超越了你,不服来战！</ShareContentcomparewx2>
+  <ShareContentcompareqq1>我在</ShareContentcompareqq1>
+  <ShareContentcompareqq2>中超越了你,不服来战！</ShareContentcompareqq2>
+
+  <ShareContentsummarizewxfriend1>终于打到</ShareContentsummarizewxfriend1>
+  <ShareContentsummarizewxfriend2>了,北鼻你行吗?</ShareContentsummarizewxfriend2>
+  <ShareContentsummarizewx1>终于打到</ShareContentsummarizewx1>
+  <ShareContentsummarizewx2>了,北鼻你行吗?</ShareContentsummarizewx2>
+  <ShareContentsummarizeqq1>终于打到</ShareContentsummarizeqq1>
+  <ShareContentsummarizeqq2>了,北鼻你行吗?</ShareContentsummarizeqq2>
+
+  <ShareContentfloorsumwxfriend1>俺的</ShareContentfloorsumwxfriend1>
+  <ShareContentfloorsumwxfriend2>打了</ShareContentfloorsumwxfriend2>
+  <ShareContentfloorsumwxfriend3>分，你呢？</ShareContentfloorsumwxfriend3>
+  <ShareContentfloorsumwx1>俺的</ShareContentfloorsumwx1>
+  <ShareContentfloorsumwx2>打了</ShareContentfloorsumwx2>
+  <ShareContentfloorsumwx3>分，你呢？</ShareContentfloorsumwx3>
+  <ShareContentfloorsumqq1>俺的</ShareContentfloorsumqq1>
+  <ShareContentfloorsumqq2>打了</ShareContentfloorsumqq2>
+  <ShareContentfloorsumqq3>分，你呢？</ShareContentfloorsumqq3>
+
+  <ShareContentfloorrewardwxfriend1>天上掉馅饼了，我抽到隐藏歌《</ShareContentfloorrewardwxfriend1>
+  <ShareContentfloorrewardwxfriend2>》啦!</ShareContentfloorrewardwxfriend2>
+  <ShareContentfloorrewardwx1>天上掉馅饼了，我抽到隐藏歌《</ShareContentfloorrewardwx1>
+  <ShareContentfloorrewardwx2>》啦!</ShareContentfloorrewardwx2>
+  <ShareContentfloorrewardqq1>天上掉馅饼了，我抽到隐藏歌《</ShareContentfloorrewardqq1>
+  <ShareContentfloorrewardqq2>》啦!</ShareContentfloorrewardqq2>
+
+  <ShareContentinvitewxfriend1>小伙伴，快来玩节奏大师，一起做音乐达人！</ShareContentinvitewxfriend1>
+  <ShareContentinvitewx1>小伙伴，快来玩节奏大师，一起做音乐达人！</ShareContentinvitewx1>
+  <ShareContentinviteqq1>小伙伴，快来玩节奏大师，一起做音乐达人！</ShareContentinviteqq1>
+  
+    <ShareContentrankwxfriend1>排行榜因我而改变，有木有！</ShareContentrankwxfriend1>
+  <ShareContentrankwx1>排行榜因我而改变，有木有！</ShareContentrankwx1>
+  <ShareContentrankqq1>排行榜因我而改变，有木有！</ShareContentrankqq1>
+  
+  <ShareContentFloorrankwxfriend1>嗷~我的闯关排名飞速上升ing，这就是实力有木有！</ShareContentFloorrankwxfriend1>
+  <ShareContentFloorrankwx1>嗷~我的闯关排名飞速上升ing，这就是实力有木有！</ShareContentFloorrankwx1>
+  <ShareContentFloorrankqq1>嗷~我的闯关排名飞速上升ing，这就是实力有木有！</ShareContentFloorrankqq1>
+  
+  <ShareContentShortFloorrankwxfriend>闯关周榜还有%d天就刷新了，快来打新歌刷积分吧！</ShareContentShortFloorrankwxfriend>
+  <ShareContentShortFloorrankwx>闯关周榜还有%d天就刷新了，快来打新歌刷积分吧！</ShareContentShortFloorrankwx>
+  <ShareContentShortFloorrankqq>闯关周榜还有%d天就刷新了，快来打新歌刷积分吧！</ShareContentShortFloorrankqq>
+  
+  <ShareContentLvlwxfriend>我的等级达到了Lv %d，大师~你懂不？</ShareContentLvlwxfriend>
+  <ShareContentLvlwx>我的等级达到了Lv %d，大师~你懂不？</ShareContentLvlwx>
+  <ShareContentLvlqq>我的等级达到了Lv %d，大师~你懂不？</ShareContentLvlqq>
+
+  <ShareContentweibo>新歌周周有，好歌玩不停，能让你和你的小伙伴们都惊呆了的音乐游戏#节奏大师#！游戏下载：http://da.qq.com/d</ShareContentweibo>
+  
+  <ShareContentRankChange>我在闯关模式获得了%d分，超过你咯！</ShareContentRankChange>
+  
+  <ShareContentCompareSingle1>少年，我的</ShareContentCompareSingle1>
+  <ShareContentCompareSingle2>的成绩也不赖哦，比比？</ShareContentCompareSingle2>
+
+  <ShareContent1>我的成绩刷新了哟，快来超越我吧！</ShareContent1>
+  <ShareContent2>前无古人，后无来者，我有SSS，你有木有？</ShareContent2>
+  <ShareContent3>太棒了，我终于打出了SS评价哦，你也来试试吧。</ShareContent3>
+  <ShareContent4>矮油，伦家已经通过了</ShareContent4>
+  <ShareContent5>关了，你嘞?</ShareContent5>
+  <ShareContent6>oh yeah，天上掉馅饼了，我抽到了隐藏歌哦。</ShareContent6>
+  <ShareContent7>小伙伴，快来玩节奏大师，一起做音乐达人！</ShareContent7>
+  <ShareContent8>新歌周周有，好歌玩不停！最精致音乐游戏#节奏大师#游戏下载：http://da.qq.com/d</ShareContent8>
+
+  <ShareContent9>4Key简单《</ShareContent9>
+  <ShareContent10>》轻轻松松SSS到手，你也来试试吧。</ShareContent10>
+  <ShareContent11>5key困难《</ShareContent11>
+  <ShareContent12>》SS顺利到手，少年，你不赶紧来一发么？</ShareContent12>
+  <ShareContent13>不容易啊，6key一般《</ShareContent13>
+  <ShareContent14>》这么难的歌我都打到S了。少年你又如何呢？</ShareContent14>
+
+  <WXShareGotoUrl>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=100666228&amp;plat=wx</WXShareGotoUrl>
+  <QQShareGotoUrl>http://gamecenter.qq.com/gcjump?pf=invite&amp;appid=100666228&amp;plat=qq</QQShareGotoUrl>
+  
+  <!--分享按钮显示条件配置-->
+  <!--结算界面，1: StartLvl1-EndLvl1星 -->
+  <!--结算界面，2: StartLvl2-EndLvl2星 -->
+  <!--结算界面，3: StartLvl3-EndLvl3星 -->
+  <ShareIconSummarizeStartLvl1>1</ShareIconSummarizeStartLvl1>
+  <ShareIconSummarizeEndLvl1>4</ShareIconSummarizeEndLvl1>
+  <ShareIconSummarizeStartLvl2>5</ShareIconSummarizeStartLvl2>
+  <ShareIconSummarizeEndLvl2>7</ShareIconSummarizeEndLvl2>
+  <ShareIconSummarizeStartLvl3>8</ShareIconSummarizeStartLvl3>
+  <ShareIconSummarizeEndLvl3>100</ShareIconSummarizeEndLvl3>
+  <!--结算界面，D-SSS,1-7 -->
+  <ShareIconSummarize1>4</ShareIconSummarize1>
+  <ShareIconSummarize2>3</ShareIconSummarize2>
+  <ShareIconSummarize3>2</ShareIconSummarize3>
+  
+  <!--闯关结算界面，每多少关显示一次 -->
+  <ShareIconFloorSum>1</ShareIconFloorSum>
+  
+  <!--抽奖界面，多少关之后开始显示隐藏歌分享按钮 -->
+  <ShareIconFloorReward>0</ShareIconFloorReward>
+  
+  <!--对比界面，0无限，1每天一次 -->
+  <ShareIconRank>0</ShareIconRank>
+  
+    <!--自由模式排行榜界面，0隐藏，1显示 -->
+  <ShareIconRankEx>1</ShareIconRankEx>
+  
+  <!--闯关排行榜界面，0隐藏，1显示 -->
+  <ShareIconFloorRankEx>1</ShareIconFloorRankEx>
+
+  <QQQun>官方玩家群：90076695</QQQun>
+  <IOSUpdateType>1</IOSUpdateType>
+  <AndroidUpdateType>1</AndroidUpdateType>
+  <IOSUpdateVersion>2.5.8.1</IOSUpdateVersion>
+  <AndroidUpdateVersion>2.5.10.1</AndroidUpdateVersion>
+  <IOSUpdateURL>http://itunes.apple.com/cn/app/jie-zou-da-shi/id493901993?mt=8</IOSUpdateURL>
+  <AndroidUpdateURL>http://da.qq.com/d/</AndroidUpdateURL>
+
+  <!--0 没有 1固定 2url-->
+  <LoginTag>0</LoginTag>
+  <LoingTagUrl></LoingTagUrl>
+  <!--Tga相关配置-->
+  <MusicListForRaceLabel5>赛事公告</MusicListForRaceLabel5>
+  <MusicListForRaceTime>比赛阶段：</MusicListForRaceTime>
+  <MusicListForRaceAllTime>比赛时间：</MusicListForRaceAllTime>
+  <MusicListForRaceAllSong>比赛歌曲：</MusicListForRaceAllSong>
+  <MusicListForRaceNext>晋级选拔：</MusicListForRaceNext>
+
+  <MusicListForRaceAllDesc>海选</MusicListForRaceAllDesc>
+  <MusicListForRaceAllTimeDesc>4月27日-5月12日</MusicListForRaceAllTimeDesc>
+  <MusicListForRaceAllSongDesc>6首</MusicListForRaceAllSongDesc>
+  <MusicListForRaceAllReward>海选排名前50名可晋级并获得100Q币</MusicListForRaceAllReward>
+
+  <MusicListForRace32to16Desc>预赛</MusicListForRace32to16Desc>
+  <MusicListForRace32to16TimeDesc>5月15日-5月19日</MusicListForRace32to16TimeDesc>
+  <MusicListForRace32to16SongDesc>5首</MusicListForRace32to16SongDesc>
+  <MusicListForRace32to16Reward>预赛排名前25名可晋级并获得200Q币</MusicListForRace32to16Reward>
+
+  <MusicListForRace16to8Desc>复赛</MusicListForRace16to8Desc>
+  <MusicListForRace16to8TimeDesc>5月22日-5月26日</MusicListForRace16to8TimeDesc>
+  <MusicListForRace16to8SongDesc>3首</MusicListForRace16to8SongDesc>
+  <MusicListForRace16to8Reward>复赛排名前3名可晋级并获得1000Q币</MusicListForRace16to8Reward>
+
+  <TgaSelectLineTip>2013 TGA节奏大师挑战赛线上比赛结束，线下决赛请关注官网通知！</TgaSelectLineTip>
+
+  <TgaTips>本次线上比赛结束</TgaTips>
+  <MD5Version>315</MD5Version>
+  <ShowFloorHelp>1</ShowFloorHelp>
+  
+  <m_szProductID600>com.tencent.game.rhythmmaster.goldx600</m_szProductID600>
+  <m_iPrice600>6 </m_iPrice600>
+  <m_iGold600>600 </m_iGold600>
+  <m_iDiscountGold600>0 </m_iDiscountGold600>
+  <m_szProductID1800>com.tencent.game.rhythmmaster.goldx2000</m_szProductID1800>
+  <m_iPrice1800>18 </m_iPrice1800>
+  <m_iGold1800>1800 </m_iGold1800>
+  <m_iDiscountGold1800>90 </m_iDiscountGold1800>
+  <m_szProductID3000>com.tencent.game.rhythmmaster.goldx3400</m_szProductID3000>
+  <m_iPrice3000>30 </m_iPrice3000>
+  <m_iGold3000>3000 </m_iGold3000>
+  <m_iDiscountGold3000>300 </m_iDiscountGold3000>
+  <m_szProductID9800>com.tencent.game.rhythmmaster.goldx11500</m_szProductID9800>
+  <m_iPrice9800>98 </m_iPrice9800>
+  <m_iGold9800>9800 </m_iGold9800>
+  <m_iDiscountGold9800>1500 </m_iDiscountGold9800>
+
+<m_szDiamondProductID600>com.tencent.game.rhythmmaster.zuanshix60</m_szDiamondProductID600>
+  <m_iDiamondPrice600>6 </m_iDiamondPrice600>
+  <m_iDiamondGold600>60 </m_iDiamondGold600>
+  <m_iDiamondDiscountGold600>0 </m_iDiamondDiscountGold600>
+  <m_szDiamondProductID1800>com.tencent.game.rhythmmaster.zuanshix190</m_szDiamondProductID1800>
+  <m_iDiamondPrice1800>18 </m_iDiamondPrice1800>
+  <m_iDiamondGold1800>190 </m_iDiamondGold1800>
+  <m_iDiamondDiscountGold1800>0 </m_iDiamondDiscountGold1800>
+  <m_szDiamondProductID3000>com.tencent.game.rhythmmaster.zuanshix320</m_szDiamondProductID3000>
+  <m_iDiamondPrice3000>30 </m_iDiamondPrice3000>
+  <m_iDiamondGold3000>320 </m_iDiamondGold3000>
+  <m_iDiamondDiscountGold3000>0 </m_iDiamondDiscountGold3000>
+  <m_szDiamondProductID9800>com.tencent.game.rhythmmaster.zuanshix1050</m_szDiamondProductID9800>
+  <m_iDiamondPrice9800>98 </m_iDiamondPrice9800>
+  <m_iDiamondGold9800>1050 </m_iDiamondGold9800>
+  <m_iDiamondDiscountGold9800>0 </m_iDiamondDiscountGold9800>
+  <m_szDiamondProductID2450>com.tencent.game.rhythmmaster.zuanshix2450</m_szDiamondProductID2450>
+  <m_iDiamondPrice2450>228 </m_iDiamondPrice2450>
+  <m_iDiamondGold2450>2450 </m_iDiamondGold2450>
+  <m_iDiamondDiscountGold2450>0 </m_iDiamondDiscountGold2450>
+  
+  <WeekFloorRefreashText>快给好友送体力吧~！</WeekFloorRefreashText>
+
+  
+  <BothDynamicDisabledTip>当前游戏服务器繁忙，微信服需等待%s，QQ服需等待%s，请退出游戏稍后再来。</BothDynamicDisabledTip>
+  <QQDynamicDisabledTip>各位小主，当前游戏服务器繁忙，需等待%s，建议您稍后尝试登录游戏。</QQDynamicDisabledTip>
+  <WXDynamicDisabledTip>各位小主，当前游戏服务器繁忙，需等待%s，建议您稍后尝试登录游戏。</WXDynamicDisabledTip>
+  
+  <DynamicExit>知道了</DynamicExit>
+  <DynamicContinue>知道了</DynamicContinue>
+  <MainPageRankType0>11</MainPageRankType0>
+  <MainPageRankType1>10</MainPageRankType1>
+  <DownloadNoWifi>0</DownloadNoWifi><!--1 表示可以在非wifi情况下下载，0表示不能在非wifi下 -->
+
+<PaPaModeEnterLevel>1</PaPaModeEnterLevel>
+<PaPaMissReduceStarValue>18</PaPaMissReduceStarValue>
+<PapaAddtionStarMaxLevel>3</PapaAddtionStarMaxLevel>
+<PapaAddtionStarNum>72</PapaAddtionStarNum>
+<LockCoinPapaMode>1000</LockCoinPapaMode>
+ 
+<PvpEnterLevel>1</PvpEnterLevel>
+<IOSQQTribleURL>http://xiaoqu.qq.com/cgi-bin/bar/qqgame/handle_ticket?redirect_url=http%3A%2F%2Fxiaoqu.qq.com%2Fmobile%2Fbarindex.html%3F%26_bid%3D%26_wv%3D1027%26from%3Dgameblog_rhythmmaster%23bid%3D10090%26sourcetype%3D1</IOSQQTribleURL>
+<AndroidQQTribleURL>http://xiaoqu.qq.com/cgi-bin/bar/qqgame/handle_ticket?redirect_url=http%3A%2F%2Fxiaoqu.qq.com%2Fmobile%2Fbarindex.html%3F%26_bid%3D%26_wv%3D1027%26from%3Dgameblog_rhythmmaster%23bid%3D10090%26sourcetype%3D1</AndroidQQTribleURL>
+
+</GameInfo>

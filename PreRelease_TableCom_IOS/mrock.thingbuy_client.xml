@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ThingBuyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>31 </Unit>
+        <Count>3 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>e3c498d13e3b7cc8482768041d80427b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ThingBuyConfig_Client version="1">
+    <m_iBuyID>0 </m_iBuyID>
+    <m_ucItemType>0x0 </m_ucItemType>
+    <m_iItemID>0 </m_iItemID>
+    <m_iItemValue>0 </m_iItemValue>
+    <m_ucPresentType>0x0 </m_ucPresentType>
+    <m_iPresentId>0 </m_iPresentId>
+    <m_iPresentNum>0 </m_iPresentNum>
+    <m_ucBuyType>0x0 </m_ucBuyType>
+    <m_iCostNum>0 </m_iCostNum>
+    <m_iMinClientVersion>0 </m_iMinClientVersion>
+</ThingBuyConfig_Client>
+<ThingBuyConfig_Client version="1">
+    <m_iBuyID>1 </m_iBuyID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>38 </m_iItemID>
+    <m_iItemValue>3 </m_iItemValue>
+    <m_ucPresentType>0x5 </m_ucPresentType>
+    <m_iPresentId>414 </m_iPresentId>
+    <m_iPresentNum>5 </m_iPresentNum>
+    <m_ucBuyType>0x3 </m_ucBuyType>
+    <m_iCostNum>58 </m_iCostNum>
+    <m_iMinClientVersion>23010002 </m_iMinClientVersion>
+</ThingBuyConfig_Client>
+<ThingBuyConfig_Client version="1">
+    <m_iBuyID>2 </m_iBuyID>
+    <m_ucItemType>0x3 </m_ucItemType>
+    <m_iItemID>146 </m_iItemID>
+    <m_iItemValue>7 </m_iItemValue>
+    <m_ucPresentType>0x5 </m_ucPresentType>
+    <m_iPresentId>414 </m_iPresentId>
+    <m_iPresentNum>45 </m_iPresentNum>
+    <m_ucBuyType>0x3 </m_ucBuyType>
+    <m_iCostNum>480 </m_iCostNum>
+    <m_iMinClientVersion>23010002 </m_iMinClientVersion>
+</ThingBuyConfig_Client>
+</ThingBuyConfig_Client_Tab>

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ErrnoConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>564 </Unit>
+        <Count>180 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>dfd259ca30405384d32083e51bcd260a</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SUCCESS</m_szName>
+    <m_uiValue>0 </m_uiValue>
+    <m_szDescriptionZH>成功</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GAME_INTERNAL_ERROR</m_szName>
+    <m_uiValue>1000 </m_uiValue>
+    <m_szDescriptionZH>您的网络不太稳定哦，建议您尝试重新登录游戏。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SESSION_NULL</m_szName>
+    <m_uiValue>1001 </m_uiValue>
+    <m_szDescriptionZH>您的帐号从别处登录了，建议您重新登录游戏。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_NULL</m_szName>
+    <m_uiValue>1002 </m_uiValue>
+    <m_szDescriptionZH>非常抱歉，您的角色资料拉取时出错了，麻烦您重新登录游戏以更新资料。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_ID_INVALID</m_szName>
+    <m_uiValue>1003 </m_uiValue>
+    <m_szDescriptionZH>啊呀，好像歌曲信息读取出错了，建议您重新登录游戏再尝试下。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_EXIST</m_szName>
+    <m_uiValue>1004 </m_uiValue>
+    <m_szDescriptionZH>您的帐号信息出现了未知错误，请重新登录试试吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_NOT_OVER</m_szName>
+    <m_uiValue>1005 </m_uiValue>
+    <m_szDescriptionZH>当前歌曲还没有结束哦，请等待歌曲结束后再进行操作。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_SCORE_INVALID</m_szName>
+    <m_uiValue>1006 </m_uiValue>
+    <m_szDescriptionZH>咦？系统检测到您此次的分数有异常哦，请重新开始再打一次吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_NEW_RECORD</m_szName>
+    <m_uiValue>1007 </m_uiValue>
+    <m_szDescriptionZH>很遗憾，您没有创造更好的成绩，加油，再来一局吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_GOLD</m_szName>
+    <m_uiValue>1008 </m_uiValue>
+    <m_szDescriptionZH>额，少年，您的金币貌似不够了啊，是否去补充下再继续战斗？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_SILVER</m_szName>
+    <m_uiValue>1009 </m_uiValue>
+    <m_szDescriptionZH>额，少年，您的银币貌似不够了啊，是否去补充下再继续战斗？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_EVALUATION</m_szName>
+    <m_uiValue>1010 </m_uiValue>
+    <m_szDescriptionZH>嗯……真不好意思，这次打的评价貌似有点问题，麻烦重来一次吧，</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_UIN</m_szName>
+    <m_uiValue>1011 </m_uiValue>
+    <m_szDescriptionZH>抱歉，您不在此次测试的受邀用户名单，请联系工作人员为您开通权限。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SERVER_BUSY</m_szName>
+    <m_uiValue>1012 </m_uiValue>
+    <m_szDescriptionZH>天啊，服务器快被少年们挤得喘不过气来了，只能麻烦您稍后再尝试了。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GAME_GOLD_NA</m_szName>
+    <m_uiValue>1013 </m_uiValue>
+    <m_szDescriptionZH>额，系统现在连接过多，无法获取您的账户信息了，请稍后再尝试一下。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_OBJ_NULL</m_szName>
+    <m_uiValue>1121 </m_uiValue>
+    <m_szDescriptionZH>非常抱歉，歌曲谱面加载失败了！麻烦您再试一次吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_NOT_LOAD</m_szName>
+    <m_uiValue>1122 </m_uiValue>
+    <m_szDescriptionZH>非常抱歉，歌曲谱面加载失败了！只能麻烦您再试一次了</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HIT_ERROR</m_szName>
+    <m_uiValue>1123 </m_uiValue>
+    <m_szDescriptionZH>啊呀！曲库信息读取出错了！建议您先玩玩其他歌曲。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PURCHASE_NOT_FINISH</m_szName>
+    <m_uiValue>1124 </m_uiValue>
+    <m_szDescriptionZH>额~貌似您上一次的购买出现了问题，建议您重新尝试购买一次。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_RECEIPT_INDEX</m_szName>
+    <m_uiValue>1125 </m_uiValue>
+    <m_szDescriptionZH>票据索引错误</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PURCHASE_INVALID_RECEIPT</m_szName>
+    <m_uiValue>1126 </m_uiValue>
+    <m_szDescriptionZH>咦？系统检测到您触发了一个未知的错误，建议您稍后重试一下。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_FREQUENCY</m_szName>
+    <m_uiValue>1127 </m_uiValue>
+    <m_szDescriptionZH>啊哦，您的操作频率太快了以致服务器产生了错误，只能请您稍后再试试了。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_RANK_NUMBER_OVERFLOW</m_szName>
+    <m_uiValue>1128 </m_uiValue>
+    <m_szDescriptionZH>嘟~嘟~警告！警告！您读取的排行数据过大，请稍后重试。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_PURCHASE_INDEX</m_szName>
+    <m_uiValue>1129 </m_uiValue>
+    <m_szDescriptionZH>购买索引错误</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ACTIVE_AWARD_ERROR</m_szName>
+    <m_uiValue>1130 </m_uiValue>
+    <m_szDescriptionZH>嗯……不好意思，您暂时还木有达到活动要求，不能领取奖励哟。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_OWN</m_szName>
+    <m_uiValue>1131 </m_uiValue>
+    <m_szDescriptionZH>报告小主，您已经购买过这首歌曲啦，请使用“恢复购买”恢复歌曲。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_CANNOT_BUY</m_szName>
+    <m_uiValue>1132 </m_uiValue>
+    <m_szDescriptionZH>咦？经查询，这首歌曲暂时还不提供给各位小主购买哦，不如看看别的？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_BUY_INDEX</m_szName>
+    <m_uiValue>1133 </m_uiValue>
+    <m_szDescriptionZH>购买ID错误</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_VERSION</m_szName>
+    <m_uiValue>1134 </m_uiValue>
+    <m_szDescriptionZH>报告小主，您当前使用的游戏版本过低，为保证顺利游戏，麻烦您更新下游戏版本。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PURCHASE_SONGID_ERROR</m_szName>
+    <m_uiValue>1135 </m_uiValue>
+    <m_szDescriptionZH>唔……这首歌好像不在商品目录上哦，我这就去查询下，请您稍后再来。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_YINSUVIP</m_szName>
+    <m_uiValue>1136 </m_uiValue>
+    <m_szDescriptionZH>非常抱歉，你需要满足这首歌对应的特权要求才能使用这首歌曲哦。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CHANNEL_ERROR</m_szName>
+    <m_uiValue>1137 </m_uiValue>
+    <m_szDescriptionZH>付费渠道错误</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_BUYID_ERROR</m_szName>
+    <m_uiValue>1138 </m_uiValue>
+    <m_szDescriptionZH>啊哦~这个宝箱的奖励好像有点问题啊，建议您重新登录游戏试试。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GOLD_EXCEED</m_szName>
+    <m_uiValue>1139 </m_uiValue>
+    <m_szDescriptionZH>您的持有的金币数已达上限，不能再持有更多的了，请先消耗一点再尝试。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ENERGY_NOT_ENOUGH</m_szName>
+    <m_uiValue>1140 </m_uiValue>
+    <m_szDescriptionZH>额~您的体力已经耗尽了，是否要去商店补充一些呢？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TGA2013_NOT_REGISTERED</m_szName>
+    <m_uiValue>1151 </m_uiValue>
+    <m_szDescriptionZH>少年，您还没有去报名啊，请先前去报名再来战斗吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TGA2013_NOT_OPEN</m_szName>
+    <m_uiValue>1152 </m_uiValue>
+    <m_szDescriptionZH>各位小主，本阶段的比赛还未开放哦，请留意开放时间，准时前来战斗哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TGA2013_NOT_QUALIFIED</m_szName>
+    <m_uiValue>1153 </m_uiValue>
+    <m_szDescriptionZH>哎呀，太遗憾了，您居然没有获得晋级资格。多加练习，下次一定行的！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TGA2013_REGISTER_CLOSED</m_szName>
+    <m_uiValue>1154 </m_uiValue>
+    <m_szDescriptionZH>什么？您居然没赶上报名时间？没办法，只能请您下次早点来了。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_FRIEND</m_szName>
+    <m_uiValue>1155 </m_uiValue>
+    <m_szDescriptionZH>停！这位小主还不是您的好友，暂时不可以这么做哦。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INTERVAL_TOO_SMALL</m_szName>
+    <m_uiValue>1156 </m_uiValue>
+    <m_szDescriptionZH>哇，您的操作太快了，系统都反应不过来了，能不能请您稍微慢点再试一次呢？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GOLD_BUYID_ERROR</m_szName>
+    <m_uiValue>1157 </m_uiValue>
+    <m_szDescriptionZH>咦？这个商品貌似记录出错了，技术人员正在查询中，请您稍后再试吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TGA2013_REGISTERED</m_szName>
+    <m_uiValue>1158 </m_uiValue>
+    <m_szDescriptionZH>少年，您已经报过名了，快点击参加比赛开始战斗吧！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_BOX_NOT_OPEN</m_szName>
+    <m_uiValue>1159 </m_uiValue>
+    <m_szDescriptionZH>哇哦，您还有个宝箱没有开耶，先打开看看里面都有什么吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_USEITEM_EXCEED</m_szName>
+    <m_uiValue>1160 </m_uiValue>
+    <m_szDescriptionZH>哎呀，您居然带了这么多道具，这是系统不允许的哦，麻烦更换下吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ITEMID_INVALID</m_szName>
+    <m_uiValue>1161 </m_uiValue>
+    <m_szDescriptionZH>咦？有个道具出问题了，我去通知技术人员，麻烦您先试试别的。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_BOX_OPENED</m_szName>
+    <m_uiValue>1162 </m_uiValue>
+    <m_szDescriptionZH>额~您已经领取过这个宝箱的奖励了，怎么还能打开呢？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HAVE_SEND_TODAY</m_szName>
+    <m_uiValue>1163 </m_uiValue>
+    <m_szDescriptionZH>您好像已经给这个好友送过体力了，不如早上8点以后再试试？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_ALREADY_UNLOCKED</m_szName>
+    <m_uiValue>1164 </m_uiValue>
+    <m_szDescriptionZH>哇喔！您选择的歌曲难度已经成功解锁了，快去尝试玩玩看看吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_FLOOR_ID_INVALID</m_szName>
+    <m_uiValue>1165 </m_uiValue>
+    <m_szDescriptionZH>咦？这个关卡好像有点问题，请稍后再来试试吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_FLOOR_WEEK_LIMIT</m_szName>
+    <m_uiValue>1166 </m_uiValue>
+    <m_szDescriptionZH>恭喜您已闯完所有关卡，请期待后续关卡更新！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_FORBIDDEN</m_szName>
+    <m_uiValue>1167 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的账号帐号因使用第三方插件，将被封停一段时间，以后要正常游戏哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONGPLAY_OVERTIME</m_szName>
+    <m_uiValue>1168 </m_uiValue>
+    <m_szDescriptionZH>咦？系统君报告说您的游戏数据有异常哦。这次的分数就暂时不做记录了，麻烦您再来一次试试。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SERVER_MANYPEOPLE</m_szName>
+    <m_uiValue>1169 </m_uiValue>
+    <m_szDescriptionZH>玩家太热情，小师妹受不鸟啦！！！进入游戏需要等候，要不您先喝一杯茶再来？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PHYSICALGIVE_TOOMUCH</m_szName>
+    <m_uiValue>1170 </m_uiValue>
+    <m_szDescriptionZH>哇喔！少年，您今天已经送出去足够多的体力了，请您明天8点后再来尝试吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MARKETACT_EXPIRED</m_szName>
+    <m_uiValue>1171 </m_uiValue>
+    <m_szDescriptionZH>非常抱歉，该活动已经过期了，您不能领取这个奖励了，下次要记得按时领取哦。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MARKETACT_REWARD_ACCEPTD</m_szName>
+    <m_uiValue>1172 </m_uiValue>
+    <m_szDescriptionZH>啊咧咧，小主，您已经领取过该活动的奖励啦。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MARKETACT_NOTFINISH</m_szName>
+    <m_uiValue>1173 </m_uiValue>
+    <m_szDescriptionZH>咦？好像您没有达到领取这个奖励的条件哦。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MARKETACT_NOTEXIST</m_szName>
+    <m_uiValue>1174 </m_uiValue>
+    <m_szDescriptionZH>额~这个活动好像已经不在列表里哦，麻烦您重登录后再看看。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MISSION_NOTEXIST</m_szName>
+    <m_uiValue>1175 </m_uiValue>
+    <m_szDescriptionZH>咦？这个活动关卡好像关闭了，请你先去尝试挑战其他关卡吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MISSION_EXPIRED</m_szName>
+    <m_uiValue>1176 </m_uiValue>
+    <m_szDescriptionZH>这个活动关卡已经结束咯，去试试其他的吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MISSION_NORESET</m_szName>
+    <m_uiValue>1177 </m_uiValue>
+    <m_szDescriptionZH>本闯关活动为一次性关卡，无法重复游戏。其他关卡也会有丰富的奖励和歌曲哦，去试试吧：）</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_1</m_szName>
+    <m_uiValue>1178 </m_uiValue>
+    <m_szDescriptionZH>哎呀，这次你只获得了10金币，最多能拿50金币我会乱说？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_2</m_szName>
+    <m_uiValue>1179 </m_uiValue>
+    <m_szDescriptionZH>啧啧啧，20金币还不错！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_3</m_szName>
+    <m_uiValue>1180 </m_uiValue>
+    <m_szDescriptionZH>中国好节奏，中国好运气！30金币金灿灿！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_4</m_szName>
+    <m_uiValue>1181 </m_uiValue>
+    <m_szDescriptionZH>你的人品爆表了！50金币碉堡了！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_FRIEND_NOT_RETURN</m_szName>
+    <m_uiValue>1182 </m_uiValue>
+    <m_szDescriptionZH>童鞋，你的小伙伴们好似跟你走散了，重新登录寻找一下吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_HIDE</m_szName>
+    <m_uiValue>1183 </m_uiValue>
+    <m_szDescriptionZH>您还没有获得这首隐藏歌曲哦，不如先去闯个关试试手气吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_REWARD</m_szName>
+    <m_uiValue>1184 </m_uiValue>
+    <m_szDescriptionZH>很抱歉，您暂时不能使用这首奖励歌曲</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_REPORT_ERROR</m_szName>
+    <m_uiValue>1185 </m_uiValue>
+    <m_szDescriptionZH>嗯……真不好意思，这次打的分数貌似有点问题，麻烦重来一次吧，</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ITEM_NUMBER_LIMIT</m_szName>
+    <m_uiValue>1186 </m_uiValue>
+    <m_szDescriptionZH>这种道具只能装备一个哦亲</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_LAST_WEEK_HAS_SHOWN</m_szName>
+    <m_uiValue>1187 </m_uiValue>
+    <m_szDescriptionZH>上周榜已经显示过了</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CANNOT_REVIVAL</m_szName>
+    <m_uiValue>1188 </m_uiValue>
+    <m_szDescriptionZH>不能死亡复活</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_NOT_BUY</m_szName>
+    <m_uiValue>1189 </m_uiValue>
+    <m_szDescriptionZH>你还没有购买这首歌曲哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_LEVEL_LIMIT</m_szName>
+    <m_uiValue>1190 </m_uiValue>
+    <m_szDescriptionZH>等级不够，新模式还无法开启哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PAPA_WINNER_RETRY</m_szName>
+    <m_uiValue>1191 </m_uiValue>
+    <m_szDescriptionZH>额，擂主数据拉取有点慢哦，稍后将自动重试一下</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HAVE_ASK_TODAY</m_szName>
+    <m_uiValue>1192 </m_uiValue>
+    <m_szDescriptionZH>您好像已经向这个好友索要过体力了，不如明天再试试？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_10001</m_szName>
+    <m_uiValue>1193 </m_uiValue>
+    <m_szDescriptionZH>恭喜您今天第一次成为擂主，获得了50金币的奖励</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GIVE_GOLD_10002</m_szName>
+    <m_uiValue>1194 </m_uiValue>
+    <m_szDescriptionZH>恭喜您上周获得了总擂主第一，获得了388金币的奖励</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GAME_ENERGY_OVERFLOW</m_szName>
+    <m_uiValue>1195 </m_uiValue>
+    <m_szDescriptionZH>您的体力已经太多了，暂时不能获得更多体力哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_BAG_FULL</m_szName>
+    <m_uiValue>1196 </m_uiValue>
+    <m_szDescriptionZH>你的背包已经装不下啦，快去使用道具吧！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ITEM_OVERFLOW</m_szName>
+    <m_uiValue>1197 </m_uiValue>
+    <m_szDescriptionZH>你的道具已经超过堆叠上限啦，快去使用吧！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ITEM_NUMBER_WARNING</m_szName>
+    <m_uiValue>1198 </m_uiValue>
+    <m_szDescriptionZH>你的道具快超过堆叠上限啦，快去使用吧！否则将影响宝箱送道具！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_LEVEL_LIMIT</m_szName>
+    <m_uiValue>1199 </m_uiValue>
+    <m_szDescriptionZH>等级不够，PVP模式还无法开启哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SCORE_LIMIT</m_szName>
+    <m_uiValue>1200 </m_uiValue>
+    <m_szDescriptionZH>积分不够哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_MATCH_TIMEOUT</m_szName>
+    <m_uiValue>1201 </m_uiValue>
+    <m_szDescriptionZH>暂时没有找到合适的对战玩家哦，稍后再试一次吧。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_HAVEN</m_szName>
+    <m_uiValue>1202 </m_uiValue>
+    <m_szDescriptionZH>你已经拥有该歌曲哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_SURVIVEACT</m_szName>
+    <m_uiValue>1203 </m_uiValue>
+    <m_szDescriptionZH>目前没有生存挑战活动哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_THE_SURVIVEACT</m_szName>
+    <m_uiValue>1204 </m_uiValue>
+    <m_szDescriptionZH>生存挑战活动尚未开启！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_DIAMOND_BUYSCORE</m_szName>
+    <m_uiValue>1205 </m_uiValue>
+    <m_szDescriptionZH>额，少年，您的钻石貌似不够了啊，是否去补充下再购买？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_FORBIDDEN_0003</m_szName>
+    <m_uiValue>1206 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的账号帐号因使用第三方插件，将被封停3日，以后要正常游戏哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_FORBIDDEN_0007</m_szName>
+    <m_uiValue>1207 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的账号帐号因使用第三方插件，将被封停7日，以后要正常游戏哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_FORBIDDEN_0030</m_szName>
+    <m_uiValue>1208 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的账号帐号因使用第三方插件，将被封停30日，以后要正常游戏哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ROLE_FORBIDDEN_FOREVER</m_szName>
+    <m_uiValue>1209 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的账号帐号因使用第三方插件，将被永久封停！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MAIL_FULL</m_szName>
+    <m_uiValue>1210 </m_uiValue>
+    <m_szDescriptionZH>邮件系统满了，赶紧清理先哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MAIL_NOT_IN_USE</m_szName>
+    <m_uiValue>1211 </m_uiValue>
+    <m_szDescriptionZH>活动尚未开放，请留意活动的开放时间哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_THING_LIMIT</m_szName>
+    <m_uiValue>1212 </m_uiValue>
+    <m_szDescriptionZH>道具不够哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CHARACTER_TIMELIMIT</m_szName>
+    <m_uiValue>1213 </m_uiValue>
+    <m_szDescriptionZH>该角色已经过期失效了哦！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HAVE_FLOORINVITED</m_szName>
+    <m_uiValue>1214 </m_uiValue>
+    <m_szDescriptionZH>你本周已经邀请过该好友了哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HAVE_FRIENDFLOOR_PASSED</m_szName>
+    <m_uiValue>1215 </m_uiValue>
+    <m_szDescriptionZH>这个好友已经参与好友闯关活动了哟，您不需要重复进行邀请哟</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_DB_SQL_FAIL</m_szName>
+    <m_uiValue>3001 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：3001</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_DB_INTERNAL_ERROR</m_szName>
+    <m_uiValue>3002 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：3002</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ENERGY_OVERFLOW</m_szName>
+    <m_uiValue>3003 </m_uiValue>
+    <m_szDescriptionZH>啊咧？您的体力居然超过了系统上限了，不可思议。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_KICK_WAITING</m_szName>
+    <m_uiValue>3004 </m_uiValue>
+    <m_szDescriptionZH>DB正在踢人中， 请等待</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_LOGIN_OTHER</m_szName>
+    <m_uiValue>3005 </m_uiValue>
+    <m_szDescriptionZH>已经在其他服务器登录了</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_INVALID_RECEIPT</m_szName>
+    <m_uiValue>4001 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4001</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_BASE64_ERROR</m_szName>
+    <m_uiValue>4002 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4002</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_HTTP_POST_ERROR</m_szName>
+    <m_uiValue>4003 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4003</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_IAP_ERROR</m_szName>
+    <m_uiValue>4004 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4004</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_INTERNAL_ERROR</m_szName>
+    <m_uiValue>4005 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4005</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_AJ_CLOUD_ERROR</m_szName>
+    <m_uiValue>4006 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：4006</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MS_INTERNAL_ERROR</m_szName>
+    <m_uiValue>5001 </m_uiValue>
+    <m_szDescriptionZH>啊哦~系统出现了一个奇怪的错误，建议您联系客服解决此问题。错误编号：5001</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TIMEOUT</m_szName>
+    <m_uiValue>5002 </m_uiValue>
+    <m_szDescriptionZH>您本局对战时间超出系统限制，成绩无法记录，下次要注意哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_MONEY</m_szName>
+    <m_uiValue>5003 </m_uiValue>
+    <m_szDescriptionZH>额，少年，您的钻石貌似不够了啊，是否去补充下再继续战斗？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_MAX_LEVEL</m_szName>
+    <m_uiValue>5004 </m_uiValue>
+    <m_szDescriptionZH>这个角色已经升到最大等级了，升级其他角色吧！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_BAN</m_szName>
+    <m_uiValue>5005 </m_uiValue>
+    <m_szDescriptionZH>您目前无法参加对战，建议您联系客服解决此问题。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_SCORE_LIMIT</m_szName>
+    <m_uiValue>5006 </m_uiValue>
+    <m_szDescriptionZH>您今天对战次数达到上限，本次将无法获得对战奖励，是否继续对战？</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_TIMELIMIT</m_szName>
+    <m_uiValue>5007 </m_uiValue>
+    <m_szDescriptionZH>夜已深了，PK场暂时关闭哦，请注意休息</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PVP_NOTOPEN</m_szName>
+    <m_uiValue>5008 </m_uiValue>
+    <m_szDescriptionZH>该对战场已关闭，请移步其他场次进行对战</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_MD5SUM</m_szName>
+    <m_uiValue>5009 </m_uiValue>
+    <m_szDescriptionZH>谱面文件校验失败，请重新登录游戏再试一次</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_INVALID_KICKOFF</m_szName>
+    <m_uiValue>5010 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的帐号因使用非法第三方插件，本局游戏分数无效，请重新登录游戏！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOTE_INVALID_NOKICKOFF</m_szName>
+    <m_uiValue>5011 </m_uiValue>
+    <m_szDescriptionZH>亲爱的小主，您的帐号因使用非法第三方插件，本局游戏分数无效！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_FRIEND_FLOOR_NOT_JOIN</m_szName>
+    <m_uiValue>5012 </m_uiValue>
+    <m_szDescriptionZH>好友齐闯关周分结算中。。。。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CREATE_GUILD_ALREADY_IN</m_szName>
+    <m_uiValue>5013 </m_uiValue>
+    <m_szDescriptionZH>您已经在战队中，不能再创建战队了哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CREATE_GUILD_LEVEL_LIMIT</m_szName>
+    <m_uiValue>5014 </m_uiValue>
+    <m_szDescriptionZH>创建战队需要等级达到20级，您还不能创建战队哟</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CREATE_GUILD_DIAMOND_LIMIT</m_szName>
+    <m_uiValue>5015 </m_uiValue>
+    <m_szDescriptionZH>您的钻石不足，无法创建战队哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_NAME_CONFLICT</m_szName>
+    <m_uiValue>5016 </m_uiValue>
+    <m_szDescriptionZH>这个战队名字已经有人使用了哦，重新选择一个吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_GUILD_AREA</m_szName>
+    <m_uiValue>5017 </m_uiValue>
+    <m_szDescriptionZH>您选择的战队区域无法识别，请重新选择</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_ALREADY_IN</m_szName>
+    <m_uiValue>5018 </m_uiValue>
+    <m_szDescriptionZH>您已经加入一个战队了，不能再重复申请了哟</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_LEVEL_LIMIT</m_szName>
+    <m_uiValue>5019 </m_uiValue>
+    <m_szDescriptionZH>加入战队需要等级达到5级，您还不能提交战队申请哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_TOO_MANY</m_szName>
+    <m_uiValue>5020 </m_uiValue>
+    <m_szDescriptionZH>您每天最多可同时向10支战队发送加入申请，您今天的申请数量已经达到上限了哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_NOT_EXIST</m_szName>
+    <m_uiValue>5021 </m_uiValue>
+    <m_szDescriptionZH>您申请加入的战队不存在哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_DENY</m_szName>
+    <m_uiValue>5022 </m_uiValue>
+    <m_szDescriptionZH>这个战队不允许任何人加入，请重新选择一个哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_MEMBER_NUM_LIMIT</m_szName>
+    <m_uiValue>5023 </m_uiValue>
+    <m_szDescriptionZH>该战队的成员人数已达上限，请重新选择一个哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_MEMBER_OF_GUILD</m_szName>
+    <m_uiValue>5024 </m_uiValue>
+    <m_szDescriptionZH>您还没有加入任何战队</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_ID_MISMATCH</m_szName>
+    <m_uiValue>5025 </m_uiValue>
+    <m_szDescriptionZH>您不属于该战队</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_PRIVILEGE</m_szName>
+    <m_uiValue>5026 </m_uiValue>
+    <m_szDescriptionZH>您没有权限进行这项战队操作哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NONE_JOIN_GUILD_REQUEST</m_szName>
+    <m_uiValue>5027 </m_uiValue>
+    <m_szDescriptionZH>还没有人向这个战队提交入队请求</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ALREADY_IN_OTHER_GUILD</m_szName>
+    <m_uiValue>5028 </m_uiValue>
+    <m_szDescriptionZH>他已经加入了其他战队了哦，下次一定要眼明手快呀</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_MONEY_SET_NAME</m_szName>
+    <m_uiValue>5029 </m_uiValue>
+    <m_szDescriptionZH>修改战队名称或更换战队区域需要消耗5000金币，您的金币不足无法完成操作</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_LEADER_CANNOT_LEAVE</m_szName>
+    <m_uiValue>5030 </m_uiValue>
+    <m_szDescriptionZH>您是战队的队长，不能直接退出战队</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_PRIVILEGE_SET_TITLE</m_szName>
+    <m_uiValue>5031 </m_uiValue>
+    <m_szDescriptionZH>您没有权限设置对方的战队职务</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_IN_THIS_GUILD</m_szName>
+    <m_uiValue>5032 </m_uiValue>
+    <m_szDescriptionZH>对方不在战队中，不能设置其职务</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ELITE_NUMBER_LIMIT</m_szName>
+    <m_uiValue>5033 </m_uiValue>
+    <m_szDescriptionZH>战队精英的人数已达上限，提升战队等级可以增加精英人数</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_LEADER_CANNOT_BE_GRANTED</m_szName>
+    <m_uiValue>5034 </m_uiValue>
+    <m_szDescriptionZH>您不是战队队长，无法进行队长移交</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CANNOT_CLEAR_UNRELATED_MEMBER</m_szName>
+    <m_uiValue>5035 </m_uiValue>
+    <m_szDescriptionZH>他已经不在战队中了，您无法将他踢出战队</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_JOIN_GUILD_MSG_NOT_FOUND</m_szName>
+    <m_uiValue>5036 </m_uiValue>
+    <m_szDescriptionZH>没找到对应的审批信息，可能其他管理员已经处理</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NULL_GUILD_NAME</m_szName>
+    <m_uiValue>5037 </m_uiValue>
+    <m_szDescriptionZH>战队名字不能为空哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_JOIN_COND</m_szName>
+    <m_uiValue>5038 </m_uiValue>
+    <m_szDescriptionZH>无效的战队申请设置</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NULL_ANN</m_szName>
+    <m_uiValue>5039 </m_uiValue>
+    <m_szDescriptionZH>战队公告不能设置为空哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_TOO_LONG_ANN</m_szName>
+    <m_uiValue>5040 </m_uiValue>
+    <m_szDescriptionZH>您的战队公告太长啦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_TITLE</m_szName>
+    <m_uiValue>5041 </m_uiValue>
+    <m_szDescriptionZH>无效的战队职务</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_NOT_EXIST</m_szName>
+    <m_uiValue>5042 </m_uiValue>
+    <m_szDescriptionZH>您所查找的战队不存在</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_NB_GIFT_ID</m_szName>
+    <m_uiValue>5043 </m_uiValue>
+    <m_szDescriptionZH>您要领取的礼包没找到哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_QUA_GET_GIFT</m_szName>
+    <m_uiValue>5044 </m_uiValue>
+    <m_szDescriptionZH>对不起，您没有此礼包的领取资格</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_HAVE_GET_GIFT</m_szName>
+    <m_uiValue>5045 </m_uiValue>
+    <m_szDescriptionZH>您已经领取过此礼包了</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_LIKE_OPENID</m_szName>
+    <m_uiValue>5046 </m_uiValue>
+    <m_szDescriptionZH>您不能给自己点赞哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_LIKE_TYPE</m_szName>
+    <m_uiValue>5047 </m_uiValue>
+    <m_szDescriptionZH>您的点赞方式似乎不对</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_ENOUGH_DIAMOND_LIKE</m_szName>
+    <m_uiValue>5048 </m_uiValue>
+    <m_szDescriptionZH>您的钻石不够，不能点赞哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NO_NORE_LIKE_QUOTA</m_szName>
+    <m_uiValue>5049 </m_uiValue>
+    <m_szDescriptionZH>您今天的点赞次数用完了，明天继续吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_NOT_IN_SAME_GUILD</m_szName>
+    <m_uiValue>5050 </m_uiValue>
+    <m_szDescriptionZH>您和大神不在同一个战队哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CANNOT_SET_ORDMEM_AS_LEADER</m_szName>
+    <m_uiValue>5051 </m_uiValue>
+    <m_szDescriptionZH>您不能将队长职位转移给普通成员哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_SONG_NOT_JOIN</m_szName>
+    <m_uiValue>5052 </m_uiValue>
+    <m_szDescriptionZH>战队竞技模式结算中。。。。</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_LEVEL_NOT_PK</m_szName>
+    <m_uiValue>5053 </m_uiValue>
+    <m_szDescriptionZH>您的战队等级未达到2级，请先升级战队!</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_STARMALL_ACTIVITY_ID</m_szName>
+    <m_uiValue>5054 </m_uiValue>
+    <m_szDescriptionZH>星值商店活动ID不对哦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_INVALID_STARMALL_EXCHANGE_ID</m_szName>
+    <m_uiValue>5055 </m_uiValue>
+    <m_szDescriptionZH>星值商店似乎没这个物品呢</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_ALREADY_HAVE_GOODS</m_szName>
+    <m_uiValue>5056 </m_uiValue>
+    <m_szDescriptionZH>您已经有了这个物品，不需要再兑换啦</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GOODS_SOLD_OUT</m_szName>
+    <m_uiValue>5057 </m_uiValue>
+    <m_szDescriptionZH>这件商品您本周已经兑换过了哦，请下周再来吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_STAR_VAL_NOT_ENOUGH</m_szName>
+    <m_uiValue>5058 </m_uiValue>
+    <m_szDescriptionZH>对不起，您本周积累的星值不足，无法兑换这件商品哦，快去每周活动做任务赚取星值吧</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_VERSION_TGA_ERROR</m_szName>
+    <m_uiValue>5059 </m_uiValue>
+    <m_szDescriptionZH>当前版本过低，无法参加比赛，需要下载最新版本方可参赛！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_WORSION_TOTAL_RANK_ERROR</m_szName>
+    <m_uiValue>5060 </m_uiValue>
+    <m_szDescriptionZH>当前版本过低，歌曲成绩无法录入世界排行榜，需要下载最新版本！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_MONTH_CLEAR</m_szName>
+    <m_uiValue>5061 </m_uiValue>
+    <m_szDescriptionZH>该歌曲排行榜月清中！重新开始即可正常进行该歌曲！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PK_MIN_PROTOCOL_VERSION</m_szName>
+    <m_uiValue>5062 </m_uiValue>
+    <m_szDescriptionZH>当前版本过低，无法参加对战，需下载最新版本！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_SONG_TIME_CHECK_FAIL</m_szName>
+    <m_uiValue>5063 </m_uiValue>
+    <m_szDescriptionZH>歌曲时长校验失败！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_PK_RECEIPTS_LIMIT</m_szName>
+    <m_uiValue>5064 </m_uiValue>
+    <m_szDescriptionZH>您今天已经赢了很多场了，明天再来吧！</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GUILD_SENDMSG_DIRTY</m_szName>
+    <m_uiValue>5065 </m_uiValue>
+    <m_szDescriptionZH>输入字符含有敏感字，请修改后提交</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_CREATE_GUILD_NAME_DIRTY</m_szName>
+    <m_uiValue>5066 </m_uiValue>
+    <m_szDescriptionZH>战队名字输入非法或含有敏感字</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_UPDATE_GUILD_NAME_DIRTY</m_szName>
+    <m_uiValue>5067 </m_uiValue>
+    <m_szDescriptionZH>输入内容非法或含有敏感字</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_UPDATE_GUILD_INFO_NAME_DIRTY</m_szName>
+    <m_uiValue>5068 </m_uiValue>
+    <m_szDescriptionZH>输入内容非法或含有敏感字</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+<ErrnoConfig_Client version="1">
+    <m_szName>EQEC_GET_GUILD_NAME_DIRTY</m_szName>
+    <m_uiValue>5069 </m_uiValue>
+    <m_szDescriptionZH>输入内容非法或含有敏感字</m_szDescriptionZH>
+    <m_szDescriptionEN></m_szDescriptionEN>
+</ErrnoConfig_Client>
+</ErrnoConfig_Client_Tab>

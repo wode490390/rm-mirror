@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<InnerRaceConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>616 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>581642653c78547ca3125860e2c5bf15</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<InnerRaceConfig_Client version="1">
+    <m_iMatchID>0 </m_iMatchID>
+    <m_iLevel>0 </m_iLevel>
+    <m_iContentType>0 </m_iContentType>
+    <m_szTitle>0</m_szTitle>
+    <m_szContent>0</m_szContent>
+    <m_iPhonetype>0 </m_iPhonetype>
+</InnerRaceConfig_Client>
+</InnerRaceConfig_Client_Tab>

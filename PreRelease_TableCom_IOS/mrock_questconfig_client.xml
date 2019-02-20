@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<QuestConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>640 </Unit>
+        <Count>25 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>286ff3f64a776fb5e0a058634fcebfdf</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<QuestConfig_Client version="1">
+    <m_iQuestId>0 </m_iQuestId>
+    <m_szQuestName>0任务名称</m_szQuestName>
+    <m_szDescription>0任务说明</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>0 </m_iNodeType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>0 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>1 </m_iQuestId>
+    <m_szQuestName>闯关达人</m_szQuestName>
+    <m_szDescription>当天累计完成5次关卡(跳关有效)</m_szDescription>
+    <m_iMethod>6 </m_iMethod>
+    <m_iNodeType>37 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>2 </m_iQuestId>
+    <m_szQuestName>小试身手</m_szQuestName>
+    <m_szDescription>当天累计获得5次A以上评价</m_szDescription>
+    <m_iMethod>7 </m_iMethod>
+    <m_iNodeType>31 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>4 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>3 </m_iQuestId>
+    <m_szQuestName>超越好友</m_szQuestName>
+    <m_szDescription>当天累计超越2次好友</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>47 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>4 </m_iQuestId>
+    <m_szQuestName>S周闯关</m_szQuestName>
+    <m_szDescription>当天累计完成5次S周闯关</m_szDescription>
+    <m_iMethod>4 </m_iMethod>
+    <m_iNodeType>37 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>5 </m_iQuestId>
+    <m_szQuestName>超越自己</m_szQuestName>
+    <m_szDescription>当天累计刷新2次个人歌曲记录</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>54 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>6 </m_iQuestId>
+    <m_szQuestName>S评价</m_szQuestName>
+    <m_szDescription>当天累计获得3次S以上评价</m_szDescription>
+    <m_iMethod>7 </m_iMethod>
+    <m_iNodeType>31 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>5 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>7 </m_iQuestId>
+    <m_szQuestName>完成星动模式</m_szQuestName>
+    <m_szDescription>当天累计完成5次星动模式歌曲</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>42 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>1 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>8 </m_iQuestId>
+    <m_szQuestName>星动五星</m_szQuestName>
+    <m_szDescription>当天累计获得3次星动模式五星评价</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>42 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>5 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>11 </m_iQuestId>
+    <m_szQuestName>我爱对战</m_szQuestName>
+    <m_szDescription>当天累计参与1次世界对战</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>56 </m_iNodeType>
+    <m_iNodeValue>1 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>7 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10010 </m_iQuestId>
+    <m_szQuestName>低于10Miss</m_szQuestName>
+    <m_szDescription>累计3次完成歌曲时Miss数少于10</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>9 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>10 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>10 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10020 </m_iQuestId>
+    <m_szQuestName>世界对战</m_szQuestName>
+    <m_szDescription>累计参与2次世界对战</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>56 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>5 </m_iRewardType>
+    <m_iRewardID>10 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10030 </m_iQuestId>
+    <m_szQuestName>低于30Great</m_szQuestName>
+    <m_szDescription>累计5次完成歌曲时Great数少于30</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>11 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>30 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>20 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10040 </m_iQuestId>
+    <m_szQuestName>90%得分</m_szQuestName>
+    <m_szDescription>累计8次完成歌曲时得分高于90%</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>25 </m_iNodeType>
+    <m_iNodeValue>8 </m_iNodeValue>
+    <m_iNodeLimit>90 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>30 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10050 </m_iQuestId>
+    <m_szQuestName>使用道具</m_szQuestName>
+    <m_szDescription>使用3次任意道具</m_szDescription>
+    <m_iMethod>15 </m_iMethod>
+    <m_iNodeType>48 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>6 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>100 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10060 </m_iQuestId>
+    <m_szQuestName>赠送体力</m_szQuestName>
+    <m_szDescription>累计给好友赠送5次体力</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>46 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>2 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10070 </m_iQuestId>
+    <m_szQuestName>钻石场对战</m_szQuestName>
+    <m_szDescription>累计参与1次经典模式20钻石场</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>57 </m_iNodeType>
+    <m_iNodeValue>1 </m_iNodeValue>
+    <m_iNodeLimit>3 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>5 </m_iRewardType>
+    <m_iRewardID>10 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10140 </m_iQuestId>
+    <m_szQuestName>收集星星</m_szQuestName>
+    <m_szDescription>累计在星动模式中获得15颗星星</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>43 </m_iNodeType>
+    <m_iNodeValue>15 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>5 </m_iRewardType>
+    <m_iRewardID>7 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10150 </m_iQuestId>
+    <m_szQuestName>星星大师</m_szQuestName>
+    <m_szDescription>累计在星动模式中获得30颗星星</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>43 </m_iNodeType>
+    <m_iNodeValue>30 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>20 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10180 </m_iQuestId>
+    <m_szQuestName>获得擂主</m_szQuestName>
+    <m_szDescription>累计在星动模式中获得3次擂主</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>40 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>20 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10190 </m_iQuestId>
+    <m_szQuestName>星动AC达人</m_szQuestName>
+    <m_szDescription>累计在星动模式中获得3次AC评价</m_szDescription>
+    <m_iMethod>8 </m_iMethod>
+    <m_iNodeType>41 </m_iNodeType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeLimit>1 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>6 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>300 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10200 </m_iQuestId>
+    <m_szQuestName>经典模式满血</m_szQuestName>
+    <m_szDescription>累计5次完成经典模式歌曲时满血</m_szDescription>
+    <m_iMethod>7 </m_iMethod>
+    <m_iNodeType>3 </m_iNodeType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeLimit>100 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>2 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>2 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10210 </m_iQuestId>
+    <m_szQuestName>积分抽奖</m_szQuestName>
+    <m_szDescription>累计使用2次积分抽奖</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>60 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>30 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10230 </m_iQuestId>
+    <m_szQuestName>世界对战胜利</m_szQuestName>
+    <m_szDescription>累计在世界对战中获得2次胜利</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>58 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>0 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>30 </m_iRewardValue>
+</QuestConfig_Client>
+<QuestConfig_Client version="1">
+    <m_iQuestId>10240 </m_iQuestId>
+    <m_szQuestName>钻石场对战胜利</m_szQuestName>
+    <m_szDescription>累计胜利2次经典模式20钻石场</m_szDescription>
+    <m_iMethod>0 </m_iMethod>
+    <m_iNodeType>59 </m_iNodeType>
+    <m_iNodeValue>2 </m_iNodeValue>
+    <m_iNodeLimit>3 </m_iNodeLimit>
+    <m_iSongNodeID>0 </m_iSongNodeID>
+    <m_iSongNodeNoteType>0 </m_iSongNodeNoteType>
+    <m_iRewardType>6 </m_iRewardType>
+    <m_iRewardID>0 </m_iRewardID>
+    <m_iRewardValue>200 </m_iRewardValue>
+</QuestConfig_Client>
+</QuestConfig_Client_Tab>

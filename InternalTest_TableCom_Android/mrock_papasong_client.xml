@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<PapaSongConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>361 </Unit>
+        <Count>12 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>15b5231db5b75099c68781d0539959b9</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10001 </m_ushSongID>
+    <m_iVersion>11 </m_iVersion>
+    <m_szSongName>最炫民族风</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x1 </m_cLevel>
+    <m_szPath>zuixuanminzufeng</m_szPath>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_szRegion>大陆</m_szRegion>
+    <m_szStyle>古典</m_szStyle>
+    <m_szBPM>127</m_szBPM>
+    <m_szNoteNumber>178</m_szNoteNumber>
+    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10001 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>最炫民族风</m_szSongName>
+    <m_cDifficulty>0x2 </m_cDifficulty>
+    <m_cLevel>0x5 </m_cLevel>
+    <m_szPath>zuixuanminzufeng</m_szPath>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szSongTime>0.083333</m_szSongTime>
+    <m_iGameTime>120 </m_iGameTime>
+    <m_szRegion>大陆</m_szRegion>
+    <m_szStyle>古典</m_szStyle>
+    <m_szBPM>127</m_szBPM>
+    <m_szNoteNumber>315</m_szNoteNumber>
+    <m_iOrderIndex>2 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10002 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Cry Cry</m_szSongName>
+    <m_cDifficulty>0x2 </m_cDifficulty>
+    <m_cLevel>0x4 </m_cLevel>
+    <m_szPath>taracrycry</m_szPath>
+    <m_szArtist>T-ara</m_szArtist>
+    <m_szSongTime>0.097917</m_szSongTime>
+    <m_iGameTime>141 </m_iGameTime>
+    <m_szRegion>日韩</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>115</m_szBPM>
+    <m_szNoteNumber>426</m_szNoteNumber>
+    <m_iOrderIndex>4 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10002 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Cry Cry</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x2 </m_cLevel>
+    <m_szPath>taracrycry</m_szPath>
+    <m_szArtist>T-ara</m_szArtist>
+    <m_szSongTime>0.097917</m_szSongTime>
+    <m_iGameTime>141 </m_iGameTime>
+    <m_szRegion>日韩</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>115</m_szBPM>
+    <m_szNoteNumber>475</m_szNoteNumber>
+    <m_iOrderIndex>3 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10003 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>贝多芬病毒</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x3 </m_cLevel>
+    <m_szPath>beiduofenbingdu</m_szPath>
+    <m_szArtist>Diana Boncheva</m_szArtist>
+    <m_szSongTime>0.095833</m_szSongTime>
+    <m_iGameTime>138 </m_iGameTime>
+    <m_szRegion>日韩</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>156</m_szBPM>
+    <m_szNoteNumber>408</m_szNoteNumber>
+    <m_iOrderIndex>6 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10004 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>No.1127</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x4 </m_cLevel>
+    <m_szPath>no1127</m_szPath>
+    <m_szArtist>邹天恒</m_szArtist>
+    <m_szSongTime>0.099306</m_szSongTime>
+    <m_iGameTime>143 </m_iGameTime>
+    <m_szRegion>大陆</m_szRegion>
+    <m_szStyle>摇滚</m_szStyle>
+    <m_szBPM>232</m_szBPM>
+    <m_szNoteNumber>316</m_szNoteNumber>
+    <m_iOrderIndex>7 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10005 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>伤心的人别听慢歌</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x3 </m_cLevel>
+    <m_szPath>shangxindrbtmg</m_szPath>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szSongTime>0.099306</m_szSongTime>
+    <m_iGameTime>143 </m_iGameTime>
+    <m_szRegion>港台</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>135</m_szBPM>
+    <m_szNoteNumber>463</m_szNoteNumber>
+    <m_iOrderIndex>8 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10006 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>Day by day</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x2 </m_cLevel>
+    <m_szPath>daybyday</m_szPath>
+    <m_szArtist>T-ara</m_szArtist>
+    <m_szSongTime>0.066667</m_szSongTime>
+    <m_iGameTime>96 </m_iGameTime>
+    <m_szRegion>日韩</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>118</m_szBPM>
+    <m_szNoteNumber>137</m_szNoteNumber>
+    <m_iOrderIndex>9 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10007 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>夜曲</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x2 </m_cLevel>
+    <m_szPath>yequ</m_szPath>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szSongTime>0.096528</m_szSongTime>
+    <m_iGameTime>139 </m_iGameTime>
+    <m_szRegion>港台</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>87</m_szBPM>
+    <m_szNoteNumber>251</m_szNoteNumber>
+    <m_iOrderIndex>10 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10008 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>狂草</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x1 </m_cLevel>
+    <m_szPath>kuangcao</m_szPath>
+    <m_szArtist>韩庚</m_szArtist>
+    <m_szSongTime>0.09375</m_szSongTime>
+    <m_iGameTime>135 </m_iGameTime>
+    <m_szRegion>大陆</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>100</m_szBPM>
+    <m_szNoteNumber>203</m_szNoteNumber>
+    <m_iOrderIndex>11 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10009 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>三国恋</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x2 </m_cLevel>
+    <m_szPath>sanguolian</m_szPath>
+    <m_szArtist>Tank</m_szArtist>
+    <m_szSongTime>0.0875</m_szSongTime>
+    <m_iGameTime>126 </m_iGameTime>
+    <m_szRegion>港台</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>152</m_szBPM>
+    <m_szNoteNumber>327</m_szNoteNumber>
+    <m_iOrderIndex>12 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+<PapaSongConfig_Client version="1">
+    <m_ushSongID>10010 </m_ushSongID>
+    <m_iVersion>0 </m_iVersion>
+    <m_szSongName>三天三夜</m_szSongName>
+    <m_cDifficulty>0x1 </m_cDifficulty>
+    <m_cLevel>0x3 </m_cLevel>
+    <m_szPath>santiansanye</m_szPath>
+    <m_szArtist>歌浴森</m_szArtist>
+    <m_szSongTime>0.106944</m_szSongTime>
+    <m_iGameTime>154 </m_iGameTime>
+    <m_szRegion>大陆</m_szRegion>
+    <m_szStyle>流行</m_szStyle>
+    <m_szBPM>150</m_szBPM>
+    <m_szNoteNumber>371</m_szNoteNumber>
+    <m_iOrderIndex>13 </m_iOrderIndex>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsFree>0x1 </m_ucIsFree>
+    <m_ucIsHide>0x0 </m_ucIsHide>
+    <m_ucIsReward>0x0 </m_ucIsReward>
+    <m_ucIsLevelReward>0x0 </m_ucIsLevelReward>
+    <m_iSongType>1 </m_iSongType>
+</PapaSongConfig_Client>
+</PapaSongConfig_Client_Tab>

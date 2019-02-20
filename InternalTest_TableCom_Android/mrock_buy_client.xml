@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BuyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>291 </Unit>
+        <Count>16 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>fc1e1abb911e663341dc6861451df04c</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<BuyConfig_Client version="1">
+    <m_ushID>1 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>5 </m_iThingNumber>
+    <m_iIOSMoney>100 </m_iIOSMoney>
+    <m_iAndroidMoney>100 </m_iAndroidMoney>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>2 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>11 </m_iThingNumber>
+    <m_iIOSMoney>200 </m_iIOSMoney>
+    <m_iAndroidMoney>200 </m_iAndroidMoney>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>3 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>23 </m_iThingNumber>
+    <m_iIOSMoney>400 </m_iIOSMoney>
+    <m_iAndroidMoney>400 </m_iAndroidMoney>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>4 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>60 </m_iThingNumber>
+    <m_iIOSMoney>1000 </m_iIOSMoney>
+    <m_iAndroidMoney>1000 </m_iAndroidMoney>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>5 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>1 </m_iThingID>
+    <m_szItemName>MISS消除</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>15 </m_iIOSMoney>
+    <m_iAndroidMoney>15 </m_iAndroidMoney>
+    <m_szDescriptionName>使用后可抵消三次Miss判定</m_szDescriptionName>
+    <m_iIconID>1 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>2 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>6 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>4 </m_iThingID>
+    <m_szItemName>防护罩</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>15 </m_iIOSMoney>
+    <m_iAndroidMoney>15 </m_iAndroidMoney>
+    <m_szDescriptionName>血量低于10%时进入10秒无敌状态</m_szDescriptionName>
+    <m_iIconID>2 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>7 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>2 </m_iThingID>
+    <m_szItemName>血量回复</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>10 </m_iIOSMoney>
+    <m_iAndroidMoney>10 </m_iAndroidMoney>
+    <m_szDescriptionName>血量低于20%时自动补满</m_szDescriptionName>
+    <m_iIconID>3 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>1 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>8 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>3 </m_iThingID>
+    <m_szItemName>血量增加</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>10 </m_iIOSMoney>
+    <m_iAndroidMoney>10 </m_iAndroidMoney>
+    <m_szDescriptionName>增加50%生命值上限</m_szDescriptionName>
+    <m_iIconID>4 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>9 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>6 </m_iThingID>
+    <m_szItemName>抵消GREAT</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_szDescriptionName>将五个GREAT修改为PERFECT判定</m_szDescriptionName>
+    <m_iIconID>5 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>3 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>10 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>7 </m_iThingID>
+    <m_szItemName>双倍经验</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_szDescriptionName>本局游戏获得基础经验提高100%</m_szDescriptionName>
+    <m_iIconID>6 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>4 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>11 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>8 </m_iThingID>
+    <m_szItemName>不死鸟</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>80 </m_iIOSMoney>
+    <m_iAndroidMoney>80 </m_iAndroidMoney>
+    <m_szDescriptionName>本局游戏不会中途死亡</m_szDescriptionName>
+    <m_iIconID>7 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>5 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>101 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>101 </m_iThingID>
+    <m_szItemName>超级连击</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_szDescriptionName>使用后可抵消五次Miss判定</m_szDescriptionName>
+    <m_iIconID>8 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>1 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>102 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>102 </m_iThingID>
+    <m_szItemName>完美判定</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_szDescriptionName>将五个GREAT修改为PERFECT判定</m_szDescriptionName>
+    <m_iIconID>5 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>2 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>103 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>103 </m_iThingID>
+    <m_szItemName>五星达人</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_szDescriptionName>使用后更容易获得星星评价</m_szDescriptionName>
+    <m_iIconID>9 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>3 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>104 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>104 </m_iThingID>
+    <m_szItemName>无敌幸运星</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_szDescriptionName>LUCKY出现几率提升200%</m_szDescriptionName>
+    <m_iIconID>10 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>4 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>105 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>105 </m_iThingID>
+    <m_szItemName>得分up</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>100 </m_iIOSMoney>
+    <m_iAndroidMoney>100 </m_iAndroidMoney>
+    <m_szDescriptionName>Perfect判定获得分数提升10%</m_szDescriptionName>
+    <m_iIconID>11 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>5 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+</BuyConfig_Client_Tab>

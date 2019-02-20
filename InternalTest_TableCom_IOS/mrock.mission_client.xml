@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MissionConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>410 </Unit>
+        <Count>29 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>2e3ae152bfbf45a82c2c9fb757c57570</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MissionConfig_Client version="1">
+    <m_iMissionID>1 </m_iMissionID>
+    <m_szTitle>李宇春独家关卡</m_szTitle>
+    <m_iIconID>2 </m_iIconID>
+    <m_szDiffDesc>入门</m_szDiffDesc>
+    <m_szDiffColor>ff78ec1b</m_szDiffColor>
+    <m_szBeginTime>2013-09-20 10:00:00</m_szBeginTime>
+    <m_szEndTime>2013-09-21 10:00:00</m_szEndTime>
+    <m_iStartFloor>1 </m_iStartFloor>
+    <m_iEndFloor>5 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>2 </m_iMissionID>
+    <m_szTitle>群星齐贺节奏大师</m_szTitle>
+    <m_iIconID>3 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-09-20 10:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-29 15:00:00</m_szEndTime>
+    <m_iStartFloor>6 </m_iStartFloor>
+    <m_iEndFloor>15 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>3 </m_iMissionID>
+    <m_szTitle>我们熟悉的古典音乐</m_szTitle>
+    <m_iIconID>4 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-09-20 10:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-29 15:30:00</m_szEndTime>
+    <m_iStartFloor>16 </m_iStartFloor>
+    <m_iEndFloor>25 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>4 </m_iMissionID>
+    <m_szTitle>进阶100关挑战！</m_szTitle>
+    <m_iIconID>5 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-09-20 10:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-29 18:00:00</m_szEndTime>
+    <m_iStartFloor>101 </m_iStartFloor>
+    <m_iEndFloor>200 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>800 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>5 </m_iMissionID>
+    <m_szTitle>陶喆-小人物狂想曲</m_szTitle>
+    <m_iIconID>6 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-10-23 16:50:00</m_szBeginTime>
+    <m_szEndTime>2013-11-01 16:00:00</m_szEndTime>
+    <m_iStartFloor>26 </m_iStartFloor>
+    <m_iEndFloor>30 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>6 </m_iMissionID>
+    <m_szTitle>玩转原创</m_szTitle>
+    <m_iIconID>10 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-04 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-09 23:59:00</m_szEndTime>
+    <m_iStartFloor>31 </m_iStartFloor>
+    <m_iEndFloor>35 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>7 </m_iMissionID>
+    <m_szTitle>周末大闯关</m_szTitle>
+    <m_iIconID>8 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-10-26 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-28 23:59:00</m_szEndTime>
+    <m_iStartFloor>36 </m_iStartFloor>
+    <m_iEndFloor>40 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>8 </m_iMissionID>
+    <m_szTitle>万圣节短关送惊喜</m_szTitle>
+    <m_iIconID>9 </m_iIconID>
+    <m_szDiffDesc>专家</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-10-02 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-29 17:00:00</m_szEndTime>
+    <m_iStartFloor>41 </m_iStartFloor>
+    <m_iEndFloor>45 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>9 </m_iMissionID>
+    <m_szTitle>万圣节福利“享”不停</m_szTitle>
+    <m_iIconID>9 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-10-21 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-10-29 18:00:00</m_szEndTime>
+    <m_iStartFloor>46 </m_iStartFloor>
+    <m_iEndFloor>50 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>10 </m_iMissionID>
+    <m_szTitle>原创High翻天</m_szTitle>
+    <m_iIconID>12 </m_iIconID>
+    <m_szDiffDesc>专家</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-03 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-09 23:59:00</m_szEndTime>
+    <m_iStartFloor>51 </m_iStartFloor>
+    <m_iEndFloor>55 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>11 </m_iMissionID>
+    <m_szTitle>新歌来了！新歌来了！</m_szTitle>
+    <m_iIconID>11 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-11-06 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-06 11:30:00</m_szEndTime>
+    <m_iStartFloor>56 </m_iStartFloor>
+    <m_iEndFloor>60 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>12 </m_iMissionID>
+    <m_szTitle>挑战隐藏歌曲</m_szTitle>
+    <m_iIconID>13 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-11-06 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-06 11:30:00</m_szEndTime>
+    <m_iStartFloor>61 </m_iStartFloor>
+    <m_iEndFloor>65 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>13 </m_iMissionID>
+    <m_szTitle>敢为爱挑战吗？</m_szTitle>
+    <m_iIconID>14 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-06 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-06 11:30:00</m_szEndTime>
+    <m_iStartFloor>86 </m_iStartFloor>
+    <m_iEndFloor>90 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>14 </m_iMissionID>
+    <m_szTitle>国语精选</m_szTitle>
+    <m_iIconID>15 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-06 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-06 11:30:00</m_szEndTime>
+    <m_iStartFloor>91 </m_iStartFloor>
+    <m_iEndFloor>95 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>15 </m_iMissionID>
+    <m_szTitle>新歌来了</m_szTitle>
+    <m_iIconID>11 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>71 </m_iStartFloor>
+    <m_iEndFloor>75 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>16 </m_iMissionID>
+    <m_szTitle>摇摆生活</m_szTitle>
+    <m_iIconID>16 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>76 </m_iStartFloor>
+    <m_iEndFloor>80 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>17 </m_iMissionID>
+    <m_szTitle>律动节奏</m_szTitle>
+    <m_iIconID>17 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-17 23:59:00</m_szEndTime>
+    <m_iStartFloor>81 </m_iStartFloor>
+    <m_iEndFloor>85 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>18 </m_iMissionID>
+    <m_szTitle>欧美精选</m_szTitle>
+    <m_iIconID>18 </m_iIconID>
+    <m_szDiffDesc>入门</m_szDiffDesc>
+    <m_szDiffColor>ff78ec1b</m_szDiffColor>
+    <m_szBeginTime>2013-11-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-21 23:59:00</m_szEndTime>
+    <m_iStartFloor>211 </m_iStartFloor>
+    <m_iEndFloor>215 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>19 </m_iMissionID>
+    <m_szTitle>四键达人</m_szTitle>
+    <m_iIconID>19 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-08 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-21 23:59:00</m_szEndTime>
+    <m_iStartFloor>216 </m_iStartFloor>
+    <m_iEndFloor>220 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>20 </m_iMissionID>
+    <m_szTitle>新歌来了！</m_szTitle>
+    <m_iIconID>11 </m_iIconID>
+    <m_szDiffDesc>入门</m_szDiffDesc>
+    <m_szDiffColor>ff78ec1b</m_szDiffColor>
+    <m_szBeginTime>2013-11-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>96 </m_iStartFloor>
+    <m_iEndFloor>100 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>21 </m_iMissionID>
+    <m_szTitle>乐享旋律</m_szTitle>
+    <m_iIconID>0 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>201 </m_iStartFloor>
+    <m_iEndFloor>205 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>22 </m_iMissionID>
+    <m_szTitle>周末畅玩</m_szTitle>
+    <m_iIconID>0 </m_iIconID>
+    <m_szDiffDesc>高级</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-24 23:59:00</m_szEndTime>
+    <m_iStartFloor>206 </m_iStartFloor>
+    <m_iEndFloor>210 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>23 </m_iMissionID>
+    <m_szTitle>最爱电子乐</m_szTitle>
+    <m_iIconID>20 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-11-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-28 23:59:00</m_szEndTime>
+    <m_iStartFloor>221 </m_iStartFloor>
+    <m_iEndFloor>225 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>24 </m_iMissionID>
+    <m_szTitle>五键达人</m_szTitle>
+    <m_iIconID>21 </m_iIconID>
+    <m_szDiffDesc>专家</m_szDiffDesc>
+    <m_szDiffColor>ffff6600</m_szDiffColor>
+    <m_szBeginTime>2013-11-15 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-11-28 23:59:00</m_szEndTime>
+    <m_iStartFloor>66 </m_iStartFloor>
+    <m_iEndFloor>70 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>25 </m_iMissionID>
+    <m_szTitle>新歌来了</m_szTitle>
+    <m_iIconID>22 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>226 </m_iStartFloor>
+    <m_iEndFloor>230 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>26 </m_iMissionID>
+    <m_szTitle>感恩节大放送(普通)</m_szTitle>
+    <m_iIconID>23 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>231 </m_iStartFloor>
+    <m_iEndFloor>235 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>27 </m_iMissionID>
+    <m_szTitle>感恩节大放送(进阶)</m_szTitle>
+    <m_iIconID>24 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-01 23:59:00</m_szEndTime>
+    <m_iStartFloor>236 </m_iStartFloor>
+    <m_iEndFloor>240 </m_iEndFloor>
+    <m_ucResetable>0 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x2 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>28 </m_iMissionID>
+    <m_szTitle>最爱摇滚乐</m_szTitle>
+    <m_iIconID>25 </m_iIconID>
+    <m_szDiffDesc>普通</m_szDiffDesc>
+    <m_szDiffColor>ffffd200</m_szDiffColor>
+    <m_szBeginTime>2013-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-05 23:59:00</m_szEndTime>
+    <m_iStartFloor>241 </m_iStartFloor>
+    <m_iEndFloor>245 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+<MissionConfig_Client version="1">
+    <m_iMissionID>29 </m_iMissionID>
+    <m_szTitle>M2U精选关</m_szTitle>
+    <m_iIconID>26 </m_iIconID>
+    <m_szDiffDesc>进阶</m_szDiffDesc>
+    <m_szDiffColor>fff00022</m_szDiffColor>
+    <m_szBeginTime>2013-11-25 00:00:00</m_szBeginTime>
+    <m_szEndTime>2013-12-05 23:59:00</m_szEndTime>
+    <m_iStartFloor>246 </m_iStartFloor>
+    <m_iEndFloor>250 </m_iEndFloor>
+    <m_ucResetable>1 </m_ucResetable>
+    <m_iResetCost>100 </m_iResetCost>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_ucIsNew>0x1 </m_ucIsNew>
+</MissionConfig_Client>
+</MissionConfig_Client_Tab>

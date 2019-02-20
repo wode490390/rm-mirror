@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<RoomConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>24 </Unit>
+        <Count>9 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>2f7d534e2876cf3a75a217c77191fe30</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>0 </m_ushRoomID>
+    <m_ucSongType>0x0 </m_ucSongType>
+    <m_ucTicketType>0x0 </m_ucTicketType>
+    <m_iTicketNum>0 </m_iTicketNum>
+    <m_ucRewardType>0x0 </m_ucRewardType>
+    <m_iRewardNum>0 </m_iRewardNum>
+    <m_iRewardIntergral>0 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x0 </m_ucIsNewOpen>
+    <m_ucIsProp>0x0 </m_ucIsProp>
+    <m_iMinClientVersion>0 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>1 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x1 </m_ucTicketType>
+    <m_iTicketNum>88 </m_iTicketNum>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardNum>150 </m_iRewardNum>
+    <m_iRewardIntergral>5 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>2 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x1 </m_ucTicketType>
+    <m_iTicketNum>398 </m_iTicketNum>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardNum>700 </m_iRewardNum>
+    <m_iRewardIntergral>20 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>3 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x7 </m_ucTicketType>
+    <m_iTicketNum>20 </m_iTicketNum>
+    <m_ucRewardType>0x7 </m_ucRewardType>
+    <m_iRewardNum>30 </m_iRewardNum>
+    <m_iRewardIntergral>100 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>5 </m_ushRoomID>
+    <m_ucSongType>0x2 </m_ucSongType>
+    <m_ucTicketType>0x7 </m_ucTicketType>
+    <m_iTicketNum>20 </m_iTicketNum>
+    <m_ucRewardType>0x7 </m_ucRewardType>
+    <m_iRewardNum>30 </m_iRewardNum>
+    <m_iRewardIntergral>100 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>6 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x1 </m_ucTicketType>
+    <m_iTicketNum>88 </m_iTicketNum>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardNum>150 </m_iRewardNum>
+    <m_iRewardIntergral>5 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x0 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>7 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x7 </m_ucTicketType>
+    <m_iTicketNum>20 </m_iTicketNum>
+    <m_ucRewardType>0x7 </m_ucRewardType>
+    <m_iRewardNum>30 </m_iRewardNum>
+    <m_iRewardIntergral>100 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x0 </m_ucIsProp>
+    <m_iMinClientVersion>23020001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>8 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x1 </m_ucTicketType>
+    <m_iTicketNum>88 </m_iTicketNum>
+    <m_ucRewardType>0x1 </m_ucRewardType>
+    <m_iRewardNum>150 </m_iRewardNum>
+    <m_iRewardIntergral>5 </m_iRewardIntergral>
+    <m_ucIsOpen>0x1 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x0 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>23010001 </m_iMinClientVersion>
+</RoomConfig_Client>
+<RoomConfig_Client version="1">
+    <m_ushRoomID>10 </m_ushRoomID>
+    <m_ucSongType>0x1 </m_ucSongType>
+    <m_ucTicketType>0x7 </m_ucTicketType>
+    <m_iTicketNum>20 </m_iTicketNum>
+    <m_ucRewardType>0x7 </m_ucRewardType>
+    <m_iRewardNum>20 </m_iRewardNum>
+    <m_iRewardIntergral>10 </m_iRewardIntergral>
+    <m_ucIsOpen>0x0 </m_ucIsOpen>
+    <m_ucIsNewOpen>0x1 </m_ucIsNewOpen>
+    <m_ucIsProp>0x1 </m_ucIsProp>
+    <m_iMinClientVersion>25010001 </m_iMinClientVersion>
+</RoomConfig_Client>
+</RoomConfig_Client_Tab>

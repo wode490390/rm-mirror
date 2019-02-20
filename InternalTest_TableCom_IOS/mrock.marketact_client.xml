@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MarketActConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>146 </Unit>
+        <Count>1 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>3007636b10a95a8da69750018d56825b</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MarketActConfig_Client version="1">
+    <m_ushMarketActID>0 </m_ushMarketActID>
+    <m_szDescription>0运营活动描述</m_szDescription>
+    <m_ucRewardNumber>0x0 </m_ucRewardNumber>
+</MarketActConfig_Client>
+</MarketActConfig_Client_Tab>

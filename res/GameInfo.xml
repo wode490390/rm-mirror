@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+	<BulletinVersion>25</BulletinVersion>
+	<SelectLineTip>8月15日节奏大师携新曲火热来袭！韩庚新歌《X-man》、百变女神温岚《Landing》邀你体验！</SelectLineTip>
+	<EvalutionUrl>http://da.qq.com</EvalutionUrl>
+	<ServerIP>180.153.163.168</ServerIP>
+        <ServerPort>443</ServerPort>
+	<MicroBlog>新歌周周有，好歌玩不停！最精致音乐游戏#节奏大师#！游戏下载：http://da.qq.com</MicroBlog>
+	<GameOverTipPer30>不要灰心，再接再厉哦！再来一次吧！</GameOverTipPer30>
+	<GameOverTipPer50>打中了一半的音符，继续加油吧！</GameOverTipPer50>
+	<GameOverTipPer60>亲！还要多多练习哦！</GameOverTipPer60>
+	<GameOverTipPer80>加油哦！小师妹为你打气！</GameOverTipPer80>
+	<GameOverTipPer90>亲！再多打几次！马上就可以过关了！</GameOverTipPer90>
+	<LoadingTipCount>9</LoadingTipCount>
+	<LoadingTipPer1>每首歌曲第一次加载MP3过程会较慢，以后就很快了</LoadingTipPer1>
+	<LoadingTipPer2>节奏大师每周都有新歌更新，要持续关注哦</LoadingTipPer2>
+	<LoadingTipPer3>歌曲评价的高低顺序是SSS、SS、S、A、B、C、D</LoadingTipPer3>
+	<LoadingTipPer4>在排行榜中您可以查看您的QQ好友排行与全球排行</LoadingTipPer4>
+	<LoadingTipPer5>调整速度也是过关的秘诀，尝试用高倍速游戏吧</LoadingTipPer5>
+	<LoadingTipPer6>每首共有3个模式，每个模式有3个难度，体验均不一样哦</LoadingTipPer6>
+	<LoadingTipPer7>游戏过程中一定要跟着节奏打音符，这样才能得到高分</LoadingTipPer7>
+	<LoadingTipPer8>将成绩和排行榜在微博上分享可以让朋友看到你的成绩</LoadingTipPer8>
+	<LoadingTipPer9>简单难度歌曲即便死亡了也还是可以继续游戏的</LoadingTipPer9>
+	<Lock4To5>30</Lock4To5>
+	<Lock5To6>60</Lock5To6>
+	<LockEasyToNormal>4</LockEasyToNormal>
+	<LockNormalToHard>4</LockNormalToHard>
+	<Lock4To5Tip>完成30次4键模式即可解锁本模式。</Lock4To5Tip>
+	<Lock5To6Tip>累计完成60次4键或5键模式即可解锁本模式。</Lock5To6Tip>
+	<LockEasyToNormalTip>当前歌曲简单难度获得A评价，即可解锁本难度。</LockEasyToNormalTip>
+	<LockNormalToHardTip>当前歌曲简单与一般难度均获得A评价，即可解锁本难度。</LockNormalToHardTip>
+	<Lock4To5AlertTip>恭喜，成功解锁5键模式！</Lock4To5AlertTip>
+	<Lock5To6AlertTip>恭喜，成功解锁6键模式！</Lock5To6AlertTip>
+	<LockEasyToNormalAlertTip>恭喜，成功解锁当前歌曲一般难度！</LockEasyToNormalAlertTip>
+	<LockNormalToHardAlertTip>恭喜，成功解锁当前歌曲困难难度！</LockNormalToHardAlertTip>  
+    <!--分享相关配置-->
+  <ShareContent1>我的成绩刷新了哟，快来超越我吧！</ShareContent1>
+  <ShareContent2>前无古人，后无来者，我有SSS，你有木有？</ShareContent2>
+  <ShareContent3>太棒了，我终于打出了SS评价哦，你也来试试吧。</ShareContent3>
+  <ShareContent4>我已经通过了</ShareContent4>
+  <ShareContent5>关了，快来超越我吧。</ShareContent5>
+  <ShareContent6>oh yeah，天上掉馅饼了，我抽到了隐藏歌哦。</ShareContent6>
+  <ShareContent7>快和我一起来玩节奏大师吧，你就是最炫最酷的音乐达人！</ShareContent7>
+  <ShareContent8>新歌周周有，好歌玩不停！最精致音乐游戏#节奏大师#游戏下载：http://da.qq.com/appdetail/index.html</ShareContent8>
+  <ShareGotoUrl>http://da.qq.com/appdetail/index.html</ShareGotoUrl>
+  
+  <QQQun>官方玩家群：90076695</QQQun>
+  <IOSUpdateType>0</IOSUpdateType>
+  <AndroidUpdateType>0</AndroidUpdateType>
+  <IOSUpdateVersion>1.0.13.9</IOSUpdateVersion>
+  <AndroidUpdateVersion>1.0.14.9</AndroidUpdateVersion>
+  <IOSUpdateURL>http://itunes.apple.com/cn/app/jie-zou-da-shi/id493901993?mt=8</IOSUpdateURL>
+  <AndroidUpdateURL>http://dldir1.qq.com/mrock/QQRM_1.0.14.9.apk</AndroidUpdateURL>
+
+  <!--0 没有 1固定 2url-->
+  <LoginTag>0</LoginTag>
+  <LoingTagUrl></LoingTagUrl>
+  <!--Tga相关配置-->
+  <MusicListForRaceLabel5>赛事公告</MusicListForRaceLabel5>
+  <MusicListForRaceTime>比赛阶段：</MusicListForRaceTime>
+  <MusicListForRaceAllTime>比赛时间：</MusicListForRaceAllTime>
+  <MusicListForRaceAllSong>比赛歌曲：</MusicListForRaceAllSong>
+  <MusicListForRaceNext>晋级选拔：</MusicListForRaceNext>
+  
+  <MusicListForRaceAllDesc>海选</MusicListForRaceAllDesc>
+  <MusicListForRaceAllTimeDesc>4月27日-5月12日</MusicListForRaceAllTimeDesc>
+  <MusicListForRaceAllSongDesc>6首</MusicListForRaceAllSongDesc>
+  <MusicListForRaceAllReward>海选排名前50名可晋级并获得100Q币</MusicListForRaceAllReward>
+
+  <MusicListForRace32to16Desc>预赛</MusicListForRace32to16Desc>
+  <MusicListForRace32to16TimeDesc>5月15日-5月19日</MusicListForRace32to16TimeDesc>
+  <MusicListForRace32to16SongDesc>5首</MusicListForRace32to16SongDesc>
+  <MusicListForRace32to16Reward>预赛排名前25名可晋级并获得200Q币</MusicListForRace32to16Reward>
+
+  <MusicListForRace16to8Desc>复赛</MusicListForRace16to8Desc>
+  <MusicListForRace16to8TimeDesc>5月22日-5月26日</MusicListForRace16to8TimeDesc>
+  <MusicListForRace16to8SongDesc>3首</MusicListForRace16to8SongDesc>
+  <MusicListForRace16to8Reward>复赛排名前3名可晋级并获得1000Q币</MusicListForRace16to8Reward>
+
+  <TgaSelectLineTip>2013 TGA节奏大师挑战赛线上比赛结束，线下决赛请关注官网通知！</TgaSelectLineTip>
+
+  <TgaTips>本次线上比赛结束</TgaTips>
+
+
+</GameInfo>

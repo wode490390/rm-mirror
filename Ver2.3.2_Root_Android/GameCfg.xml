@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+  <HttpSongResPath>Com_SongRes/</HttpSongResPath>
+  <HttpTableComPath>Com_TableCom_Android_Bin/</HttpTableComPath>
+
+<UseTgwLogin>1</UseTgwLogin>
+
+  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>14005</ServerPortTgwQQ>
+
+  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>14004</ServerPortTgwWeixin>
+
+  <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
+  <ServerIPQQ>101.226.37.229</ServerIPQQ>
+  <ServerPortWeixin>8041</ServerPortWeixin>
+  <ServerPortQQ>8041</ServerPortQQ>
+  
+  
+  
+  <NotifyUseTgw>1</NotifyUseTgw>
+  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyTgwPort>12005</NotifyTgwPort>
+      
+  <NotifyServerIP>101.226.37.229</NotifyServerIP>
+  <NotifyServerPort>8043</NotifyServerPort>
+  
+
+  
+  <QQLoginEnabled>1</QQLoginEnabled>
+  <WXLoginEnabled>1</WXLoginEnabled>
+  <QQDynamicLoginEnabled>0</QQDynamicLoginEnabled>
+  <WXDynamicLoginEnabled>0</WXDynamicLoginEnabled>
+  <QQDynamicLoginDuration>5</QQDynamicLoginDuration>
+  <WXDynamicLoginDuration>5</WXDynamicLoginDuration>
+  <DynamicTipEnabled>1</DynamicTipEnabled>
+
+  
+  
+  <QQFrontLoginControlEnabled>1</QQFrontLoginControlEnabled>
+  <WXFrontLoginControlEnabled>1</WXFrontLoginControlEnabled>
+  <QQFrontLoginControlRetryTimes>3</QQFrontLoginControlRetryTimes>
+  <WXFrontLoginControlRetryTimes>3</WXFrontLoginControlRetryTimes>
+  <QQFrontLoginControlDuration>5</QQFrontLoginControlDuration>
+  <WXFrontLoginControlDuration>5</WXFrontLoginControlDuration>
+  <QQFrontLoginDisableDuration>2</QQFrontLoginDisableDuration>
+  <WXFrontLoginDisableDuration>2</WXFrontLoginDisableDuration>
+  <FrontLoginControlTipEnabled>1</FrontLoginControlTipEnabled>
+
+  
+  <LoginTimeOutDuration>6</LoginTimeOutDuration>
+  <NormalTimeOutDuration>20</NormalTimeOutDuration>
+
+</GameInfo>

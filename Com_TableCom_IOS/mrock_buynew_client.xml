@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BuyConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>295 </Unit>
+        <Count>41 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>97f79c3884d6cd2ef63120d7e6975677</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<BuyConfig_Client version="1">
+    <m_ushID>1 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>5 </m_iThingNumber>
+    <m_iIOSMoney>100 </m_iIOSMoney>
+    <m_iAndroidMoney>100 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>2 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>11 </m_iThingNumber>
+    <m_iIOSMoney>200 </m_iIOSMoney>
+    <m_iAndroidMoney>200 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>3 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>23 </m_iThingNumber>
+    <m_iIOSMoney>400 </m_iIOSMoney>
+    <m_iAndroidMoney>400 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>4 </m_ushID>
+    <m_ucType>0x2 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>60 </m_iThingNumber>
+    <m_iIOSMoney>1000 </m_iIOSMoney>
+    <m_iAndroidMoney>1000 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>5 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>1 </m_iThingID>
+    <m_szItemName>MISS消除</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>15 </m_iIOSMoney>
+    <m_iAndroidMoney>15 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消3次Miss判定</m_szDescriptionName>
+    <m_iIconID>1 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>2 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>6 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>4 </m_iThingID>
+    <m_szItemName>防护罩</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>15 </m_iIOSMoney>
+    <m_iAndroidMoney>15 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>血量低于10%时进入10秒无敌状态</m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>7 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>2 </m_iThingID>
+    <m_szItemName>血量回复</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>10 </m_iIOSMoney>
+    <m_iAndroidMoney>10 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>血量低于20%时自动补满</m_szDescriptionName>
+    <m_iIconID>2 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>1 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>8 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>3 </m_iThingID>
+    <m_szItemName>血量增加</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>10 </m_iIOSMoney>
+    <m_iAndroidMoney>10 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>增加50%生命值上限</m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>9 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>6 </m_iThingID>
+    <m_szItemName>抵消Great</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>将五个GREAT修改为PERFECT判定</m_szDescriptionName>
+    <m_iIconID>6 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>3 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>10 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>7 </m_iThingID>
+    <m_szItemName>双倍经验</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>本局游戏获得基础经验提高100%</m_szDescriptionName>
+    <m_iIconID>7 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>5 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>11 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>8 </m_iThingID>
+    <m_szItemName>不死鸟</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>80 </m_iIOSMoney>
+    <m_iAndroidMoney>80 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>本局游戏不会中途死亡</m_szDescriptionName>
+    <m_iIconID>8 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>6 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>12 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>9 </m_iThingID>
+    <m_szItemName>普通幸运道具</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>随机获得神秘效果</m_szDescriptionName>
+    <m_iIconID>122 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>101 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>101 </m_iThingID>
+    <m_szItemName>超级连击</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消五次Miss判定</m_szDescriptionName>
+    <m_iIconID>101 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>1 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>102 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>102 </m_iThingID>
+    <m_szItemName>完美判定</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>将五个GREAT修改为PERFECT判定</m_szDescriptionName>
+    <m_iIconID>102 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>2 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>103 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>103 </m_iThingID>
+    <m_szItemName>五星达人</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后更容易获得星星评价</m_szDescriptionName>
+    <m_iIconID>103 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>3 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>104 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>104 </m_iThingID>
+    <m_szItemName>无敌幸运星</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>LUCKY出现几率提升200%</m_szDescriptionName>
+    <m_iIconID>104 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>5 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>105 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>105 </m_iThingID>
+    <m_szItemName>得分up</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>100 </m_iIOSMoney>
+    <m_iAndroidMoney>100 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>Perfect判定获得分数提升10%</m_szDescriptionName>
+    <m_iIconID>105 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>6 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>121 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>121 </m_iThingID>
+    <m_szItemName>人品大爆发</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>300 </m_iIOSMoney>
+    <m_iAndroidMoney>300 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>121 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>122 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>122 </m_iThingID>
+    <m_szItemName>星动幸运道具</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>随机获得神秘效果</m_szDescriptionName>
+    <m_iIconID>124 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>123 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>10 </m_iThingID>
+    <m_szItemName>大MISS消除</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>6 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消9次Miss判定</m_szDescriptionName>
+    <m_iIconID>123 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>4 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>124 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>123 </m_iThingID>
+    <m_szItemName>完美连击</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>6 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消9次Miss判定</m_szDescriptionName>
+    <m_iIconID>125 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>4 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>261 </m_ushID>
+    <m_ucType>0x1 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>100 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>10 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>262 </m_ushID>
+    <m_ucType>0x1 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>520 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>50 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>263 </m_ushID>
+    <m_ucType>0x1 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>1058 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>100 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>264 </m_ushID>
+    <m_ucType>0x1 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>5400 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>500 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>265 </m_ushID>
+    <m_ucType>0x1 </m_ucType>
+    <m_iThingID>0 </m_iThingID>
+    <m_szItemName></m_szItemName>
+    <m_iThingNumber>16400 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1500 </m_iDiamonds>
+    <m_szDescriptionName></m_szDescriptionName>
+    <m_iIconID>0 </m_iIconID>
+    <m_iIsopen>0 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>271 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>402 </m_iThingID>
+    <m_szItemName>积分抽奖</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>获得一次免费积分抽奖机会</m_szDescriptionName>
+    <m_iIconID>402 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>272 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>403 </m_iThingID>
+    <m_szItemName>免费跳关</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>获得一次免费跳关机会</m_szDescriptionName>
+    <m_iIconID>403 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>273 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>404 </m_iThingID>
+    <m_szItemName>88金币入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入88金币PK场</m_szDescriptionName>
+    <m_iIconID>404 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>274 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>405 </m_iThingID>
+    <m_szItemName>398金币入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入398金币PK场</m_szDescriptionName>
+    <m_iIconID>405 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>275 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>406 </m_iThingID>
+    <m_szItemName>20钻入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入20钻石PK场</m_szDescriptionName>
+    <m_iIconID>406 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>276 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>407 </m_iThingID>
+    <m_szItemName>188钻入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入188钻石PK场</m_szDescriptionName>
+    <m_iIconID>407 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>277 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>408 </m_iThingID>
+    <m_szItemName>20钻星动入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入20钻石星动PK场</m_szDescriptionName>
+    <m_iIconID>408 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>278 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>409 </m_iThingID>
+    <m_szItemName>无道具入场券</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>免门票进入88金币无道具PK场</m_szDescriptionName>
+    <m_iIconID>409 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>279 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>414 </m_iThingID>
+    <m_szItemName>旋转音符</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>1000 </m_iDiamonds>
+    <m_szDescriptionName>礼从天降活动中开启转盘</m_szDescriptionName>
+    <m_iIconID>410 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>301 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>301 </m_iThingID>
+    <m_szItemName>6MISS消除</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>30 </m_iIOSMoney>
+    <m_iAndroidMoney>30 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消6次Miss判定</m_szDescriptionName>
+    <m_iIconID>301 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>1 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>302 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>302 </m_iThingID>
+    <m_szItemName>12MISS消除</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消12次Miss判定</m_szDescriptionName>
+    <m_iIconID>302 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>2 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>303 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>303 </m_iThingID>
+    <m_szItemName>极限生存</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>60 </m_iIOSMoney>
+    <m_iAndroidMoney>60 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>使用后可抵消3次Miss判定,每次抵消时获得3秒无敌</m_szDescriptionName>
+    <m_iIconID>303 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>3 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>304 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>304 </m_iThingID>
+    <m_szItemName>自动音符2号</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>10 </m_iDiamonds>
+    <m_szDescriptionName>自动击打2号键位的所有单键</m_szDescriptionName>
+    <m_iIconID>304 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>4 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>305 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>305 </m_iThingID>
+    <m_szItemName>自动音符3号</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>0 </m_iIOSMoney>
+    <m_iAndroidMoney>0 </m_iAndroidMoney>
+    <m_iDiamonds>10 </m_iDiamonds>
+    <m_szDescriptionName>自动击打3号键位的所有单键</m_szDescriptionName>
+    <m_iIconID>305 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>5 </m_iSequence>
+    <m_iIsone>1 </m_iIsone>
+</BuyConfig_Client>
+<BuyConfig_Client version="1">
+    <m_ushID>306 </m_ushID>
+    <m_ucType>0x5 </m_ucType>
+    <m_iThingID>306 </m_iThingID>
+    <m_szItemName>幸运道具(极限）</m_szItemName>
+    <m_iThingNumber>1 </m_iThingNumber>
+    <m_iIOSMoney>50 </m_iIOSMoney>
+    <m_iAndroidMoney>50 </m_iAndroidMoney>
+    <m_iDiamonds>0 </m_iDiamonds>
+    <m_szDescriptionName>随机获得神秘效果</m_szDescriptionName>
+    <m_iIconID>306 </m_iIconID>
+    <m_iIsopen>1 </m_iIsopen>
+    <m_iSequence>0 </m_iSequence>
+    <m_iIsone>0 </m_iIsone>
+</BuyConfig_Client>
+</BuyConfig_Client_Tab>

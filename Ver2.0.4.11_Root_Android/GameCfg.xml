@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+
+  <!--HTTP-->
+  <HttpSongListPath>Com_SongList/</HttpSongListPath>
+  <HttpSongResPath>Com_SongRes/</HttpSongResPath>
+  <HttpGameInfoPath>Com_TableCom_Android/</HttpGameInfoPath>
+  <!--HttpTablePath>xxxx/</HttpTablePath-->
+  <HttpTableComPath>Com_TableCom_Android/</HttpTableComPath>
+
+  <!--GameServer-->
+  <!--0 normal login / 1 tgw login-->
+  <UseTgwLogin>1</UseTgwLogin>
+
+  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>12003</ServerPortTgwQQ>
+
+  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>12002</ServerPortTgwWeixin>
+
+  <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
+  <ServerIPQQ>101.226.37.229</ServerIPQQ>
+  <ServerPortWeixin>8041</ServerPortWeixin>
+  <ServerPortQQ>8041</ServerPortQQ>
+  
+  <!--NotifyServer-->
+  <NotifyUseTgw>1</NotifyUseTgw>
+    
+  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyTgwPort>12005</NotifyTgwPort>
+      
+  <NotifyServerIP>101.226.37.229</NotifyServerIP>
+  <NotifyServerPort>8043</NotifyServerPort>
+
+<!--Android Login Control cfg
+  QQLoginEnabled: 是否统一开启android上QQ的登录按钮，1开启，0关闭
+  WXLoginEnabled: 是否统一开启android上微信的登录按钮，1开启，0关闭
+  QQDynamicLoginEnabled: 是否开启android上根据服务器返回错误码控制QQ的登录按钮的功能，1开启，0关闭
+  WXDynamicLoginEnabled: 是否开启android上根据服务器返回错误码控制微信的登录按钮的功能，1开启，0关闭
+  QQDynamicLoginDuration: 根据服务器关闭QQ登录功能的等待时间，单位秒
+  WXDynamicLoginDuration: 根据服务器关闭微信登录功能的等待时间，单位秒
+  -->
+  <QQLoginEnabled>1</QQLoginEnabled>
+  <WXLoginEnabled>1</WXLoginEnabled>
+  <QQDynamicLoginEnabled>0</QQDynamicLoginEnabled>
+  <WXDynamicLoginEnabled>0</WXDynamicLoginEnabled>
+  <QQDynamicLoginDuration>60</QQDynamicLoginDuration>
+  <WXDynamicLoginDuration>60</WXDynamicLoginDuration>
+</GameInfo>

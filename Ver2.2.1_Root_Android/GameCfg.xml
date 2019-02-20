@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameInfo>
+
+  <!--HTTP-->
+  <!--HttpSongListPath></HttpSongListPath-->
+  <HttpSongResPath>Com_SongRes/</HttpSongResPath>
+  <!--HttpGameInfoPath></HttpGameInfoPath-->
+  <!--HttpTablePath>xxxx/</HttpTablePath-->
+  <HttpTableComPath>Com_TableCom_Android/</HttpTableComPath>
+
+  <!--GameServer-->
+  <!--0 normal login / 1 tgw login-->
+  <UseTgwLogin>1</UseTgwLogin>
+
+  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>12003</ServerPortTgwQQ>
+
+  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>12002</ServerPortTgwWeixin>
+
+  <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
+  <ServerIPQQ>101.226.37.229</ServerIPQQ>
+  <ServerPortWeixin>8041</ServerPortWeixin>
+  <ServerPortQQ>8041</ServerPortQQ>
+  
+  <!--NotifyServer-->
+  <NotifyUseTgw>1</NotifyUseTgw>
+    
+  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyTgwPort>12005</NotifyTgwPort>
+      
+  <NotifyServerIP>101.226.37.229</NotifyServerIP>
+  <NotifyServerPort>8043</NotifyServerPort>
+  
+<!--Android Login Control cfg
+  QQLoginEnabled: 是否统一开启android上QQ的登录按钮，1开启，0关闭
+  WXLoginEnabled: 是否统一开启android上微信的登录按钮，1开启，0关闭
+  QQDynamicLoginEnabled: 是否开启android上根据服务器返回错误码控制QQ的登录按钮的功能，1开启，0关闭
+  WXDynamicLoginEnabled: 是否开启android上根据服务器返回错误码控制微信的登录按钮的功能，1开启，0关闭
+  QQDynamicLoginDuration: 根据服务器关闭QQ登录功能的等待时间，单位秒
+  WXDynamicLoginDuration: 根据服务器关闭微信登录功能的等待时间，单位秒
+  DynamicTipEnabled：根据服务器关闭QQ和微信登录功能的提示是否开启，1开启，0关闭
+  -->
+  <QQLoginEnabled>1</QQLoginEnabled>
+  <WXLoginEnabled>1</WXLoginEnabled>
+  <QQDynamicLoginEnabled>0</QQDynamicLoginEnabled>
+  <WXDynamicLoginEnabled>0</WXDynamicLoginEnabled>
+  <QQDynamicLoginDuration>5</QQDynamicLoginDuration>
+  <WXDynamicLoginDuration>5</WXDynamicLoginDuration>
+  <DynamicTipEnabled>1</DynamicTipEnabled>
+  
+    <!--Front Login Control cfg
+  QQFrontLoginControlEnabled: 是否开启qq的登录超时灰化控制功能，1开启，0关闭
+  WXFrontLoginControlEnabled: 是否开启wx的登录超时灰化控制功能，1开启，0关闭
+  QQFrontLoginControlRetryTimes: qq登录超时验证重试次数
+  WXFrontLoginControlRetryTimes: wx登录超时验证重试次数
+  QQFrontLoginControlDuration: qq登录超时验证的时间限制，单位分
+  WXFrontLoginControlDuration: wx登录超时验证的时间限制，单位分
+  QQFrontLoginDisableDuration: qq灰化时间，单位分
+  WXFrontLoginDisableDuration: wx灰化时间，单位分
+  FrontLoginControlTipEnabled: 是否显示提示
+  -->
+  <QQFrontLoginControlEnabled>1</QQFrontLoginControlEnabled>
+  <WXFrontLoginControlEnabled>1</WXFrontLoginControlEnabled>
+  <QQFrontLoginControlRetryTimes>3</QQFrontLoginControlRetryTimes>
+  <WXFrontLoginControlRetryTimes>3</WXFrontLoginControlRetryTimes>
+  <QQFrontLoginControlDuration>5</QQFrontLoginControlDuration>
+  <WXFrontLoginControlDuration>5</WXFrontLoginControlDuration>
+  <QQFrontLoginDisableDuration>2</QQFrontLoginDisableDuration>
+  <WXFrontLoginDisableDuration>2</WXFrontLoginDisableDuration>
+  <FrontLoginControlTipEnabled>1</FrontLoginControlTipEnabled>
+  
+  <!--timeout control
+  LoginTimeOutDuration: 登录的超时等待时间，单位秒
+  NormalTimeOutDuration: 其他超时等待时间，单位秒
+  -->
+  <LoginTimeOutDuration>6</LoginTimeOutDuration>
+  <NormalTimeOutDuration>20</NormalTimeOutDuration>
+
+</GameInfo>

@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<MapConfig_Client_Tab>
+<TResHeadAll version="5">
+    <resHead type="TResHead">
+        <Magic>1397052237 </Magic>
+        <Version>6 </Version>
+        <Unit>57 </Unit>
+        <Count>81 </Count>
+        <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
+        <ResVersion>0 </ResVersion>
+        <CreateTime>   0-00-00 00:00:00</CreateTime>
+        <ResEncording>UTF-8</ResEncording>
+        <ContentHash>1adc363d67f05e081f42bf0c03524987</ContentHash>
+    </resHead>
+    <resHeadExt type="TResHeadExt">
+        <DataOffset>136 </DataOffset>
+    </resHeadExt>
+</TResHeadAll>
+<MapConfig_Client version="1">
+    <m_iFloorID>0 </m_iFloorID>
+    <m_iTimeLimitID>0 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>0 </m_iID>
+    <m_iNoteType>0 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>0 </m_iNodeSong>
+    <m_iNodeDiff>0 </m_iNodeDiff>
+    <m_iNodeKey>0 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>0 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>1 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>1 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>452 </m_iNodeSong>
+    <m_iNodeDiff>1 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>4 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>2 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>2 </m_iID>
+    <m_iNoteType>15 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>465 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>3 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>3 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>15 </m_iNodeValue>
+    <m_iNodeSong>436 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>4 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>4 </m_iID>
+    <m_iNoteType>3 </m_iNoteType>
+    <m_iNodeValue>80 </m_iNodeValue>
+    <m_iNodeSong>388 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>5 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>5 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>484 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>5 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>6 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>6 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>50 </m_iNodeValue>
+    <m_iNodeSong>196 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>7 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>7 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>201 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>8 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>8 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>70 </m_iNodeValue>
+    <m_iNodeSong>320 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>9 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>9 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>10 </m_iNodeValue>
+    <m_iNodeSong>376 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>10 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>10 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>472 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>6 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>11 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>2 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>11 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>455 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>12 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>12 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>60 </m_iNodeValue>
+    <m_iNodeSong>323 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>13 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>13 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>70 </m_iNodeValue>
+    <m_iNodeSong>221 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>14 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>14 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>15 </m_iNodeValue>
+    <m_iNodeSong>312 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>15 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>15 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>16 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>7 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>16 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>3 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>16 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>15 </m_iNodeValue>
+    <m_iNodeSong>272 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>17 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>17 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>60 </m_iNodeValue>
+    <m_iNodeSong>232 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>18 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>18 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>10 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>19 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>19 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>505 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>20 </m_iFloorID>
+    <m_iTimeLimitID>10101 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>20 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>384 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>13 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>51 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>1 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>10 </m_iNodeValue>
+    <m_iNodeSong>108 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>4 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>52 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>2 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>437 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>53 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>3 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>85 </m_iNodeValue>
+    <m_iNodeSong>424 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>54 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>4 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>344 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>55 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>5 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>159 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>5 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>56 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>6 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>130 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>57 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>7 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>95 </m_iNodeValue>
+    <m_iNodeSong>171 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>58 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>8 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>180 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>59 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>9 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>387 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>60 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>10 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>182 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>6 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>61 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>2 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>11 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>318 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>62 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>12 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>308 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>63 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>13 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>85 </m_iNodeValue>
+    <m_iNodeSong>394 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>64 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>14 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>315 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>65 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>15 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>98 </m_iNodeValue>
+    <m_iNodeSong>261 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>7 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>66 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>3 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>16 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>6 </m_iNodeValue>
+    <m_iNodeSong>164 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>67 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>17 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>167 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>68 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>18 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>175 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>69 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>19 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>228 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>70 </m_iFloorID>
+    <m_iTimeLimitID>10102 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>20 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>127 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>13 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>1 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>101 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>1 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>10 </m_iNodeValue>
+    <m_iNodeSong>220 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>4 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>102 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>2 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>60 </m_iNodeValue>
+    <m_iNodeSong>99 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>103 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>3 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>242 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>104 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>4 </m_iID>
+    <m_iNoteType>3 </m_iNoteType>
+    <m_iNodeValue>80 </m_iNodeValue>
+    <m_iNodeSong>195 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>105 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>5 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>211 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>5 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>106 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>6 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>330 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>107 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>7 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>60 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>108 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>8 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>90 </m_iNodeValue>
+    <m_iNodeSong>104 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>109 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>9 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>206 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>110 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>10 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>54 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>6 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>111 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>2 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>11 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>138 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>112 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>12 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>126 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>113 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>13 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>122 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>114 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>14 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>90 </m_iNodeValue>
+    <m_iNodeSong>106 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>115 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>15 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>449 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>7 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>116 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>3 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>16 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>225 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>117 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>17 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>222 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>118 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>18 </m_iID>
+    <m_iNoteType>25 </m_iNoteType>
+    <m_iNodeValue>95 </m_iNodeValue>
+    <m_iNodeSong>146 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>119 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>19 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>478 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>120 </m_iFloorID>
+    <m_iTimeLimitID>10103 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>20 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>317 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>13 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>151 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>1 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>60 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>4 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>152 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>2 </m_iID>
+    <m_iNoteType>15 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>148 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>153 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>3 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>10 </m_iNodeValue>
+    <m_iNodeSong>189 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>154 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>4 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>215 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>155 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>5 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>484 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>5 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>156 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>6 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>75 </m_iNodeValue>
+    <m_iNodeSong>393 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>157 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>7 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>85 </m_iNodeValue>
+    <m_iNodeSong>390 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>158 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>8 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>358 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>159 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>9 </m_iID>
+    <m_iNoteType>18 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>356 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>160 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>10 </m_iID>
+    <m_iNoteType>11 </m_iNoteType>
+    <m_iNodeValue>15 </m_iNodeValue>
+    <m_iNodeSong>123 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>6 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>161 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>2 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>11 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>75 </m_iNodeValue>
+    <m_iNodeSong>352 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>162 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>12 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>370 </m_iNodeSong>
+    <m_iNodeDiff>2 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>163 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>13 </m_iID>
+    <m_iNoteType>9 </m_iNoteType>
+    <m_iNodeValue>3 </m_iNodeValue>
+    <m_iNodeSong>464 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>164 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>14 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>85 </m_iNodeValue>
+    <m_iNodeSong>421 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>165 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>15 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>4 </m_iNodeValue>
+    <m_iNodeSong>373 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>7 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>166 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>3 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x1 </m_iNeedPassID>
+    <m_iID>16 </m_iID>
+    <m_iNoteType>14 </m_iNoteType>
+    <m_iNodeValue>0 </m_iNodeValue>
+    <m_iNodeSong>36 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>167 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>17 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>397 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>168 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>18 </m_iID>
+    <m_iNoteType>27 </m_iNoteType>
+    <m_iNodeValue>75 </m_iNodeValue>
+    <m_iNodeSong>452 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>169 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>19 </m_iID>
+    <m_iNoteType>19 </m_iNoteType>
+    <m_iNodeValue>85 </m_iNodeValue>
+    <m_iNodeSong>478 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>1 </m_iNodeKey>
+    <m_iRewardType>0 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>0 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+<MapConfig_Client version="1">
+    <m_iFloorID>170 </m_iFloorID>
+    <m_iTimeLimitID>10104 </m_iTimeLimitID>
+    <m_iNeedFriendNum>0 </m_iNeedFriendNum>
+    <m_iNeedPassID>0x0 </m_iNeedPassID>
+    <m_iID>20 </m_iID>
+    <m_iNoteType>7 </m_iNoteType>
+    <m_iNodeValue>5 </m_iNodeValue>
+    <m_iNodeSong>316 </m_iNodeSong>
+    <m_iNodeDiff>3 </m_iNodeDiff>
+    <m_iNodeKey>2 </m_iNodeKey>
+    <m_iRewardType>1 </m_iRewardType>
+    <m_iRewardValue>0 </m_iRewardValue>
+    <m_iRewardGroup>13 </m_iRewardGroup>
+    <m_iVersion>24010001 </m_iVersion>
+    <m_iPlayStyle>0 </m_iPlayStyle>
+</MapConfig_Client>
+</MapConfig_Client_Tab>
