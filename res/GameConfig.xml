@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameConfig>
+	<Text>
+		<simple>简单</simple>
+		<normal>一般</normal>
+		<hard>困难</hard>
+		<speed>速度调节</speed>
+		<all>全部</all>
+		<hot>热门</hot>
+		<like>喜欢</like>
+    <CurRankTxt>您暂未进入排行，继续努力吧</CurRankTxt>
+    <CurRankTxt2>您是第</CurRankTxt2>
+    <CurRankTxt3>名</CurRankTxt3>
+    <RankWorldTxt>您创造了新的排名!!</RankWorldTxt>
+    <RankWorldTxt2>歌曲排行无变化</RankWorldTxt2>
+    <RankWorldTxt3>点击查看>></RankWorldTxt3>
+    <RankTime>刷新日期：</RankTime>
+    <PlayerNumTxt>玩家总数：</PlayerNumTxt>
+		<tips1>目前正在下载歌曲所需文件，请耐心等待，您也可以到歌</tips1>
+		<tips2>曲管理提前下载好歌曲文件</tips2>
+    <NetworkErrorTitile>网络错误</NetworkErrorTitile>
+    <NetworkErrorContent>网络状况不稳定，请重试</NetworkErrorContent>
+    <NetworkInterruptContent>服务器正在维护，网络已断开</NetworkInterruptContent>
+    <FileErrorTitile>文件错误</FileErrorTitile>
+    <FileErrorContent>曲谱文件不存在</FileErrorContent>
+    <DownErrorContent>下载文件超时</DownErrorContent>
+    <AlphaQQRangeTitle>错误提示</AlphaQQRangeTitle>	
+    <AlphaQQRangeContent>您没有权限</AlphaQQRangeContent>
+    <NoOpen>暂时没开放</NoOpen>
+    <WifiAlert>您目前正在使用移动流量，建议开启wifi后进行游戏</WifiAlert>
+    <WifiAlertButton>知道了</WifiAlertButton>
+    <MicroBlogSuccess>发布成功</MicroBlogSuccess>
+    <MicroBlogFailed>发布失败</MicroBlogFailed>
+    <SHOPPING600>CN ¥ 6</SHOPPING600>
+    <SHOPPING2000>CN ¥ 18</SHOPPING2000>
+    <SHOPPING3600>CN ¥ 30</SHOPPING3600>
+    <SHOPPING10000>CN ¥ 73</SHOPPING10000>  
+    <SHOPPING65000>CN ¥ 328</SHOPPING65000>
+    <ShopSccuess>购买成功</ShopSccuess>
+        <BeginSongError>开歌出错</BeginSongError>
+        <NoMoney>您的金币不足，请前往商城充值</NoMoney>
+    <OldPriceTxt>原价</OldPriceTxt>
+        <AffirmBuySongTitle>请确认是否购买当前歌曲</AffirmBuySongTitle>
+        <AffirmBuySongJingContent>需消耗晶钻</AffirmBuySongJingContent>
+        <AffirmBuySongGoldContent>需消耗金币</AffirmBuySongGoldContent>
+        <AffirmBuy>购买</AffirmBuy>
+        <CancelBuy>取消</CancelBuy>
+        <BuyJingTitle>请确认购买得晶钻数量</BuyJingTitle>
+        <BuyJingContent1>您想以</BuyJingContent1>
+        <BuyJingContent2>金币购买</BuyJingContent2>
+        <BuyJingContent3>个晶钻吗？</BuyJingContent3>
+
+    <!-- song info -->
+    <TipVIP>歌曲已买断</TipVIP>
+    <TipFree>免费歌曲</TipFree>
+    <TipTimeFree>限时免费歌曲</TipTimeFree>
+    <SongBuy>歌曲买断</SongBuy>
+    <PlayOnce>单次开歌</PlayOnce>
+    <Time>时间</Time>
+    <NoteCunt>音符总数</NoteCunt>
+    <!--learn-->
+    <LearnTip1>欢迎来到节奏大师！</LearnTip1>
+    <LearnTip1_1>在这里你可以感受到演奏游戏的快感！</LearnTip1_1>
+    <LearnTip2>先让我们学习一下节奏大师的基本玩法</LearnTip2>
+    <LearnTip3>现在我们开始学习节奏大师三种音符的按法！</LearnTip3>
+    <LearnTip4>您已经学习完节奏大师的玩法！</LearnTip4>
+    <LearnTip4_1>现在您可以点击开始游戏实际操作一下！</LearnTip4_1>
+    <LearnPressTip1>触摸屏幕进入下一页</LearnPressTip1>
+    <LearnPressTip2>触摸屏幕开始学习</LearnPressTip2>
+    <!--quest-->
+    <schedule>进度</schedule>
+    <getAwardSuccess>领取奖励成功</getAwardSuccess>
+    <!-- learn -->
+    <learnGamingTip1_1>1.单键音符</learnGamingTip1_1>
+    <learnGamingTip1_2>手指点击一下屏幕完成单键音符演奏</learnGamingTip1_2>
+    <learnGamingTip2_1>2.单滑键音符</learnGamingTip2_1>
+    <learnGamingTip2_2>手指顺着音符箭头指向滑动完成演奏</learnGamingTip2_2>
+    <learnGamingTip3_1>3.长键音符</learnGamingTip3_1>
+    <learnGamingTip3_2>手指按中音符区域，直到长键走完再松手</learnGamingTip3_2>
+    <learnGamingTip4_1>4.长滑键音符</learnGamingTip4_1>
+    <learnGamingTip4_2>手指顺着长音符曲折的方向左右滑动完成演奏</learnGamingTip4_2>
+    <!--qq qun-->
+    <QQQun>官方玩家群：209726795</QQQun>
+    <HomeWebsiteTxt>官方网站</HomeWebsiteTxt>
+        <BBSTxt>论坛交流</BBSTxt>
+    <SkipTxt>跳 过</SkipTxt>
+        <LearnTryTxt>再来一次</LearnTryTxt>
+        <StartGameTxt>开始游戏</StartGameTxt>
+        
+	</Text>
+	<Network>
+        <!--<ServerIPTest>172.25.42.27</ServerIPTest>
+        <ServerPortTest>8060</ServerPortTest>
+        <HttpURLTest>http://172.25.42.25/rockmobile/res/</HttpURLTest>-->
+        
+        <!--<ServerPortTest>8041</ServerPortTest>-->
+        <!--<HttpURLTest>http://172.25.40.22/rock/Mobile/res/</HttpURLTest>
+		<ServerIP>101.226.37.229</ServerIP>-->
+        
+        
+        <ServerIPTest>101.226.37.229</ServerIPTest>
+        <ServerPortTest>8041</ServerPortTest>
+        <HttpURLTest>http://101.226.37.229/res/</HttpURLTest>
+        
+        <ServerIP>101.226.35.126</ServerIP>
+        <ServerPort>443</ServerPort>
+        <!-- <ServerPortTest>843</ServerPortTest> -->
+		<!--<ServerIP>101.226.37.229</ServerIP>
+		<ServerPort>8041</ServerPort>-->
+        <HttpURL>http://game.ds.qq.com/res/</HttpURL>
+        <Version>0.1.8.2</Version>
+        
+        <!--<ServerIPTest>10.1.163.35</ServerIPTest>
+        <ServerPortTest>8060</ServerPortTest>
+        <HttpURLTest>http://10.1.163.35/rockres/</HttpURLTest>
+		<ServerIP>10.1.163.35</ServerIP>
+		<ServerPort>8060</ServerPort>
+        <HttpURL>http://10.1.163.35/rockres/</HttpURL>
+        <Version>fromSHTEST</Version>-->
+	</Network>
+</GameConfig>
