@@ -15,13 +15,13 @@
   <ServerIPTgwQQCnt>3</ServerIPTgwQQCnt>
   <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
   <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
-  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerIPTgwQQ2>116.128.163.45</ServerIPTgwQQ2>
   <ServerPortTgwQQ>12003</ServerPortTgwQQ>
 
   <ServerIPTgwWeixinCnt>3</ServerIPTgwWeixinCnt>
   <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
   <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
-  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerIPTgwWeixin2>116.128.163.45</ServerIPTgwWeixin2>
   <ServerPortTgwWeixin>12002</ServerPortTgwWeixin>
 
   <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
@@ -35,7 +35,7 @@
   <NotifyIpTgwCnt>3</NotifyIpTgwCnt>
   <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
   <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
-  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
+  <NotifyIpTgw2>116.128.163.45</NotifyIpTgw2>
   <NotifyTgwPort>12005</NotifyTgwPort>
       
   <NotifyServerIP>101.226.37.229</NotifyServerIP>

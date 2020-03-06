@@ -1,4 +1,4 @@
 # TencentRM
-Tencent mobile game RhythmMaster resource server (game.ds.qq.com) mirror
+Mirror of RhythmMaster resource server (game.ds.qq.com)
 
 临时工NB
