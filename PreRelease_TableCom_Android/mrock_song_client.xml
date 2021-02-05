@@ -10,7 +10,7 @@
         <ResVersion>0 </ResVersion>
         <CreateTime>   0-00-00 00:00:00</CreateTime>
         <ResEncording>UTF-8</ResEncording>
-        <ContentHash>6d825a88a104a948972cb9938faca14c</ContentHash>
+        <ContentHash>fbe5930aa50609c1b493a1803536b9ee</ContentHash>
     </resHead>
     <resHeadExt type="TResHeadExt">
         <DataOffset>136 </DataOffset>
@@ -559,7 +559,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -793,7 +793,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -832,7 +832,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -871,7 +871,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -1086,7 +1086,7 @@
     <m_szBPM>127</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>2 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -1222,7 +1222,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -1573,7 +1573,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -1885,7 +1885,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -2203,7 +2203,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>57 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>【限时】不要停止舞动 (Don&apos;t stop movin)</m_szSongName>
+    <m_szSongName>不要停止舞动 (Don&apos;t stop movin)</m_szSongName>
     <m_szPath>dontstopmovin</m_szPath>
     <m_szArtist>S Club 7 (海外音乐人)</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -2217,7 +2217,7 @@
     <m_szBPM>126</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x0 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -2236,7 +2236,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -6181,7 +6181,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>166 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>【限时】是否 (YES NO)</m_szSongName>
+    <m_szSongName>是否 (YES NO)</m_szSongName>
     <m_szPath>iesunou</m_szPath>
     <m_szArtist>　</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -6195,7 +6195,7 @@
     <m_szBPM>129.91</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -6214,7 +6214,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -7072,7 +7072,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -7482,7 +7482,7 @@
     <m_szBPM>120</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>2 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -7833,7 +7833,7 @@
     <m_szBPM>88</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -8053,7 +8053,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>222 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>那个女孩 (That Girl)</m_szSongName>
+    <m_szSongName>【限时】那个女孩 (That Girl)</m_szSongName>
     <m_szPath>thatgirl</m_szPath>
     <m_szArtist>张韶涵</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -8067,7 +8067,7 @@
     <m_szBPM>112</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_iOrderIndex>1 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -8086,7 +8086,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x1 </m_bIsReward>
+    <m_bIsReward>0x0 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -11031,7 +11031,7 @@
     <m_szBPM>97</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -11056,7 +11056,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>306 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>咕叽咕叽</m_szSongName>
+    <m_szSongName>【限时】咕叽咕叽</m_szSongName>
     <m_szPath>gujiguji</m_szPath>
     <m_szArtist>孙燕姿</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -11070,7 +11070,7 @@
     <m_szBPM>130</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_iOrderIndex>1 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -11089,7 +11089,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x1 </m_bIsReward>
+    <m_bIsReward>0x0 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -11187,7 +11187,7 @@
     <m_szBPM>100</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>2 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -11226,7 +11226,7 @@
     <m_szBPM>125</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>3 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -12148,7 +12148,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>336 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>【限时】琴之翼</m_szSongName>
+    <m_szSongName>琴之翼</m_szSongName>
     <m_szPath>wingsofpiano</m_szPath>
     <m_szArtist>V.K克</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -12162,7 +12162,7 @@
     <m_szBPM>84</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -12181,7 +12181,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x0 </m_bIsReward>
+    <m_bIsReward>0x1 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -12772,7 +12772,7 @@
 <SongConfig_Client version="1">
     <m_ushSongID>352 </m_ushSongID>
     <m_iVersion>0 </m_iVersion>
-    <m_szSongName>你闪亮过吗 (Do You Ever Shine)</m_szSongName>
+    <m_szSongName>【限时】你闪亮过吗 (Do You Ever Shine)</m_szSongName>
     <m_szPath>doyouevershine</m_szPath>
     <m_szArtist>五月天</m_szArtist>
     <m_szComposer></m_szComposer>
@@ -12786,7 +12786,7 @@
     <m_szBPM>155</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>0 </m_iOrderIndex>
+    <m_iOrderIndex>1 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -12805,7 +12805,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x1 </m_bIsReward>
+    <m_bIsReward>0x0 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -13332,7 +13332,7 @@
     <m_szBPM>130</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>1 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -13449,7 +13449,7 @@
     <m_szBPM>120</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>3 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>
@@ -14716,7 +14716,7 @@
     <m_szProductID></m_szProductID>
     <m_iVipFlag>0 </m_iVipFlag>
     <m_bIsHide>0x0 </m_bIsHide>
-    <m_bIsReward>0x1 </m_bIsReward>
+    <m_bIsReward>0x0 </m_bIsReward>
     <m_bIsLevelReward>0x0 </m_bIsLevelReward>
 </SongConfig_Client>
 <SongConfig_Client version="1">
@@ -16725,7 +16725,7 @@
     <m_szBPM>160</m_szBPM>
     <m_ucIsOpen>1 </m_ucIsOpen>
     <m_ucCanBuy>0x0 </m_ucCanBuy>
-    <m_iOrderIndex>3 </m_iOrderIndex>
+    <m_iOrderIndex>0 </m_iOrderIndex>
     <m_bIsFree>0x1 </m_bIsFree>
     <m_bSongPkg>0x0 </m_bSongPkg>
     <m_szFreeBeginTime></m_szFreeBeginTime>

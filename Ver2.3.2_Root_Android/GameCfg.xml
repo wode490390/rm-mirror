@@ -5,12 +5,12 @@
 
 <UseTgwLogin>1</UseTgwLogin>
 
-  <ServerIPTgwQQ0>101.227.162.100</ServerIPTgwQQ0>
+  <ServerIPTgwQQ0>101.91.69.232</ServerIPTgwQQ0>
   <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
   <ServerIPTgwQQ2>116.128.163.45</ServerIPTgwQQ2>
   <ServerPortTgwQQ>14005</ServerPortTgwQQ>
 
-  <ServerIPTgwWeixin0>101.227.162.100</ServerIPTgwWeixin0>
+  <ServerIPTgwWeixin0>101.91.69.232</ServerIPTgwWeixin0>
   <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
   <ServerIPTgwWeixin2>116.128.163.45</ServerIPTgwWeixin2>
   <ServerPortTgwWeixin>14004</ServerPortTgwWeixin>
@@ -23,7 +23,7 @@
   
   
   <NotifyUseTgw>1</NotifyUseTgw>
-  <NotifyIpTgw0>101.227.162.100</NotifyIpTgw0>
+  <NotifyIpTgw0>101.91.69.232</NotifyIpTgw0>
   <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
   <NotifyIpTgw2>116.128.163.45</NotifyIpTgw2>
   <NotifyTgwPort>12005</NotifyTgwPort>

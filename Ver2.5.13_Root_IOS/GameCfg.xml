@@ -2,32 +2,46 @@
 <GameInfo>
 
   <HttpSongResPath>Com_SongRes/</HttpSongResPath>
-  <HttpTableComPath>Com_TableCom_IOS_Bin/</HttpTableComPath>
+  <HttpTableComPath>AppleCheck_TableCom_IOS/</HttpTableComPath>
 
+  
+   <!--server domain-->
+  <ServerDomain>appletest.mrock.qq.com</ServerDomain>
+  <UseDomain>1</UseDomain>
+  
 
   <UseTgwLogin>1</UseTgwLogin>
-
+   
   <ServerIPTgwQQ0>101.91.69.232</ServerIPTgwQQ0>
-  <ServerIPTgwQQ1>120.204.201.205</ServerIPTgwQQ1>
-  <ServerIPTgwQQ2>116.128.163.45</ServerIPTgwQQ2>
-  <ServerPortTgwQQ>14005</ServerPortTgwQQ>
+  <ServerIPTgwQQ1>117.144.243.173</ServerIPTgwQQ1>
+  <ServerIPTgwQQ2>140.207.135.33</ServerIPTgwQQ2>
+  <ServerPortTgwQQ>12002</ServerPortTgwQQ>
 
   <ServerIPTgwWeixin0>101.91.69.232</ServerIPTgwWeixin0>
-  <ServerIPTgwWeixin1>120.204.201.205</ServerIPTgwWeixin1>
-  <ServerIPTgwWeixin2>116.128.163.45</ServerIPTgwWeixin2>
-  <ServerPortTgwWeixin>14004</ServerPortTgwWeixin>
+  <ServerIPTgwWeixin1>117.144.243.173</ServerIPTgwWeixin1>
+  <ServerIPTgwWeixin2>140.207.135.33</ServerIPTgwWeixin2>
+  <ServerPortTgwWeixin>12002</ServerPortTgwWeixin>
+  
+  <ServerIPTgwGuestCnt>3</ServerIPTgwGuestCnt>
+  <ServerIPTgwGuest0>180.163.21.25</ServerIPTgwGuest0>
+  <ServerIPTgwGuest1>223.167.104.106</ServerIPTgwGuest1>
+  <ServerIPTgwGuest2>117.144.243.188</ServerIPTgwGuest2>
+  <ServerPortTgwGuest>12002</ServerPortTgwGuest>
 
   <ServerIPWeixin>101.226.37.229</ServerIPWeixin>
   <ServerIPQQ>101.226.37.229</ServerIPQQ>
   <ServerPortWeixin>8041</ServerPortWeixin>
   <ServerPortQQ>8041</ServerPortQQ>
+  <ServerIPGuest>10.217.136.30</ServerIPGuest>
+  <ServerPortGuest>8888</ServerPortGuest>
   
-  
+  <ServerIPGuest>101.226.37.229</ServerIPGuest>
+  <ServerPortGuest>8888</ServerPortGuest>
   
   <NotifyUseTgw>1</NotifyUseTgw>
   <NotifyIpTgw0>101.91.69.232</NotifyIpTgw0>
-  <NotifyIpTgw1>120.204.201.205</NotifyIpTgw1>
-  <NotifyIpTgw2>116.128.163.45</NotifyIpTgw2>
+  <NotifyIpTgw1>117.144.243.173</NotifyIpTgw1>
+  <NotifyIpTgw2>140.207.135.33</NotifyIpTgw2>
   <NotifyTgwPort>12005</NotifyTgwPort>
       
   <NotifyServerIP>101.226.37.229</NotifyServerIP>

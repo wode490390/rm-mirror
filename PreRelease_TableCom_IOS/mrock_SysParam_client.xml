@@ -10,7 +10,7 @@
         <ResVersion>0 </ResVersion>
         <CreateTime>   0-00-00 00:00:00</CreateTime>
         <ResEncording>UTF-8</ResEncording>
-        <ContentHash>2521d201dcb1c30e6aacb96c9de420ce</ContentHash>
+        <ContentHash>d5f726e863f73b78a39a0d33bb755605</ContentHash>
     </resHead>
     <resHeadExt type="TResHeadExt">
         <DataOffset>136 </DataOffset>
@@ -490,7 +490,7 @@
 </SysParamConfig_Client>
 <SysParamConfig_Client version="1">
     <m_iParamID>119 </m_iParamID>
-    <m_iParamValue>25100001 </m_iParamValue>
+    <m_iParamValue>25120001 </m_iParamValue>
 </SysParamConfig_Client>
 <SysParamConfig_Client version="1">
     <m_iParamID>120 </m_iParamID>
@@ -794,7 +794,7 @@
 </SysParamConfig_Client>
 <SysParamConfig_Client version="1">
     <m_iParamID>195 </m_iParamID>
-    <m_iParamValue>200 </m_iParamValue>
+    <m_iParamValue>500 </m_iParamValue>
 </SysParamConfig_Client>
 <SysParamConfig_Client version="1">
     <m_iParamID>196 </m_iParamID>

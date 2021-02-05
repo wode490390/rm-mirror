@@ -5,12 +5,12 @@
         <Magic>1397052237 </Magic>
         <Version>6 </Version>
         <Unit>260 </Unit>
-        <Count>1141 </Count>
+        <Count>1144 </Count>
         <MetalibHash>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</MetalibHash>
         <ResVersion>0 </ResVersion>
         <CreateTime>   0-00-00 00:00:00</CreateTime>
         <ResEncording>UTF-8</ResEncording>
-        <ContentHash>8f1204b793623dbfd5f466e0335cc880</ContentHash>
+        <ContentHash>6323763b1e84e7c7b271a8f1c74537d7</ContentHash>
     </resHead>
     <resHeadExt type="TResHeadExt">
         <DataOffset>136 </DataOffset>
@@ -4579,5 +4579,17 @@
 <TxtConfig_Client version="1">
     <m_uiID>1760 </m_uiID>
     <m_szDescriptionZH>联系客服</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>1761 </m_uiID>
+    <m_szDescriptionZH>许可及服务协议</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>1762 </m_uiID>
+    <m_szDescriptionZH>隐私保护指引</m_szDescriptionZH>
+</TxtConfig_Client>
+<TxtConfig_Client version="1">
+    <m_uiID>1763 </m_uiID>
+    <m_szDescriptionZH>儿童隐私保护指引</m_szDescriptionZH>
 </TxtConfig_Client>
 </TxtConfig_Client_Tab>

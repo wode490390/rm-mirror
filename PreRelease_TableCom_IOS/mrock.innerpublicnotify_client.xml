@@ -10,7 +10,7 @@
         <ResVersion>0 </ResVersion>
         <CreateTime>   0-00-00 00:00:00</CreateTime>
         <ResEncording>UTF-8</ResEncording>
-        <ContentHash>3fcdc2b4598f465b95699786031631bf</ContentHash>
+        <ContentHash>72415103b467c7a704f929dd54b8ee18</ContentHash>
     </resHead>
     <resHeadExt type="TResHeadExt">
         <DataOffset>136 </DataOffset>
@@ -41,36 +41,36 @@
     <m_iLoginType>0 </m_iLoginType>
 </InnerPublicNotifyConfig_Client>
 <InnerPublicNotifyConfig_Client version="1">
-    <m_iID>606 </m_iID>
-    <m_iLevel>1 </m_iLevel>
-    <m_iLinkType>0 </m_iLinkType>
-    <m_iContentType>2 </m_iContentType>
-    <m_szTitle></m_szTitle>
-    <m_szContent>http://down.qq.com/wepop/jiezou/20190220_a.jpg</m_szContent>
-    <m_szUrl></m_szUrl>
-    <m_iForce>0 </m_iForce>
-    <m_iPhonetype>0 </m_iPhonetype>
-    <m_iLoginType>0 </m_iLoginType>
-</InnerPublicNotifyConfig_Client>
-<InnerPublicNotifyConfig_Client version="1">
-    <m_iID>607 </m_iID>
+    <m_iID>667 </m_iID>
     <m_iLevel>2 </m_iLevel>
     <m_iLinkType>0 </m_iLinkType>
     <m_iContentType>2 </m_iContentType>
     <m_szTitle></m_szTitle>
-    <m_szContent>http://down.qq.com/wepop/jiezou/20190220_b.jpg</m_szContent>
+    <m_szContent>http://down.qq.com/wepop/jiezou/20200817_04.jpg</m_szContent>
     <m_szUrl></m_szUrl>
     <m_iForce>0 </m_iForce>
     <m_iPhonetype>0 </m_iPhonetype>
     <m_iLoginType>0 </m_iLoginType>
 </InnerPublicNotifyConfig_Client>
 <InnerPublicNotifyConfig_Client version="1">
-    <m_iID>608 </m_iID>
+    <m_iID>668 </m_iID>
+    <m_iLevel>2 </m_iLevel>
+    <m_iLinkType>0 </m_iLinkType>
+    <m_iContentType>2 </m_iContentType>
+    <m_szTitle></m_szTitle>
+    <m_szContent>http://down.qq.com/wepop/jiezou/20200817_05.jpg</m_szContent>
+    <m_szUrl></m_szUrl>
+    <m_iForce>0 </m_iForce>
+    <m_iPhonetype>0 </m_iPhonetype>
+    <m_iLoginType>0 </m_iLoginType>
+</InnerPublicNotifyConfig_Client>
+<InnerPublicNotifyConfig_Client version="1">
+    <m_iID>669 </m_iID>
     <m_iLevel>3 </m_iLevel>
     <m_iLinkType>0 </m_iLinkType>
     <m_iContentType>2 </m_iContentType>
     <m_szTitle></m_szTitle>
-    <m_szContent>http://down.qq.com/wepop/jiezou/20190220_c.jpg</m_szContent>
+    <m_szContent>http://down.qq.com/wepop/jiezou/20200817_06.jpg</m_szContent>
     <m_szUrl></m_szUrl>
     <m_iForce>0 </m_iForce>
     <m_iPhonetype>0 </m_iPhonetype>

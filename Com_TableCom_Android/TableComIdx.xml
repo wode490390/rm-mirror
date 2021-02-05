@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <TableCfg_Tab>
   <TableCfg>
-    <ver>1551</ver>
+    <ver>1579</ver>
   </TableCfg>
   <TableInfo>
 	<TableName>mrock.floornode_client.xml</TableName>
